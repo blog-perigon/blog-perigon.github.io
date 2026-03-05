@@ -1,0 +1,299 @@
+---
+---
+
+@font-face {
+    font-family: 'Latin Modern Mono';
+    src: url('/static/fonts/lmmono10-regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Latin Modern Mono';
+    src: url('/static/fonts/lmmono10-italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@media print {
+    @font-face {
+        font-family: 'Latin Modern Mono';
+        src: url('/static/fonts/lmmono10-regular.otf') format('opentype'),
+             url('/static/fonts/lmmono10-regular.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+    }
+    @font-face {
+        font-family: 'Latin Modern Mono';
+        src: url('/static/fonts/lmmono10-italic.otf') format('opentype'),
+             url('/static/fonts/lmmono10-italic.ttf') format('truetype');
+        font-weight: normal;
+        font-style: italic;
+    }
+}
+
+$base-font-family: "Latin Modern Mono", "Courier New", monospace;
+$base-font-size: 16px;
+$code-font-family: "Latin Modern Mono", "Courier New", monospace;
+
+@import "minima";
+
+// =============================================================================
+// Carousel — progressive enhancement
+// No-JS: stacked images/videos with native controls.
+// JS:    single-item swipeable view.
+// =============================================================================
+
+.carousel {
+  margin: 1.5rem 0;
+  width: 100%;
+  font-family: inherit;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+// ---- No-JS fallback ----
+
+.carousel:not(.carousel-enhanced) .carousel-slide {
+  display: block;
+  margin: 0 0 0.75rem 0;
+  padding: 0;
+  position: relative;
+}
+
+.carousel:not(.carousel-enhanced) .carousel-slide img,
+.carousel:not(.carousel-enhanced) .carousel-slide video {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 80vh;
+  object-fit: contain;
+  background: #111;
+}
+
+.carousel:not(.carousel-enhanced) .carousel-controls {
+  display: none;
+}
+
+.carousel:not(.carousel-enhanced) .carousel-slide:not(:first-child) .carousel-motto {
+  display: none;
+}
+
+// ---- JS-enhanced single-item view ----
+
+.carousel-enhanced {
+  position: relative;
+  background: #111;
+}
+
+.carousel-enhanced .carousel-slide {
+  display: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+.carousel-enhanced .carousel-slide.is-active {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 240px;
+  max-height: 80vh;
+  overflow: hidden;
+}
+
+.carousel-enhanced .carousel-slide img,
+.carousel-enhanced .carousel-slide video {
+  display: block;
+  max-width: 100%;
+  max-height: 80vh;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  margin: 0 auto;
+}
+
+// ---- Motto overlay on lead image ----
+
+.carousel-motto {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: 0;
+  padding: 1.5rem 1rem 0.75rem;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.7));
+  color: #fff;
+  font-style: italic;
+  font-size: 1.05rem;
+  line-height: 1.4;
+  pointer-events: none;
+}
+
+// ---- Controls bar ----
+
+.carousel-controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  padding: 0.5rem 0.75rem;
+  background: #111;
+  user-select: none;
+}
+
+.carousel-prev,
+.carousel-next {
+  background: transparent;
+  border: 1px solid #555;
+  color: #bbb;
+  font-family: inherit;
+  font-size: 1rem;
+  line-height: 1;
+  padding: 0.3rem 0.65rem;
+  cursor: pointer;
+  border-radius: 3px;
+  transition: border-color 0.15s, color 0.15s;
+  flex-shrink: 0;
+
+  &:hover,
+  &:focus-visible {
+    border-color: #ccc;
+    color: #fff;
+    outline: none;
+  }
+
+  &:disabled {
+    opacity: 0.25;
+    cursor: default;
+  }
+}
+
+// ---- Dots ----
+
+.carousel-dots {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  min-width: 0;
+}
+
+.carousel-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #444;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  transition: background 0.15s, transform 0.15s;
+  flex-shrink: 0;
+
+  &.is-active {
+    background: #ddd;
+    transform: scale(1.4);
+  }
+
+  &:hover {
+    background: #999;
+  }
+
+  &:focus-visible {
+    outline: 2px solid #aaa;
+    outline-offset: 2px;
+  }
+}
+
+// =============================================================================
+// Post typography
+// =============================================================================
+
+.post-teaser {
+  color: #555;
+  margin: 0.3rem 0 1rem;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.post-teaser-line {
+  margin: 0.75rem 0 0.25rem;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: #555;
+}
+
+.post-more {
+  color: inherit;
+  white-space: nowrap;
+}
+
+.post-motto {
+  font-style: italic;
+  color: #666;
+  margin: 0.2rem 0 1rem;
+}
+
+// =============================================================================
+// Tags
+// =============================================================================
+
+.post-tags {
+  margin: 1.5rem 0 0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.post-tags-small {
+  margin: 0.5rem 0 0;
+}
+
+.post-tag {
+  display: inline-block;
+  background: #f0f0f0;
+  color: #555;
+  padding: 0.15rem 0.5rem;
+  border-radius: 3px;
+  font-size: 0.8rem;
+  text-decoration: none;
+  transition: background 0.12s, color 0.12s;
+
+  &:hover {
+    background: #ddd;
+    color: #333;
+  }
+}
+
+// =============================================================================
+// Post list (home page)
+// =============================================================================
+
+.post-list {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.post-entry {
+  margin: 0 0 2rem;
+  padding: 0;
+}
+
+.post-entry-title {
+  margin-bottom: 0.2rem;
+}
+
+.post-entry-more {
+  margin-top: 0.5rem;
+}
+
+.post-divider {
+  border: none;
+  border-top: 1px solid #e8e8e8;
+  margin: 2rem 0;
+}

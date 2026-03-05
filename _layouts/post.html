@@ -1,0 +1,44 @@
+---
+layout: default
+---
+<article class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    {% if page.teaser %}
+      <p class="post-teaser">{{ page.teaser }}</p>
+    {% endif %}
+  </header>
+  {% if page.media and page.media.size > 0 %}
+    <div class="carousel" id="carousel-{{ page.slug }}" data-slug="{{ page.slug }}">
+      {% for item in page.media %}
+        {% if item.type == "image" %}
+          <figure class="carousel-slide" {% if item.motto and page.motto %}data-motto="{{ page.motto }}"{% endif %}>
+            <img
+              src="{{ '/static/' | append: page.slug | append: '/' | append: item.file | relative_url }}"
+              alt="{{ page.title }} — photo {{ forloop.index }}"
+              loading="{% if forloop.first %}eager{% else %}lazy{% endif %}">
+            {% if item.motto and page.motto %}
+              <figcaption class="carousel-motto">{{ page.motto }}</figcaption>
+            {% endif %}
+          </figure>
+        {% endif %}
+      {% endfor %}
+      <div class="carousel-controls" aria-hidden="true">
+        <button class="carousel-prev" aria-label="Previous">&#8592;</button>
+        <div class="carousel-dots"></div>
+        <button class="carousel-next" aria-label="Next">&#8594;</button>
+      </div>
+    </div>
+  {% endif %}
+  <div class="post-content">
+    {{ content }}
+  </div>
+  {% if page.tags and page.tags.size > 0 %}
+    <div class="post-tags">
+      {% for tag in page.tags %}
+        <a href="{{ '/tags/' | relative_url }}#{{ tag }}" class="post-tag">#{{ tag }}</a>
+      {% endfor %}
+    </div>
+  {% endif %}
+</article>
+<script src="{{ '/static/js/carousel.js' | relative_url }}" defer></script>

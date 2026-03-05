@@ -1,0 +1,33 @@
+---
+layout: default
+title: Tags
+permalink: /tags/
+---
+<div class="tags-page">
+  <h1>Tags</h1>
+  {% assign sorted_tags = site.tags | sort %}
+  {% for tag in sorted_tags %}
+    <section class="tag-group" id="{{ tag[0] }}">
+      <h2 class="tag-heading">#{{ tag[0] }} <span class="tag-count">({{ tag[1].size }})</span></h2>
+      <ul class="tag-posts">
+        {% for post in tag[1] %}
+          <li>
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+            {% if post.teaser %}<p class="post-teaser">{{ post.teaser }}</p>{% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+  {% endfor %}
+</div>
+<style>
+  .tags-page h1 { margin-bottom: 1.5rem; }
+  .tag-group { margin-bottom: 2rem; }
+  .tag-heading { font-size: 1.2rem; margin-bottom: 0.5rem; }
+  .tag-count { color: #999; font-weight: normal; font-size: 0.9rem; }
+  .tag-posts { list-style: none; padding: 0; margin: 0; }
+  .tag-posts li { margin-bottom: 0.75rem; }
+  .tag-posts time { display: block; font-size: 0.8rem; color: #999; }
+  .tag-posts .post-teaser { font-size: 0.85rem; color: #666; margin: 0.2rem 0 0; }
+</style>
