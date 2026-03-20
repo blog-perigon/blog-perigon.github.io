@@ -2,18 +2,26 @@
   Reusable carousel partial.
   Parameters: media, slug, motto, title, mode (optional: "full" or "card", default "card")
   Usage: {% include carousel.html media=post.media slug=post.slug motto=post.motto title=post.title mode="full" %}
+
+  Each media item should have a `url` field with the full or relative URL.
+  Falls back to constructing /static/{slug}/{file} if url is missing (legacy posts).
 {% endcomment %}
 {% assign carousel_mode = include.mode | default: "card" %}
 {% if include.media and include.media.size > 0 %}
   <div class="carousel" id="carousel-{{ include.slug }}" data-slug="{{ include.slug }}" data-mode="{{ carousel_mode }}">
     {% for item in include.media %}
+      {% if item.url %}
+        {% assign media_url = item.url %}
+      {% else %}
+        {% assign media_url = '/static/' | append: include.slug | append: '/' | append: item.file | relative_url %}
+      {% endif %}
       {% if item.type == "image" %}
         <figure class="carousel-slide"
           {% if item.width and item.height %}style="aspect-ratio: {{ item.width }}/{{ item.height }}"{% endif %}
           {% if forloop.first and include.motto %}data-motto="{{ include.motto }}"{% endif %}>
           <img
-            src="{{ '/static/' | append: include.slug | append: '/' | append: item.file | relative_url }}"
-            data-src="{{ '/static/' | append: include.slug | append: '/' | append: item.file | relative_url }}"
+            src="{{ media_url }}"
+            data-src="{{ media_url }}"
             alt="{{ include.title }}{% if forloop.first and include.motto %} — {{ include.motto }}{% endif %}"
             {% if item.width and item.height %}width="{{ item.width }}" height="{{ item.height }}"{% endif %}
             loading="{% if forloop.first %}eager{% else %}lazy{% endif %}">
@@ -25,8 +33,8 @@
         <figure class="carousel-slide"
           {% if item.width and item.height %}style="aspect-ratio: {{ item.width }}/{{ item.height }}"{% endif %}>
           <video
-            src="{{ '/static/' | append: include.slug | append: '/' | append: item.file | relative_url }}"
-            data-src="{{ '/static/' | append: include.slug | append: '/' | append: item.file | relative_url }}"
+            src="{{ media_url }}"
+            data-src="{{ media_url }}"
             {% if item.width and item.height %}width="{{ item.width }}" height="{{ item.height }}"{% endif %}
             controls
             preload="metadata"
