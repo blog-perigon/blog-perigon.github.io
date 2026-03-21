@@ -8,11 +8,11 @@ teaser: "I really like that little expression of nature, nobody put the sunflowe
 tags:
   - test
   - nature
-image: "https://static.perigon.de/static/20260320-day-20-sunflowers-testing-it-test/316545818639d3bf26c1a3e8676f7d0a54d815792fda829e8270d3108a73f741.jpg"
+image: "https://static.perigon.de/static/20260320-day-20-sunflowers-testing-it-test/ef2d11d62a250e679dc5377d6560d11804347970cb4c79316eb2ee300bbf3db4.jpg"
 media:
-  - file: 316545818639d3bf26c1a3e8676f7d0a54d815792fda829e8270d3108a73f741.jpg
+  - file: ef2d11d62a250e679dc5377d6560d11804347970cb4c79316eb2ee300bbf3db4.jpg
     type: image
-    url: https://static.perigon.de/static/20260320-day-20-sunflowers-testing-it-test/316545818639d3bf26c1a3e8676f7d0a54d815792fda829e8270d3108a73f741.jpg
+    url: https://static.perigon.de/static/20260320-day-20-sunflowers-testing-it-test/ef2d11d62a250e679dc5377d6560d11804347970cb4c79316eb2ee300bbf3db4.jpg
     width: 810
     height: 1080
     motto: true
