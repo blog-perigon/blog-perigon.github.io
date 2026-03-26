@@ -12,7 +12,7 @@ layout: default
 
             <div class="post-card-body">
               {% if post.teaser %}
-                <p class="post-card-teaser">{{ post.teaser }}</p>
+                <p class="post-card-teaser">{{ post.teaser }} ... more</p>
               {% endif %}
 
               <time class="post-card-meta" datetime="{{ post.date | date_to_xmlschema }}">
