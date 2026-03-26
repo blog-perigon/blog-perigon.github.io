@@ -45,3 +45,5 @@ media:
 I am trying to get to the Mediterranean as fast as possible as it is getting cold in Germany for the weekend. Munich greeted me with snow.
 
 Found some nice Yemeni restaurant -> Never had any food poisoning with Yemeni or Lebanese cuisine!
+
+PS: For the Germans: please imagine the usual complaints about Deutsche Bahn: Half of the train missing, Oberleitungsschaden, ....
