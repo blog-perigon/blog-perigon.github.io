@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Day 13: Still stuck in Georgia - 12.000 km - The Complete Silk Road #silkroad"
+title: "Day 13: Stuck in Georgia, Batumi Edition - 12.000 km - The Complete Silk Road #silkroad"
 date: 2026-04-07
 slug: 20260407-day-13-still-stuck-in-georgia-12000-km-the-complete-silk-road-silkroad
-motto: "Still stuck in Georgia"
+motto: "Stuck in Georgia, Batumi Edition"
 teaser: "It is probably getting repetitive, I am still waiting for the permission to cross the border to Azerbaijan, I applied for more than 40 days ago."
 tags:
   - silkroad
