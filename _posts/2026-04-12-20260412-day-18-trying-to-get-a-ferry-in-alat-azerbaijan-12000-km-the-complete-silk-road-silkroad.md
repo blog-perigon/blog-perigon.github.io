@@ -7,14 +7,19 @@ motto: "Trying to get a Ferry in Alat, Azerbaijan"
 teaser: "So I got stuck again - after having to fly to Baku, Azerbaijan because I did not get a permission to enter Azerbaijan on a land border - I am now stuck in Alat…"
 tags:
   - silkroad
-image: "https://static.perigon.de/static/20260412-day-18-trying-to-get-a-ferry-in-alat-azerbaijan-12000-km-the-complete-silk-road-silkroad/b937d77629e3d08a077836d4b1a25d5f909235b3409b04c210ef0916dbc0902a.jpg"
+image: "https://static.perigon.de/static/20260412-day-18-trying-to-get-a-ferry-in-alat-azerbaijan-12000-km-the-complete-silk-road-silkroad/f26446f2dbf6a58b5ef9b3d5b7c9b4ebae438e7f2507cc78f6dc6fc525c8360d.jpg"
 media:
+  - file: f26446f2dbf6a58b5ef9b3d5b7c9b4ebae438e7f2507cc78f6dc6fc525c8360d.jpg
+    type: image
+    url: https://static.perigon.de/static/20260412-day-18-trying-to-get-a-ferry-in-alat-azerbaijan-12000-km-the-complete-silk-road-silkroad/f26446f2dbf6a58b5ef9b3d5b7c9b4ebae438e7f2507cc78f6dc6fc525c8360d.jpg
+    width: 810
+    height: 1080
+    motto: true
   - file: b937d77629e3d08a077836d4b1a25d5f909235b3409b04c210ef0916dbc0902a.jpg
     type: image
     url: https://static.perigon.de/static/20260412-day-18-trying-to-get-a-ferry-in-alat-azerbaijan-12000-km-the-complete-silk-road-silkroad/b937d77629e3d08a077836d4b1a25d5f909235b3409b04c210ef0916dbc0902a.jpg
     width: 1080
     height: 1080
-    motto: true
   - file: b836fdf9e6b6a9f415ad2de60faf97d60ae611d972b3b0c0c4e97418ec5ba734.jpg
     type: image
     url: https://static.perigon.de/static/20260412-day-18-trying-to-get-a-ferry-in-alat-azerbaijan-12000-km-the-complete-silk-road-silkroad/b836fdf9e6b6a9f415ad2de60faf97d60ae611d972b3b0c0c4e97418ec5ba734.jpg
@@ -28,11 +33,6 @@ media:
   - file: 3a9eda4ab846489948d758a9197879f105a612b0556a797c8ad440e414f13289.jpg
     type: image
     url: https://static.perigon.de/static/20260412-day-18-trying-to-get-a-ferry-in-alat-azerbaijan-12000-km-the-complete-silk-road-silkroad/3a9eda4ab846489948d758a9197879f105a612b0556a797c8ad440e414f13289.jpg
-    width: 810
-    height: 1080
-  - file: f26446f2dbf6a58b5ef9b3d5b7c9b4ebae438e7f2507cc78f6dc6fc525c8360d.jpg
-    type: image
-    url: https://static.perigon.de/static/20260412-day-18-trying-to-get-a-ferry-in-alat-azerbaijan-12000-km-the-complete-silk-road-silkroad/f26446f2dbf6a58b5ef9b3d5b7c9b4ebae438e7f2507cc78f6dc6fc525c8360d.jpg
     width: 810
     height: 1080
   - file: f8307bc718775653c65e373059e4588911f1c71108732bdd7e5aa4295418ff58.jpg
@@ -61,3 +61,5 @@ There are 2 ferries to Kuryk in port, though for some reason it is not possible 
 If the ferry currently coming from Kuryk does not arrive and leave within the next 3 days, there will be no ferry for the next 5 - 6 days, as there is a big storm coming.
 
 On my way to Alat I got myself a Pizza and got some food and water, I am so happy that I can eat again and food stays in :)
+
+By the way: the bus that you can see is one that I should have taken and was told after it left.
