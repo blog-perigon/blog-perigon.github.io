@@ -35,6 +35,11 @@ media:
     url: https://static.perigon.de/static/20260412-day-18-trying-to-get-a-ferry-in-alat-azerbaijan-12000-km-the-complete-silk-road-silkroad/f26446f2dbf6a58b5ef9b3d5b7c9b4ebae438e7f2507cc78f6dc6fc525c8360d.jpg
     width: 810
     height: 1080
+  - file: f8307bc718775653c65e373059e4588911f1c71108732bdd7e5aa4295418ff58.jpg
+    type: image
+    url: https://static.perigon.de/static/20260412-day-18-trying-to-get-a-ferry-in-alat-azerbaijan-12000-km-the-complete-silk-road-silkroad/f8307bc718775653c65e373059e4588911f1c71108732bdd7e5aa4295418ff58.jpg
+    width: 810
+    height: 1080
   - file: 9611213005be1536915505a808cbd4d2d18b377c5bfb027c947ea5e25d761377.jpg
     type: image
     url: https://static.perigon.de/static/20260412-day-18-trying-to-get-a-ferry-in-alat-azerbaijan-12000-km-the-complete-silk-road-silkroad/9611213005be1536915505a808cbd4d2d18b377c5bfb027c947ea5e25d761377.jpg
@@ -55,4 +60,4 @@ There are 2 ferries to Kuryk in port, though for some reason it is not possible 
 
 If the ferry currently coming from Kuryk does not arrive and leave within the next 3 days, there will be no ferry for the next 5 - 6 days, as there is a big storm coming.
 
-On my way to Alat I got myself a Pizza, I am so happy that I can eat again and food stays in :)
+On my way to Alat I got myself a Pizza and got some food and water, I am so happy that I can eat again and food stays in :)
