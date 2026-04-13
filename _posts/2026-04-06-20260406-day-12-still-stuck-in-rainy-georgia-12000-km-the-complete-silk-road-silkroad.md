@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Day 12: Still stuck in rainy Georgia - 12.000 km - The Complete Silk Road #silkroad"
+title: "Day 12: Stuck in Georgia, Batumi edition - 12.000 km - The Complete Silk Road #silkroad"
 date: 2026-04-06
 slug: 20260406-day-12-still-stuck-in-rainy-georgia-12000-km-the-complete-silk-road-silkroad
-motto: "Still stuck in rainy Georgia"
+motto: "Stuck in Georgia, Batumi edition"
 teaser: "I am still waiting for my permission to cross the land border to Azerbaijan, had to leave the hotel, they had no room for tonight."
 tags:
   - silkroad
