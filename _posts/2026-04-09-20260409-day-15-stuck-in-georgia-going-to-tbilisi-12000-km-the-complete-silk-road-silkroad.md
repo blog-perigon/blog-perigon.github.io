@@ -7,14 +7,19 @@ motto: "Stuck in Georgia, Going to Tbilisi"
 teaser: "I am still stuck in Georgia, and have not got the permission to enter Azerbaijan on a land border, though I decided to go to Tbilisi in case I get it before the…"
 tags:
   - silkroad
-image: "https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/7fe18b7e3f030e8fe0d76cb4032b5cf864be82ae28c37da075de12cd7147e497.jpg"
+image: "https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/a9a321bf53311d83237f8205c09747b9c59eda188302183020314de089ae8958.jpg"
 media:
+  - file: a9a321bf53311d83237f8205c09747b9c59eda188302183020314de089ae8958.jpg
+    type: image
+    url: https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/a9a321bf53311d83237f8205c09747b9c59eda188302183020314de089ae8958.jpg
+    width: 720
+    height: 687
+    motto: true
   - file: 7fe18b7e3f030e8fe0d76cb4032b5cf864be82ae28c37da075de12cd7147e497.jpg
     type: image
     url: https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/7fe18b7e3f030e8fe0d76cb4032b5cf864be82ae28c37da075de12cd7147e497.jpg
     width: 1080
     height: 1080
-    motto: true
   - file: 1978a430db973db7ae9e87be86e8d16a2610d95d2eebc4d6bc6f9c1ae43df5ac.jpg
     type: image
     url: https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/1978a430db973db7ae9e87be86e8d16a2610d95d2eebc4d6bc6f9c1ae43df5ac.jpg
@@ -100,11 +105,6 @@ media:
     url: https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/1cda986d9f23085822d8f83e51bde459cfecb4bc12822b66af51529cc565a144.jpg
     width: 1080
     height: 810
-  - file: a9a321bf53311d83237f8205c09747b9c59eda188302183020314de089ae8958.jpg
-    type: image
-    url: https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/a9a321bf53311d83237f8205c09747b9c59eda188302183020314de089ae8958.jpg
-    width: 810
-    height: 1080
 ---
 
 I am still stuck in Georgia, and have not got the permission to enter Azerbaijan on a land border, though I decided to go to Tbilisi in case I get it before the Orthodox Easter.
