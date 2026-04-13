@@ -9,18 +9,23 @@ teaser: "I took the cheapest flight I could find - 123 Euro to Baku.
 There was some art in the airport's lounge."
 tags:
   - silkroad
-image: "https://static.perigon.de/static/20260411-day-17-flight-to-baku-12000-km-the-complete-silk-road-silkroad/ec34303819110e1c65c40a727b34579ec1167e28bfc4c930fa67dfa9f2414924.jpg"
+image: "https://static.perigon.de/static/20260411-day-17-flight-to-baku-12000-km-the-complete-silk-road-silkroad/994fd567f138bce1e8e5fa7bad74ddee4227042a34f0d16cca1aca2c440560ea.jpg"
 media:
-  - file: ec34303819110e1c65c40a727b34579ec1167e28bfc4c930fa67dfa9f2414924.jpg
+  - file: 994fd567f138bce1e8e5fa7bad74ddee4227042a34f0d16cca1aca2c440560ea.jpg
     type: image
-    url: https://static.perigon.de/static/20260411-day-17-flight-to-baku-12000-km-the-complete-silk-road-silkroad/ec34303819110e1c65c40a727b34579ec1167e28bfc4c930fa67dfa9f2414924.jpg
-    width: 810
-    height: 1080
+    url: https://static.perigon.de/static/20260411-day-17-flight-to-baku-12000-km-the-complete-silk-road-silkroad/994fd567f138bce1e8e5fa7bad74ddee4227042a34f0d16cca1aca2c440560ea.jpg
+    width: 1080
+    height: 810
     motto: true
   - file: a4dee2fa6d8209e260c474692b76d7f678c269491e100dbbd6ef0c5919674b8e.jpg
     type: image
     url: https://static.perigon.de/static/20260411-day-17-flight-to-baku-12000-km-the-complete-silk-road-silkroad/a4dee2fa6d8209e260c474692b76d7f678c269491e100dbbd6ef0c5919674b8e.jpg
     width: 1080
+    height: 1080
+  - file: ec34303819110e1c65c40a727b34579ec1167e28bfc4c930fa67dfa9f2414924.jpg
+    type: image
+    url: https://static.perigon.de/static/20260411-day-17-flight-to-baku-12000-km-the-complete-silk-road-silkroad/ec34303819110e1c65c40a727b34579ec1167e28bfc4c930fa67dfa9f2414924.jpg
+    width: 810
     height: 1080
   - file: 80a7d787ee16b0e3ccbf2c45dd13c3e287a07acebc6362d2ebe9349273f32ea3.jpg
     type: image
@@ -37,11 +42,6 @@ media:
     url: https://static.perigon.de/static/20260411-day-17-flight-to-baku-12000-km-the-complete-silk-road-silkroad/4e3b8d04a707d1c5b39458ddc7762a0d2c6b0c67d258f3977c0c63bb10d9e6bf.jpg
     width: 810
     height: 1080
-  - file: 994fd567f138bce1e8e5fa7bad74ddee4227042a34f0d16cca1aca2c440560ea.jpg
-    type: image
-    url: https://static.perigon.de/static/20260411-day-17-flight-to-baku-12000-km-the-complete-silk-road-silkroad/994fd567f138bce1e8e5fa7bad74ddee4227042a34f0d16cca1aca2c440560ea.jpg
-    width: 1080
-    height: 810
   - file: 95359c12d30c519871aaebf476af03d434d31e742e0e987c65b01ad2a4c1d502.jpg
     type: image
     url: https://static.perigon.de/static/20260411-day-17-flight-to-baku-12000-km-the-complete-silk-road-silkroad/95359c12d30c519871aaebf476af03d434d31e742e0e987c65b01ad2a4c1d502.jpg
