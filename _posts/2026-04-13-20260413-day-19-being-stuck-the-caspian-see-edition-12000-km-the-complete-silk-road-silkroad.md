@@ -4,7 +4,7 @@ title: "Day 19: Being stuck: The Caspian See Edition - 12.000 km - The Complete 
 date: 2026-04-13
 slug: 20260413-day-19-being-stuck-the-caspian-see-edition-12000-km-the-complete-silk-road-silkroad
 motto: "Being stuck: The Caspian See Edition"
-teaser: "Update: The ship will not cross the Kaspian sea for the next 2 or 3 days, we will be moored about 30km of coast to weather the coming storm."
+teaser: "Update: I am now on the ferry, but the ship will not cross the Kaspian sea for the next 2 or 3 days, we will be moored about 30km of coast to weather the coming…"
 tags:
   - silkroad
 image: "https://static.perigon.de/static/20260413-day-19-being-stuck-the-caspian-see-edition-12000-km-the-complete-silk-road-silkroad/2eb6666c4e66103cdda6f67559351887bd5719edc638150f5aae95786ae5a663.jpg"
@@ -32,7 +32,7 @@ media:
     height: 810
 ---
 
-Update: The ship will not cross the Kaspian sea for the next 2 or 3 days, we will be moored about 30km of coast to weather the coming storm.
+Update: I am now on the ferry, but the ship will not cross the Kaspian sea for the next 2 or 3 days, we will be moored about 30km of coast to weather the coming storm.
 
 I am still stuck in Alat. The two ferries to Kuryk left this morning, though it was not possible to board them.
 
