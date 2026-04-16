@@ -15,9 +15,9 @@ media:
     width: 1080
     height: 810
     motto: true
-  - file: 69ae1ab71cb0fe9d053d91e9a9b396232e61dd57dbb1b8a164329a1e9306ce2a.jpg
+  - file: 94eebac961a9b8c259c1d3718ff3e21a7967d93c16701fd6a33d09ab022cf26c.jpg
     type: image
-    url: https://static.perigon.de/static/20260414-day-20-being-stuck-the-caspian-sea-edition-2-12000-km-the-complete-silk-road-silkroad/69ae1ab71cb0fe9d053d91e9a9b396232e61dd57dbb1b8a164329a1e9306ce2a.jpg
+    url: https://static.perigon.de/static/20260414-day-20-being-stuck-the-caspian-sea-edition-2-12000-km-the-complete-silk-road-silkroad/94eebac961a9b8c259c1d3718ff3e21a7967d93c16701fd6a33d09ab022cf26c.jpg
     width: 1080
     height: 1080
   - file: d610781b06f816fd349998c1a0a0a9cb17d1246bce67d248afee31e9277099a0.jpg
