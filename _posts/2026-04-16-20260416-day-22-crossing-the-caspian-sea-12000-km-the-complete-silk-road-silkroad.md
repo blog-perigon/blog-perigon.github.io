@@ -7,19 +7,19 @@ motto: "Crossing the Caspian Sea"
 teaser: "Having been woken up by the lifting of the anchor, we spend the day crossing the caspian sea."
 tags:
   - silkroad
-image: "https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/f3b898ab5a4f27dff01ca204540404f2a638cec7218698372a8c583022cbcfe0.jpg"
+image: "https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/197e381b06dcd47fac3ec24dc1d2935833531af23a9d82ebc3c7a7aeef0dd7c4.jpg"
 media:
-  - file: f3b898ab5a4f27dff01ca204540404f2a638cec7218698372a8c583022cbcfe0.jpg
-    type: image
-    url: https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/f3b898ab5a4f27dff01ca204540404f2a638cec7218698372a8c583022cbcfe0.jpg
-    width: 1080
-    height: 1080
-    motto: true
   - file: 197e381b06dcd47fac3ec24dc1d2935833531af23a9d82ebc3c7a7aeef0dd7c4.jpg
     type: image
     url: https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/197e381b06dcd47fac3ec24dc1d2935833531af23a9d82ebc3c7a7aeef0dd7c4.jpg
     width: 1080
     height: 810
+    motto: true
+  - file: f3b898ab5a4f27dff01ca204540404f2a638cec7218698372a8c583022cbcfe0.jpg
+    type: image
+    url: https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/f3b898ab5a4f27dff01ca204540404f2a638cec7218698372a8c583022cbcfe0.jpg
+    width: 1080
+    height: 1080
   - file: b6f7000df8644a13b2588a6d1e2c2b2cce117fb1b6e7396135d7e52b29e478b9.jpg
     type: image
     url: https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/b6f7000df8644a13b2588a6d1e2c2b2cce117fb1b6e7396135d7e52b29e478b9.jpg
