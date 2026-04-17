@@ -4,7 +4,7 @@ title: "Day 21: Being Stuck: The Caspian Sea Edition #3 - 12.000 km - The Comple
 date: 2026-04-15
 slug: 20260415-day-21-being-stuck-the-caspian-sea-edition-3-12000-km-the-complete-silk-road-silkroad
 motto: "Being Stuck: The Caspian Sea Edition #3"
-teaser: "[Update from two days later: arrived in the port of Kuryk] [Update from next day: we are moving! :)] .. I spent my whole day within a circle of about 200m radius, the anchor chain is less then 50m, due to the shifting wind the ship almost completed a full circle."
+teaser: "I spent my whole day within a circle of about 200m radius, the anchor chain is less then 50m, due to the shifting wind the ship almost completed a full circle."
 tags:
   - silkroad
 image: "https://static.perigon.de/static/20260415-day-21-being-stuck-the-caspian-sea-edition-3-12000-km-the-complete-silk-road-silkroad/fb3cc43e315ef79860d09186f6bd112501202dd345111e17daf797c2cb3981ee.jpg"
@@ -56,9 +56,6 @@ media:
     width: 1080
     height: 810
 ---
-
-[Update from two days later: arrived in the port of Kuryk]
-[Update from next day: we are moving! :)]
 
 I spent my whole day within a circle of about 200m radius, the anchor chain is less then 50m, due to the shifting wind the ship almost completed a full circle.
 
