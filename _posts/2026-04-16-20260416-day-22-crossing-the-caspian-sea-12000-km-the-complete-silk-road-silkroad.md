@@ -4,7 +4,7 @@ title: "Day 22: Crossing the Caspian Sea - 12.000 km - The Complete Silk Road #s
 date: 2026-04-16
 slug: 20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad
 motto: "Crossing the Caspian Sea"
-teaser: "Having been woken up by the lifting of the anchor, we spend the day crossing the caspian sea."
+teaser: "Having been woken up by the lifting of the anchor, we spent the day crossing the caspian sea."
 tags:
   - silkroad
 image: "https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/197e381b06dcd47fac3ec24dc1d2935833531af23a9d82ebc3c7a7aeef0dd7c4.jpg"
@@ -77,5 +77,4 @@ media:
     height: 1080
 ---
 
-Having been woken up by the lifting of the anchor, we spend the day crossing the caspian sea.
-
+Having been woken up by the lifting of the anchor, we spent the day crossing the caspian sea. Improved my durak play and learned a turkish card game that - at first - looks as if has no rules.
