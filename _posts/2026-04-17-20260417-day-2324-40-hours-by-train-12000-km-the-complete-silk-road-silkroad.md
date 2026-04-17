@@ -7,14 +7,19 @@ motto: "40 hours by train"
 teaser: "I am taking the train to Shymkent/Chimkent/Шымкент. It will take more than 40 hours. Lot's of time to rest."
 tags:
   - silkroad
-image: "https://static.perigon.de/static/20260417-day-2324-40-hours-by-train-12000-km-the-complete-silk-road-silkroad/cf67f82f41af9da048d38d0ad01bba5901ade84bc2595a55a3d4c0c594174d99.jpg"
+image: "https://static.perigon.de/static/20260417-day-2324-40-hours-by-train-12000-km-the-complete-silk-road-silkroad/5a2758ceebc72953525c75f02c51290299b4edf0ec584e5497aab4891b385e36.jpg"
 media:
+  - file: 5a2758ceebc72953525c75f02c51290299b4edf0ec584e5497aab4891b385e36.jpg
+    type: image
+    url: https://static.perigon.de/static/20260417-day-2324-40-hours-by-train-12000-km-the-complete-silk-road-silkroad/5a2758ceebc72953525c75f02c51290299b4edf0ec584e5497aab4891b385e36.jpg
+    width: 810
+    height: 1080
+    motto: true
   - file: cf67f82f41af9da048d38d0ad01bba5901ade84bc2595a55a3d4c0c594174d99.jpg
     type: image
     url: https://static.perigon.de/static/20260417-day-2324-40-hours-by-train-12000-km-the-complete-silk-road-silkroad/cf67f82f41af9da048d38d0ad01bba5901ade84bc2595a55a3d4c0c594174d99.jpg
     width: 1080
     height: 1080
-    motto: true
   - file: b0e4ef2f4a81b3fa128e8e33f378c33715b9c97193cdb899d83c97700f1c2397.jpg
     type: image
     url: https://static.perigon.de/static/20260417-day-2324-40-hours-by-train-12000-km-the-complete-silk-road-silkroad/b0e4ef2f4a81b3fa128e8e33f378c33715b9c97193cdb899d83c97700f1c2397.jpg
@@ -33,11 +38,6 @@ media:
   - file: 0778bf63b594f85fa1578e7c99123b0255196cc61e73819965f05bf4aa8f6795.jpg
     type: image
     url: https://static.perigon.de/static/20260417-day-2324-40-hours-by-train-12000-km-the-complete-silk-road-silkroad/0778bf63b594f85fa1578e7c99123b0255196cc61e73819965f05bf4aa8f6795.jpg
-    width: 810
-    height: 1080
-  - file: 5a2758ceebc72953525c75f02c51290299b4edf0ec584e5497aab4891b385e36.jpg
-    type: image
-    url: https://static.perigon.de/static/20260417-day-2324-40-hours-by-train-12000-km-the-complete-silk-road-silkroad/5a2758ceebc72953525c75f02c51290299b4edf0ec584e5497aab4891b385e36.jpg
     width: 810
     height: 1080
   - file: 9145e5ffe1d0791be3b487c085b810f5c4998083af29ceb1fb0d8ed53867fadf.jpg
