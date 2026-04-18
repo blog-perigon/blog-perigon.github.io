@@ -4,7 +4,7 @@ title: "Day 23+24: 2000 km / 40 hours by train - 12.000 km - The Complete Silk R
 date: 2026-04-17
 slug: 20260417-day-2324-2000-km-40-hours-by-train-12000-km-the-complete-silk-road-silkroad
 motto: "2000 km / 40 hours by train"
-teaser: "[Update: change of plans, will continue to Almaty, had problems in the train] .. I am taking the train to Shymkent/Chimkent/Шымкент. It will take more than 40 hours. Lot's of time to rest. :)"
+teaser: "[Update: change of plans, will continue to Almaty, had trouble in the train] .. I am taking the train to Shymkent/Chimkent/Шымкент. It will take more than 40 hours. Lot's of time to rest. :)"
 tags:
   - silkroad
 image: "https://static.perigon.de/static/20260417-day-2324-2000-km-40-hours-by-train-12000-km-the-complete-silk-road-silkroad/5a2758ceebc72953525c75f02c51290299b4edf0ec584e5497aab4891b385e36.jpg"
@@ -62,6 +62,6 @@ media:
     height: 1080
 ---
 
-[Update: change of plans, will continue to Almaty, had problems in the train] .. I am taking the train to Shymkent/Chimkent/Шымкент. It will take more than 40 hours. Lot's of time to rest. :)
+[Update: change of plans, will continue to Almaty, had trouble in the train] .. I am taking the train to Shymkent/Chimkent/Шымкент. It will take more than 40 hours. Lot's of time to rest. :)
 
 The water in the cup is not tea, that is how it came out of the Titan water boiler. After 10 hours it cleared up a bit. Of course the color of the water concerned nobody except the German (me) 😂
