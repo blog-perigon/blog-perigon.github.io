@@ -34,27 +34,22 @@ media:
     type: image
     url: https://static.perigon.de/static/20260421-day-27-discovering-almaty-12000-km-the-complete-silk-road-silkroad/84a3a5f3049ada80e29b13aacf2babb6571e1f60b34d75a794b3c3b8367d045c.jpg
     width: 1080
-    height: 810
-  - file: 61ff42e82d19b64cb9ec7d7b956001b15ca6031516cfc96094b13e599d6eba21.jpg
+    height: 626
+  - file: 6c997440f2de45ca1c5b8f5cb54aa79571f6425135bd2a3e3c3fab17a8f66c61.jpg
     type: image
-    url: https://static.perigon.de/static/20260421-day-27-discovering-almaty-12000-km-the-complete-silk-road-silkroad/61ff42e82d19b64cb9ec7d7b956001b15ca6031516cfc96094b13e599d6eba21.jpg
+    url: https://static.perigon.de/static/20260421-day-27-discovering-almaty-12000-km-the-complete-silk-road-silkroad/6c997440f2de45ca1c5b8f5cb54aa79571f6425135bd2a3e3c3fab17a8f66c61.jpg
     width: 1080
-    height: 810
-  - file: fb1d99344796f8bd4fa04c468d75abbfa4b3806c77a4bb958e2325442662cc15.jpg
+    height: 569
+  - file: cc1000410d9ed9c401450eb3e701dea90702802fb64de813db83520df76626f5.jpg
     type: image
-    url: https://static.perigon.de/static/20260421-day-27-discovering-almaty-12000-km-the-complete-silk-road-silkroad/fb1d99344796f8bd4fa04c468d75abbfa4b3806c77a4bb958e2325442662cc15.jpg
+    url: https://static.perigon.de/static/20260421-day-27-discovering-almaty-12000-km-the-complete-silk-road-silkroad/cc1000410d9ed9c401450eb3e701dea90702802fb64de813db83520df76626f5.jpg
     width: 1080
-    height: 810
-  - file: d3afeeacf0469bb53aa3b71ee68f06c3f761a86763512977c7724d867870896a.jpg
+    height: 630
+  - file: a6cf76c5295e370582f3ab55efab8d629f7559cf5100e2059c95019422b010db.jpg
     type: image
-    url: https://static.perigon.de/static/20260421-day-27-discovering-almaty-12000-km-the-complete-silk-road-silkroad/d3afeeacf0469bb53aa3b71ee68f06c3f761a86763512977c7724d867870896a.jpg
+    url: https://static.perigon.de/static/20260421-day-27-discovering-almaty-12000-km-the-complete-silk-road-silkroad/a6cf76c5295e370582f3ab55efab8d629f7559cf5100e2059c95019422b010db.jpg
     width: 1080
-    height: 538
-  - file: d8351e927d71f88d88324e371e0fe4838b2c4bb3f8a457f53822fd78cca2d697.jpg
-    type: image
-    url: https://static.perigon.de/static/20260421-day-27-discovering-almaty-12000-km-the-complete-silk-road-silkroad/d8351e927d71f88d88324e371e0fe4838b2c4bb3f8a457f53822fd78cca2d697.jpg
-    width: 1080
-    height: 598
+    height: 624
   - file: 010c64487a5161b8aaa236f175cec3a5487635f2e9f4e93e024d1b9363b009b3.jpg
     type: image
     url: https://static.perigon.de/static/20260421-day-27-discovering-almaty-12000-km-the-complete-silk-road-silkroad/010c64487a5161b8aaa236f175cec3a5487635f2e9f4e93e024d1b9363b009b3.jpg
@@ -65,6 +60,16 @@ media:
     url: https://static.perigon.de/static/20260421-day-27-discovering-almaty-12000-km-the-complete-silk-road-silkroad/afff06f89011f7b651f59270942ca1f047a25cb869614c422893948e5c3cd32d.jpg
     width: 689
     height: 1080
+  - file: d3afeeacf0469bb53aa3b71ee68f06c3f761a86763512977c7724d867870896a.jpg
+    type: image
+    url: https://static.perigon.de/static/20260421-day-27-discovering-almaty-12000-km-the-complete-silk-road-silkroad/d3afeeacf0469bb53aa3b71ee68f06c3f761a86763512977c7724d867870896a.jpg
+    width: 1080
+    height: 538
+  - file: d8351e927d71f88d88324e371e0fe4838b2c4bb3f8a457f53822fd78cca2d697.jpg
+    type: image
+    url: https://static.perigon.de/static/20260421-day-27-discovering-almaty-12000-km-the-complete-silk-road-silkroad/d8351e927d71f88d88324e371e0fe4838b2c4bb3f8a457f53822fd78cca2d697.jpg
+    width: 1080
+    height: 598
 ---
 
 Today I spent 8 hours and 63km discovering Almaty and it's closest mountains. Tomorrow I will cross the border to China.
