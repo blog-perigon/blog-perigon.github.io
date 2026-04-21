@@ -4,7 +4,7 @@ title: "Day 0: Chinese Language Cheat Sheet - 12.000 km - The Complete Silk Road
 date: 2026-03-25
 slug: 20260325-day-0-chinese-cheat-sheet-12000-km-the-complete-silk-road-silkroad
 motto: "Chinese Language Cheat Sheet"
-teaser: "Chinese Cheat Sheet"
+teaser: "Chinese Language Cheat Sheet"
 tags:
   - silkroad
 ---
