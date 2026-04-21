@@ -36,6 +36,63 @@ tags:
 
 ---
 
+### 🔢 Basic Numbers (0–10)
+
+| Arabic | Chinese | Pinyin | English Pronunciation |
+| ------ | ------- | ------ | --------------------- |
+| 0      | 零       | líng   | leeng                 |
+| 1      | 一       | yī     | ee                    |
+| 2      | 二       | èr     | ar                    |
+| 3      | 三       | sān    | sahn                  |
+| 4      | 四       | sì     | suh                   |
+| 5      | 五       | wǔ     | woo                   |
+| 6      | 六       | liù    | lyo                   |
+| 7      | 七       | qī     | chee                  |
+| 8      | 八       | bā     | bah                   |
+| 9      | 九       | jiǔ    | jee-oh                |
+| 10     | 十       | shí    | sher                  |
+
+---
+
+### 🧮 Common Shopping Numbers
+
+| Arabic | Chinese | Pinyin    | English Pronunciation |
+| ------ | ------- | --------- | --------------------- |
+| 11     | 十一      | shí yī    | sher ee               |
+| 12     | 十二      | shí èr    | sher ar               |
+| 20     | 二十      | èr shí    | ar sher               |
+| 30     | 三十      | sān shí   | sahn sher             |
+| 50     | 五十      | wǔ shí    | woo sher              |
+| 100    | 一百      | yī bǎi    | ee bye                |
+| 200    | 两百      | liǎng bǎi | lyang bye             |
+| 500    | 五百      | wǔ bǎi    | woo bye               |
+| 1,000  | 一千      | yī qiān   | ee chyen              |
+| 10,000 | 一万      | yī wàn    | ee wahn               |
+
+---
+
+### 💰 Money Phrases (Very Useful)
+
+| Meaning         | Chinese | Pinyin          | English Pronunciation |
+| --------------- | ------- | --------------- | --------------------- |
+| yuan (currency) | 元 / 块   | yuán / kuài     | yoo-en / kwai         |
+| how much?       | 多少钱？    | duō shǎo qián   | dwor shaow chyen      |
+| too expensive   | 太贵了     | tài guì le      | tie gway luh          |
+| cheaper         | 便宜一点    | pián yi yì diǎn | pyen-ee ee dyen       |
+
+---
+
+### 🛒 Quick Tips for Shopping
+
+* **2 has two forms**:
+
+  * 二 (èr) → used in counting
+  * 两 (liǎng) → used before measure words (e.g., 两百 = 200)
+* Prices are often said casually using **块 (kuài)** instead of 元.
+* Chinese numbers are very **pattern-based**, so once you know 1–10, you can build most numbers easily.
+
+---
+
 ### 🔤 Quick pronunciation tips
 
 * **ǐ / ǐ** = dipping tone (like saying *“really?”* skeptically)
