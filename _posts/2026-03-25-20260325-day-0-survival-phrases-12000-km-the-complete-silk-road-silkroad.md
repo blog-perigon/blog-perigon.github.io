@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Day 0: Survival Phrases - 12.000 km - The Complete Silk Road #silkroad"
+title: "Day 0: Chinese Survival Phrases - 12.000 km - The Complete Silk Road #silkroad"
 date: 2026-03-25
 slug: 20260325-day-0-survival-phrases-12000-km-the-complete-silk-road-silkroad
-motto: "Day 0: Survival Phrases"
+motto: "Day 0: Chinese Survival Phrases"
 teaser: "Chinese Language Survival Phrases"
 tags:
   - silkroad
