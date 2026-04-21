@@ -7,12 +7,12 @@ motto: "Discovering Almaty"
 teaser: "Today I spent 8 hours and 63km discovering Almaty and it's closest mountains. Tomorrow I will cross the border to China."
 tags:
   - silkroad
-image: "https://static.perigon.de/static/20260421-day-27-discovering-almaty-12000-km-the-complete-silk-road-silkroad/9a7d2ab4cfa966036f96ec6fd9f40306d02855bf86ea38871ec3802d955a2b7c.jpg"
+image: "https://static.perigon.de/static/20260421-day-27-discovering-almaty-12000-km-the-complete-silk-road-silkroad/104be185840ed9abd4e8a4b51a37b3cc077693774fb7bf85b448df2152352f19.jpg"
 media:
-  - file: 9a7d2ab4cfa966036f96ec6fd9f40306d02855bf86ea38871ec3802d955a2b7c.jpg
+  - file: 104be185840ed9abd4e8a4b51a37b3cc077693774fb7bf85b448df2152352f19.jpg
     type: image
-    url: https://static.perigon.de/static/20260421-day-27-discovering-almaty-12000-km-the-complete-silk-road-silkroad/9a7d2ab4cfa966036f96ec6fd9f40306d02855bf86ea38871ec3802d955a2b7c.jpg
-    width: 810
+    url: https://static.perigon.de/static/20260421-day-27-discovering-almaty-12000-km-the-complete-silk-road-silkroad/104be185840ed9abd4e8a4b51a37b3cc077693774fb7bf85b448df2152352f19.jpg
+    width: 698
     height: 1080
     motto: true
   - file: 222470c5d54bc389e4e46b6868e23f5c0801b8cdcbf3c14a34a589a9ab1bf3a7.jpg
@@ -30,16 +30,6 @@ media:
     url: https://static.perigon.de/static/20260421-day-27-discovering-almaty-12000-km-the-complete-silk-road-silkroad/abd4ab0d42464735c6b839fa8babb13eec276a94eade3a042c169bb38d36621f.jpg
     width: 1080
     height: 519
-  - file: 010c64487a5161b8aaa236f175cec3a5487635f2e9f4e93e024d1b9363b009b3.jpg
-    type: image
-    url: https://static.perigon.de/static/20260421-day-27-discovering-almaty-12000-km-the-complete-silk-road-silkroad/010c64487a5161b8aaa236f175cec3a5487635f2e9f4e93e024d1b9363b009b3.jpg
-    width: 827
-    height: 1080
-  - file: 08f5935bc0d74d7c07619e5859970b67f2c663931c4a95c8d23b191ee9106dc0.jpg
-    type: image
-    url: https://static.perigon.de/static/20260421-day-27-discovering-almaty-12000-km-the-complete-silk-road-silkroad/08f5935bc0d74d7c07619e5859970b67f2c663931c4a95c8d23b191ee9106dc0.jpg
-    width: 753
-    height: 1080
   - file: 84a3a5f3049ada80e29b13aacf2babb6571e1f60b34d75a794b3c3b8367d045c.jpg
     type: image
     url: https://static.perigon.de/static/20260421-day-27-discovering-almaty-12000-km-the-complete-silk-road-silkroad/84a3a5f3049ada80e29b13aacf2babb6571e1f60b34d75a794b3c3b8367d045c.jpg
@@ -65,6 +55,16 @@ media:
     url: https://static.perigon.de/static/20260421-day-27-discovering-almaty-12000-km-the-complete-silk-road-silkroad/d8351e927d71f88d88324e371e0fe4838b2c4bb3f8a457f53822fd78cca2d697.jpg
     width: 1080
     height: 598
+  - file: 010c64487a5161b8aaa236f175cec3a5487635f2e9f4e93e024d1b9363b009b3.jpg
+    type: image
+    url: https://static.perigon.de/static/20260421-day-27-discovering-almaty-12000-km-the-complete-silk-road-silkroad/010c64487a5161b8aaa236f175cec3a5487635f2e9f4e93e024d1b9363b009b3.jpg
+    width: 801
+    height: 1080
+  - file: afff06f89011f7b651f59270942ca1f047a25cb869614c422893948e5c3cd32d.jpg
+    type: image
+    url: https://static.perigon.de/static/20260421-day-27-discovering-almaty-12000-km-the-complete-silk-road-silkroad/afff06f89011f7b651f59270942ca1f047a25cb869614c422893948e5c3cd32d.jpg
+    width: 689
+    height: 1080
 ---
 
 Today I spent 8 hours and 63km discovering Almaty and it's closest mountains. Tomorrow I will cross the border to China.
