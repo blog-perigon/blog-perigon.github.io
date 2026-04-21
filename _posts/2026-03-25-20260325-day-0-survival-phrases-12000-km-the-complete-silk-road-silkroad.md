@@ -9,7 +9,7 @@ tags:
   - silkroad
 ---
 
-### 📱 **China Survival (Lock Screen)**
+### 📱 **China Survival**
 
 **💬 Basics**
 
