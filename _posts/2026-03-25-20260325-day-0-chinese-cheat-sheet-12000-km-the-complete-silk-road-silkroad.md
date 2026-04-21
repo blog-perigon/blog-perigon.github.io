@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Day 0: Chinese Cheat Sheet - 12.000 km - The Complete Silk Road #silkroad"
+title: "Day 0: Chinese Language Cheat Sheet - 12.000 km - The Complete Silk Road #silkroad"
 date: 2026-03-25
 slug: 20260325-day-0-chinese-cheat-sheet-12000-km-the-complete-silk-road-silkroad
-motto: "Chinese Cheat Sheet"
+motto: "Chinese Language Cheat Sheet"
 teaser: "Chinese Cheat Sheet"
 tags:
   - silkroad
