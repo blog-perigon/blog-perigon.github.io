@@ -34,6 +34,30 @@ tags:
 | I want to buy this              | 我要买这个         | Wǒ yào mǎi zhège                             | Wo yow my juh-guh        |
 | I need WiFi to pay using Alipay | 我需要无线网络用支付宝付款 | Wǒ xūyào wúxiàn wǎngluò yòng Zhīfùbǎo fùkuǎn | Wo shoo-yow wifi, Alipay |
 
+
+---
+
+### 🍞 Food & Water Essentials
+
+| English | Chinese | Pinyin | Survival version |
+|---|---|---|---|
+| Water | 水 | Shuǐ | Shway |
+| Drinking water | 饮用水 | Yǐnyòng shuǐ | Yin-yong shway |
+| Boiled water | 开水 | Kāishuǐ | Kai-shway |
+| Bread | 面包 | Miànbāo | Myen-bow |
+| I want... | 我要... | Wǒ yào... | Wo yow... |
+| I want water | 我要水 | Wǒ yào shuǐ | Wo yow shway |
+| I want bread | 我要面包 | Wǒ yào miànbāo | Wo yow myen-bow |
+| One bottle of water | 一瓶水 | Yī píng shuǐ | Ee ping shway |
+
+---
+
+**Quick notes:**
+
+- In China, tap water isn't drinkable — always ask for **开水** (boiled/hot water, which is free almost everywhere) or buy bottled.
+- **面包** literally means "noodle wrap" — bread is a somewhat Western import so you'll mostly find it at convenience stores (7-Eleven, Family Mart are everywhere).
+- **一瓶** (ee ping) = "one bottle" — super useful pattern, swap in any drink.
+
 ---
 
 ### 🔢 Basic Numbers (0–10)
