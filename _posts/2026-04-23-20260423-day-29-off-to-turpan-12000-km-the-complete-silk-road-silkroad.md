@@ -4,7 +4,7 @@ title: "Day 29: Off to Turpan - 12.000 km - The Complete Silk Road #silkroad"
 date: 2026-04-23
 slug: 20260423-day-29-off-to-turpan-12000-km-the-complete-silk-road-silkroad
 motto: "Off to Turpan"
-teaser: "The first place I was interested in in China was Turpan, as there is the lowest place in China (and Eurasia - sans the Death Sea)."
+teaser: "The first place I was interested in in China was Turpan, as there is the lowest point in China (and Eurasia - sans the Death Sea)."
 tags:
   - silkroad
 image: "https://static.perigon.de/static/20260423-day-29-off-to-turpan-12000-km-the-complete-silk-road-silkroad/1c87e4dc5ab27b53833c70f224a5898d2e0581ec137bc352b33d3336a6fbe760.jpg"
@@ -72,7 +72,7 @@ media:
     height: 1080
 ---
 
-The first place I was interested in in China was Turpan, as there is the lowest place in China (and Eurasia - sans the Death Sea).
+The first place I was interested in in China was Turpan, as there is the lowest point in China (and Eurasia - sans the Death Sea).
 
 So, skipping Ürümqi (only changing trains there) I went to Turpan by train (a fast one to Urumqi and a regional one for the last leg of the journey).
 
