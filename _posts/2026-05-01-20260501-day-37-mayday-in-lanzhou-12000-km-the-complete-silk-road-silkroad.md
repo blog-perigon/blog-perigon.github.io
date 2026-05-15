@@ -298,9 +298,9 @@ I wanted to see the Flying Horse, a bronze, and one of 30 cultural artefacts so 
 
 In addition to this horse there are lots of exhibits from the history of Gansu, especially from it's time of being the entry to the silk road.
 
-I concluded my silkroad travel here and started what I would call operation #homerun .. getting home via Singapore.
+As Laborday is a holiday season, there were a lot of celebrations around, in the evening I went to the river were people were hanging out.
 
-As Laborday is a holiday season there were a lot of celebrations around, in the evening I went to the river were people were hanging out.
+I concluded my silkroad travel here and started what I would call operation #homerun .. getting home via Singapore.
 
 PS: the livestream fascinated me, my first time I could see a production like that close up.
 
