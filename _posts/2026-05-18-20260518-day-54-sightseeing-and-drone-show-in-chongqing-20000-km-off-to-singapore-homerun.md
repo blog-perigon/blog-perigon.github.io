@@ -250,6 +250,11 @@ media:
     url: https://static.perigon.de/static/20260518-day-54-sightseeing-and-drone-show-in-chongqing-20000-km-off-to-singapore-homerun/5635a5b947d39986007bdfc7b19379f5597ea42306f02f0744610c2d99db0ceb.jpg
     width: 1080
     height: 607
+  - file: 6f6487665f9dd2162228b38819476c7140a8a0cc3d0b1a3e5ac8bf7dfecfc3d7.jpg
+    type: image
+    url: https://static.perigon.de/static/20260518-day-54-sightseeing-and-drone-show-in-chongqing-20000-km-off-to-singapore-homerun/6f6487665f9dd2162228b38819476c7140a8a0cc3d0b1a3e5ac8bf7dfecfc3d7.jpg
+    width: 1080
+    height: 1080
 ---
 
 Still recovering from whatever I had in Taklamakan and Tibet I spent half of the day in bed and sight seeing in the afternoon and evening.
