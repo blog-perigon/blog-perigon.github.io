@@ -201,6 +201,10 @@ My last stop in China before entering Laos was Kunming. I was a bit anxious whet
 
 I had been unsuccessfully trying to buy this ticket for the Laos China Railway for the last week (online and in person), but in Kunming it worked out, the payment was a hassle though.
 
-One thing that really stood out was the very high percentage of electric vehicles. The traffic was very quiet and the air quite clean. I think I got a glimpse of the future.
+The train from Chongqing to Kunming took 4h51m for about 850 km. I Although I bought my ticket a week before I could only get a standing ticket. The day before there was not a single ticket available between Chongqing and Kunming, not even standing.
 
-PS: my "hotel" was an Apartment block shared with at least 4 other hotels .. some of which offered rooms for a lot less then mine.
+I could sit for half an hour, until train filled completely, for the rest of the journey I sat on an overturned bucket.
+
+PS: One thing that really stood out in Kunming was the very high percentage of electric vehicles. The traffic was very quiet and the air quite clean. I think I got a glimpse of the future.
+
+PPS: my "hotel" in Kunming was an Apartment block shared with at least 4 other hotels .. some of which offered rooms for a lot less then mine.
