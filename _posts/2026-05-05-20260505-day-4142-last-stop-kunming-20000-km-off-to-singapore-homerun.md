@@ -3,7 +3,7 @@ layout: post
 title: "Day 41+42: Last Stop: Kunming - 20.000 km - Off to Singapore #homerun"
 date: 2026-05-05
 slug: 20260505-day-4142-last-stop-kunming-20000-km-off-to-singapore-homerun
-motto: "Kunming"
+motto: "Last Stop: Kunming"
 teaser: "My last stop in China before entering Laos was Kunming."
 tags:
   - homerun
