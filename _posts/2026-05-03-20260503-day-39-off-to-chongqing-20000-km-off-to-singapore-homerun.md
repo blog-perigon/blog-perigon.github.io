@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Day 39: Off to Chongqing - 20.000 km - Off to Singapore #homerun"
+title: "Day 39: Let's See Chongqing - 20.000 km - Off to Singapore #homerun"
 date: 2026-05-03
 slug: 20260503-day-39-off-to-chongqing-20000-km-off-to-singapore-homerun
-motto: "Off to Chongqing"
+motto: "Let's See Chongqing"
 teaser: "I wanted to sample an average Metropolis in China on my way to Singapore, so i choose to do a stopover in Chonqging, a place famous for its drone shows (which i…"
 tags:
   - homerun
@@ -173,7 +173,7 @@ media:
   - file: 95a3c06a6d793edbb9a7016439efe56378140a4d0e7ec0fbe1bf0c184f00f5bc.jpg
     type: image
     url: https://static.perigon.de/static/20260503-day-39-off-to-chongqing-20000-km-off-to-singapore-homerun/95a3c06a6d793edbb9a7016439efe56378140a4d0e7ec0fbe1bf0c184f00f5bc.jpg
-    width: 520
+    width: 172
     height: 1080
   - file: 7eee9a6ec293192e9a914300f4956f0054574db64b33d85cc004a418219ad95a.jpg
     type: image
