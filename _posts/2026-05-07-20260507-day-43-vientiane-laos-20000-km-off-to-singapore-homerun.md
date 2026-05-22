@@ -95,6 +95,16 @@ media:
     url: https://static.perigon.de/static/20260507-day-43-vientiane-laos-20000-km-off-to-singapore-homerun/787a83c02e588f02e083ccbca73b8d294a9e75330fd6aea41181c3b9784b68be.jpg
     width: 607
     height: 1080
+  - file: b45cf6f5ffc94fb179c3c9e299180694c29d2fe55eff9b3b8906d99f6da00dff.jpg
+    type: image
+    url: https://static.perigon.de/static/20260507-day-43-vientiane-laos-20000-km-off-to-singapore-homerun/b45cf6f5ffc94fb179c3c9e299180694c29d2fe55eff9b3b8906d99f6da00dff.jpg
+    width: 1080
+    height: 1080
+  - file: 8983615375f43c9dbb272aca0ca3059ec629c59df6e6dbf89a68e1908ce78996.jpg
+    type: image
+    url: https://static.perigon.de/static/20260507-day-43-vientiane-laos-20000-km-off-to-singapore-homerun/8983615375f43c9dbb272aca0ca3059ec629c59df6e6dbf89a68e1908ce78996.jpg
+    width: 1080
+    height: 1080
 ---
 
 Entering Laos is somewhat of a game of guessing: Which visa do I need for which border crossing, as most participants of The Race 3rd season also found out.
