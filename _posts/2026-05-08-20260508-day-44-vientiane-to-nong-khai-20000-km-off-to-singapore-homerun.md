@@ -4,7 +4,7 @@ title: "Day 44: Vientiane to Nong Khai - 20.000 km - Off to Singapore #homerun"
 date: 2026-05-08
 slug: 20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun
 motto: "Vientiane to Nong Khai"
-teaser: "I could not get a ticket from Vientiane to Bangkok, so I crossed the Mekong River to Thailand to fetch the train from the station there, next most morning."
+teaser: "I could not get a ticket from Vientiane to Bangkok, so I crossed the Mekong River to Thailand to fetch the train from the station there, next morning."
 tags:
   - homerun
 image: "https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/4bf942d4f53817ed9f3ee773aa616d492351e5fa4cb4f74de3b7937e0611c067.jpg"
@@ -117,7 +117,7 @@ media:
     height: 1080
 ---
 
-I could not get a ticket from Vientiane to Bangkok, so I crossed the Mekong River to Thailand to fetch the train from the station there, next most morning.
+I could not get a ticket from Vientiane to Bangkok, so I crossed the Mekong River to Thailand to fetch the train from the station there, next morning.
 
 This meant walking to the bus station and taking the city bus to the border post and crossing the bridge with a shuttle - I would have preferred walking the bridge to get an impression of the width of the Mekong river, but that wasn't allowed.
 
