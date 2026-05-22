@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Day 43: Vientiane, Laos - 20.000 km - Off to Singapore #homerun"
+title: "Day 43: Destination: Vientiane, Laos - 20.000 km - Off to Singapore #homerun"
 date: 2026-05-07
 slug: 20260507-day-43-vientiane-laos-20000-km-off-to-singapore-homerun
-motto: "Vientiane, Laos"
+motto: "Destination: Vientiane, Laos"
 teaser: "Entering Laos is somewhat of a game of guessing: Which visa do I need for which border crossing, as most participants of The Race 3rd season also found out."
 tags:
   - homerun
