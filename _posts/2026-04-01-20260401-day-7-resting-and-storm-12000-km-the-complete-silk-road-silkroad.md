@@ -15,19 +15,19 @@ media:
     width: 1080
     height: 1080
     motto: true
-  - file: 5b62570371db5c59fddc7c1701e89b0005bef98bb6e6bb5825f1edb7f48c1369.jpg
+  - file: 3813722dd0fc69d65085c2aa8b12ffde43bdc2fad5efb90c7d85032883b64f92.jpg
     type: image
-    url: https://static.perigon.de/static/20260401-day-7-resting-and-storm-12000-km-the-complete-silk-road-silkroad/5b62570371db5c59fddc7c1701e89b0005bef98bb6e6bb5825f1edb7f48c1369.jpg
+    url: https://static.perigon.de/static/20260401-day-7-resting-and-storm-12000-km-the-complete-silk-road-silkroad/3813722dd0fc69d65085c2aa8b12ffde43bdc2fad5efb90c7d85032883b64f92.jpg
     width: 1080
     height: 591
-  - file: b320ab4f40d51376e4c821c2cb628fb75248e1490ccee5c310a92bcf21c6c1d7.jpg
+  - file: 3b0b7be36709b7f76befd5685285d9d3ecdd3b046bcb134e4cec1734e630ce6d.jpg
     type: image
-    url: https://static.perigon.de/static/20260401-day-7-resting-and-storm-12000-km-the-complete-silk-road-silkroad/b320ab4f40d51376e4c821c2cb628fb75248e1490ccee5c310a92bcf21c6c1d7.jpg
+    url: https://static.perigon.de/static/20260401-day-7-resting-and-storm-12000-km-the-complete-silk-road-silkroad/3b0b7be36709b7f76befd5685285d9d3ecdd3b046bcb134e4cec1734e630ce6d.jpg
     width: 985
     height: 1080
-  - file: 1068cdf5c43db3563b1aa671d19dfc87bb0e9741ba40d863e72ea2354c415b79.jpg
+  - file: 7a2d42a19b605c2247366fe63589512af4cad89a5b1abd70bd3755253f53f02c.jpg
     type: image
-    url: https://static.perigon.de/static/20260401-day-7-resting-and-storm-12000-km-the-complete-silk-road-silkroad/1068cdf5c43db3563b1aa671d19dfc87bb0e9741ba40d863e72ea2354c415b79.jpg
+    url: https://static.perigon.de/static/20260401-day-7-resting-and-storm-12000-km-the-complete-silk-road-silkroad/7a2d42a19b605c2247366fe63589512af4cad89a5b1abd70bd3755253f53f02c.jpg
     width: 665
     height: 1080
 ---
