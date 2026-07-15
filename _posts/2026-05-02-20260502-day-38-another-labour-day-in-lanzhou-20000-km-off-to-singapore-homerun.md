@@ -7,102 +7,102 @@ motto: "Another Labour Day in Lanzhou"
 teaser: "I changed the hotel again (to sample a different part of town) and breathed in the athmosphere of Labor Day (which is May 1st to May 5th in China)."
 tags:
   - homerun
-image: "https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/42de3f42f3e10a45291da9dea158b4c2fbe322c13b8f546d19e9ac5c01b8d1ba.jpg"
+image: "https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/27f2447552d479100c209ce44d4637ab3b239a0092af1172423d520c10811f83.jpg"
 media:
-  - file: 42de3f42f3e10a45291da9dea158b4c2fbe322c13b8f546d19e9ac5c01b8d1ba.jpg
+  - file: 27f2447552d479100c209ce44d4637ab3b239a0092af1172423d520c10811f83.jpg
     type: image
-    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/42de3f42f3e10a45291da9dea158b4c2fbe322c13b8f546d19e9ac5c01b8d1ba.jpg
+    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/27f2447552d479100c209ce44d4637ab3b239a0092af1172423d520c10811f83.jpg
     width: 1080
     height: 607
     motto: true
-  - file: 0ab3b1523b71a6b26521650b6d1228c20e16016a7ea08db485663b7a947fc308.jpg
+  - file: a95f0c8ec71b145d25343a7986b529896b57cfb8c60462f60fefcfa2c4dab440.jpg
     type: image
-    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/0ab3b1523b71a6b26521650b6d1228c20e16016a7ea08db485663b7a947fc308.jpg
+    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/a95f0c8ec71b145d25343a7986b529896b57cfb8c60462f60fefcfa2c4dab440.jpg
     width: 1080
     height: 607
-  - file: 6038d43580b2d2eb1d047b0fbdb388fe36727ec026bd7485718cc7f69c7e9226.jpg
+  - file: 6bb4a7bb2a0d68487060dd4a2ed1cf8b3f5eb92211fbb69880ba32764ad6fc9c.jpg
     type: image
-    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/6038d43580b2d2eb1d047b0fbdb388fe36727ec026bd7485718cc7f69c7e9226.jpg
+    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/6bb4a7bb2a0d68487060dd4a2ed1cf8b3f5eb92211fbb69880ba32764ad6fc9c.jpg
     width: 607
     height: 1080
-  - file: 792d1ba353718c8952b64c724c8baa3a6379d59a459c85bfed88cf99430400f4.jpg
+  - file: 516929efcd09da8deba2676e0b62acce35a45bdd71edd26166296eb72da2ec58.jpg
     type: image
-    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/792d1ba353718c8952b64c724c8baa3a6379d59a459c85bfed88cf99430400f4.jpg
+    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/516929efcd09da8deba2676e0b62acce35a45bdd71edd26166296eb72da2ec58.jpg
     width: 607
     height: 1080
-  - file: 00b167534bb48c38fce5e8566c9a410d8b52c0ea05d6a8422fe4d7088dd24ca9.jpg
+  - file: a4aea50f996410e16a503fd7b71b341aedce6d33a6396bd19948ed3cbae85eed.jpg
     type: image
-    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/00b167534bb48c38fce5e8566c9a410d8b52c0ea05d6a8422fe4d7088dd24ca9.jpg
+    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/a4aea50f996410e16a503fd7b71b341aedce6d33a6396bd19948ed3cbae85eed.jpg
     width: 607
     height: 1080
-  - file: daefe2d364b1bc3819cf7b06b5f0ba0be851d5283f1fe521d04e486dc3e593e7.jpg
+  - file: c01952368700e2af20eb902a5820f1c9dda525c0a33c26d4a5ef4063a2581a60.jpg
     type: image
-    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/daefe2d364b1bc3819cf7b06b5f0ba0be851d5283f1fe521d04e486dc3e593e7.jpg
+    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/c01952368700e2af20eb902a5820f1c9dda525c0a33c26d4a5ef4063a2581a60.jpg
     width: 607
     height: 1080
-  - file: 4bb78aa95b31e93edffd07c02237c03cb513f7c83d0252591b28601ad58e3f54.jpg
+  - file: 4afd92c308dd1b1f77f0d1607b1734d8a0eb644a61cc5cc95038745b1d59e881.jpg
     type: image
-    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/4bb78aa95b31e93edffd07c02237c03cb513f7c83d0252591b28601ad58e3f54.jpg
+    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/4afd92c308dd1b1f77f0d1607b1734d8a0eb644a61cc5cc95038745b1d59e881.jpg
     width: 607
     height: 1080
-  - file: 51cb7dbf970856d8abc4557c64f3c0a469df8d4a2ea774779e7b1fa1e8b7c68e.jpg
+  - file: 23bf71fc5a991136f9211a5a920cd597277ea274f153181a1f971a2d6bbb3b03.jpg
     type: image
-    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/51cb7dbf970856d8abc4557c64f3c0a469df8d4a2ea774779e7b1fa1e8b7c68e.jpg
+    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/23bf71fc5a991136f9211a5a920cd597277ea274f153181a1f971a2d6bbb3b03.jpg
     width: 607
     height: 1080
-  - file: f3de445f5f65f3c53069582a05a9f947dc0c07c139dfd57f7ab8545777d076ee.jpg
+  - file: 3c70b58ae5aeaccebab7788566481a6267f18226113c145c3fb8cf67628d5960.jpg
     type: image
-    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/f3de445f5f65f3c53069582a05a9f947dc0c07c139dfd57f7ab8545777d076ee.jpg
+    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/3c70b58ae5aeaccebab7788566481a6267f18226113c145c3fb8cf67628d5960.jpg
     width: 607
     height: 1080
-  - file: 0b7b26a763d7904f97b7b79fd7922b2cacdaf1f39f315c33785cef35d373fe4f.jpg
+  - file: 3d3c48af0de1ef2c5bc9035b8189d6814f586536eadbd1ca4e10aa5c61f498fd.jpg
     type: image
-    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/0b7b26a763d7904f97b7b79fd7922b2cacdaf1f39f315c33785cef35d373fe4f.jpg
+    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/3d3c48af0de1ef2c5bc9035b8189d6814f586536eadbd1ca4e10aa5c61f498fd.jpg
     width: 607
     height: 1080
-  - file: 02e277dec09ac5b20c9bdd3cc85f7bfdbf4842b908418852c5a92fbd75461e0f.jpg
+  - file: 05d1ee7b123851c222cd0405810601e5528cefed4daead49e50813b05622431f.jpg
     type: image
-    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/02e277dec09ac5b20c9bdd3cc85f7bfdbf4842b908418852c5a92fbd75461e0f.jpg
+    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/05d1ee7b123851c222cd0405810601e5528cefed4daead49e50813b05622431f.jpg
     width: 607
     height: 1080
-  - file: db586be7d3fae73499c634b26b471b9193a370eed34c57e5bca26c899c85fb5c.jpg
+  - file: 0a01b32d5069f1c342b758ae857fd339a7846c790c180973ed168c7640c8cb4c.jpg
     type: image
-    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/db586be7d3fae73499c634b26b471b9193a370eed34c57e5bca26c899c85fb5c.jpg
+    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/0a01b32d5069f1c342b758ae857fd339a7846c790c180973ed168c7640c8cb4c.jpg
     width: 607
     height: 1080
-  - file: 23cce23805b67964a3eeb829b38c30e3b9da05c80a99f88277e92cfb149419a5.jpg
+  - file: efd1fb37a91e66f944cd61f04dfaedf4b188fbcae049d80508e182652d3191f8.jpg
     type: image
-    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/23cce23805b67964a3eeb829b38c30e3b9da05c80a99f88277e92cfb149419a5.jpg
+    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/efd1fb37a91e66f944cd61f04dfaedf4b188fbcae049d80508e182652d3191f8.jpg
     width: 607
     height: 1080
-  - file: a3163a81341bc917949b0f0a9e469061fb173492c66ec9c830216ca0908cd1ff.jpg
+  - file: 31faf21a49c756558c7d9a2f497fe2f0ca3f477a1cd5a0f8e82a41b368eb8bdf.jpg
     type: image
-    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/a3163a81341bc917949b0f0a9e469061fb173492c66ec9c830216ca0908cd1ff.jpg
+    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/31faf21a49c756558c7d9a2f497fe2f0ca3f477a1cd5a0f8e82a41b368eb8bdf.jpg
     width: 607
     height: 1080
-  - file: a3f6941aee448d89e9211c6417c4e56b2a0694c080dfcab0fa8a64874bc20999.jpg
+  - file: cc7c19866d0ef4a88b0ac5d03cb920253984956f8be1860f59619feca794ece3.jpg
     type: image
-    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/a3f6941aee448d89e9211c6417c4e56b2a0694c080dfcab0fa8a64874bc20999.jpg
+    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/cc7c19866d0ef4a88b0ac5d03cb920253984956f8be1860f59619feca794ece3.jpg
     width: 607
     height: 1080
-  - file: 49397620d0eaae8c85331c6d94b917b656b8b44d5ab3e2fe34c8d6093bc90e3f.jpg
+  - file: fb528d5b26a68525e49f8192433cdb262de3ac453b106d1fb8344b438e54ff32.jpg
     type: image
-    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/49397620d0eaae8c85331c6d94b917b656b8b44d5ab3e2fe34c8d6093bc90e3f.jpg
+    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/fb528d5b26a68525e49f8192433cdb262de3ac453b106d1fb8344b438e54ff32.jpg
     width: 607
     height: 1080
-  - file: e47de4eafdfaf42aec977098171f3bdacb379cafe3d1eb2e44f3938f9932548d.jpg
+  - file: a58f7280ee674335f66f2371c7ab3a0c4836454fce2f4490285c54250e8baf94.jpg
     type: image
-    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/e47de4eafdfaf42aec977098171f3bdacb379cafe3d1eb2e44f3938f9932548d.jpg
+    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/a58f7280ee674335f66f2371c7ab3a0c4836454fce2f4490285c54250e8baf94.jpg
     width: 607
     height: 1080
-  - file: cbbea45f4066ad501ca7ac8dd0dcdd63b68274304a489fcaf9cfce4a0f1661c5.jpg
+  - file: 063fcefceb8a7aa1c9762162af08750641703ac7528d78b0e39bd6512fb02bdd.jpg
     type: image
-    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/cbbea45f4066ad501ca7ac8dd0dcdd63b68274304a489fcaf9cfce4a0f1661c5.jpg
+    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/063fcefceb8a7aa1c9762162af08750641703ac7528d78b0e39bd6512fb02bdd.jpg
     width: 607
     height: 1080
-  - file: 04887b24b9585b44c66f66d50473d608e2b1d53921fe789dcd5d70b132fd087e.jpg
+  - file: cb737c4296a414884cea7deed74df5da062bcac107b2723484bb5dc99948ceb6.jpg
     type: image
-    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/04887b24b9585b44c66f66d50473d608e2b1d53921fe789dcd5d70b132fd087e.jpg
+    url: https://static.perigon.de/static/20260502-day-38-another-labour-day-in-lanzhou-20000-km-off-to-singapore-homerun/cb737c4296a414884cea7deed74df5da062bcac107b2723484bb5dc99948ceb6.jpg
     width: 607
     height: 1080
 ---
