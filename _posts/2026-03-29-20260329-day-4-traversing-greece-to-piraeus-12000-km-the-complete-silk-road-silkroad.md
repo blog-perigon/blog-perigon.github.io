@@ -20,46 +20,46 @@ media:
     url: https://static.perigon.de/static/20260329-day-4-traversing-greece-to-piraeus-12000-km-the-complete-silk-road-silkroad/f0e60f71350c66b9ead66d5d08dfae5dad9e3e63b5aeb408d3e4986a2ac8cc8f.jpg
     width: 1080
     height: 810
-  - file: 29c8cd85a6d63e1a47784d708a7471237ce3fbbe77b11d919999536d9ba6ad03.jpg
+  - file: 1a51d333c3a4f8a07e3dfe225ced00b7b31e81400b15348fd8c07ffa8225feb3.jpg
     type: image
-    url: https://static.perigon.de/static/20260329-day-4-traversing-greece-to-piraeus-12000-km-the-complete-silk-road-silkroad/29c8cd85a6d63e1a47784d708a7471237ce3fbbe77b11d919999536d9ba6ad03.jpg
-    width: 728
+    url: https://static.perigon.de/static/20260329-day-4-traversing-greece-to-piraeus-12000-km-the-complete-silk-road-silkroad/1a51d333c3a4f8a07e3dfe225ced00b7b31e81400b15348fd8c07ffa8225feb3.jpg
+    width: 186
     height: 1080
-  - file: 0370af3b28b5c81cb2d74a85c7238bad2bb44507c837a4234cb7cef1532043cc.jpg
+  - file: 0eb15abfcddb1cb82b2b9e5e403513bb118f7f3abf0b762705e9c43ebedb2e58.jpg
     type: image
-    url: https://static.perigon.de/static/20260329-day-4-traversing-greece-to-piraeus-12000-km-the-complete-silk-road-silkroad/0370af3b28b5c81cb2d74a85c7238bad2bb44507c837a4234cb7cef1532043cc.jpg
+    url: https://static.perigon.de/static/20260329-day-4-traversing-greece-to-piraeus-12000-km-the-complete-silk-road-silkroad/0eb15abfcddb1cb82b2b9e5e403513bb118f7f3abf0b762705e9c43ebedb2e58.jpg
     width: 1080
-    height: 588
-  - file: b16e476587c87d27e77183aba8ebf1d781fae2b6ba723760a74aa1d44bdbbac3.jpg
+    height: 310
+  - file: c2547a1fb633e349ec5d33c94e6836311764ac35218341f128ec789f57c79d7b.jpg
     type: image
-    url: https://static.perigon.de/static/20260329-day-4-traversing-greece-to-piraeus-12000-km-the-complete-silk-road-silkroad/b16e476587c87d27e77183aba8ebf1d781fae2b6ba723760a74aa1d44bdbbac3.jpg
-    width: 1080
-    height: 925
-  - file: 0fcafd6a26e4b6df0e731199b05ff280a0bfbff9ba83162e9eecca9fbf39f1cd.jpg
+    url: https://static.perigon.de/static/20260329-day-4-traversing-greece-to-piraeus-12000-km-the-complete-silk-road-silkroad/c2547a1fb633e349ec5d33c94e6836311764ac35218341f128ec789f57c79d7b.jpg
+    width: 674
+    height: 753
+  - file: 72cef16c3fb832cf380480edaf14d8ef1bf7768d13dff5a3392d54c127e00c58.jpg
     type: image
-    url: https://static.perigon.de/static/20260329-day-4-traversing-greece-to-piraeus-12000-km-the-complete-silk-road-silkroad/0fcafd6a26e4b6df0e731199b05ff280a0bfbff9ba83162e9eecca9fbf39f1cd.jpg
-    width: 1080
-    height: 552
-  - file: 0c5286f1f27abb85a9634a33aca9f195a8d9fa1675ae6b122c94d8f63968c5d1.jpg
+    url: https://static.perigon.de/static/20260329-day-4-traversing-greece-to-piraeus-12000-km-the-complete-silk-road-silkroad/72cef16c3fb832cf380480edaf14d8ef1bf7768d13dff5a3392d54c127e00c58.jpg
+    width: 752
+    height: 349
+  - file: 41a729b9edc8a4a5ca4b8d85087970aa1d6041d90df94b297772956bc917dd97.jpg
     type: image
-    url: https://static.perigon.de/static/20260329-day-4-traversing-greece-to-piraeus-12000-km-the-complete-silk-road-silkroad/0c5286f1f27abb85a9634a33aca9f195a8d9fa1675ae6b122c94d8f63968c5d1.jpg
-    width: 1080
-    height: 687
-  - file: c443d582c9a84e99d2871217f5bb973322af729aceebe1bd22059de2257813da.jpg
+    url: https://static.perigon.de/static/20260329-day-4-traversing-greece-to-piraeus-12000-km-the-complete-silk-road-silkroad/41a729b9edc8a4a5ca4b8d85087970aa1d6041d90df94b297772956bc917dd97.jpg
+    width: 1000
+    height: 540
+  - file: 6962571a02c8a0b6132e8b67b3d68e370b966b51b5ac607e9c08ab41c633a9a0.jpg
     type: image
-    url: https://static.perigon.de/static/20260329-day-4-traversing-greece-to-piraeus-12000-km-the-complete-silk-road-silkroad/c443d582c9a84e99d2871217f5bb973322af729aceebe1bd22059de2257813da.jpg
-    width: 1080
-    height: 640
+    url: https://static.perigon.de/static/20260329-day-4-traversing-greece-to-piraeus-12000-km-the-complete-silk-road-silkroad/6962571a02c8a0b6132e8b67b3d68e370b966b51b5ac607e9c08ab41c633a9a0.jpg
+    width: 975
+    height: 457
   - file: b7ab271e2bf3592dbffa5f4735dcb094de33081c6207625c39dc246e092c9c1f.mp4
     type: video
     url: https://static.perigon.de/static/20260329-day-4-traversing-greece-to-piraeus-12000-km-the-complete-silk-road-silkroad/b7ab271e2bf3592dbffa5f4735dcb094de33081c6207625c39dc246e092c9c1f.mp4
     width: 640
     height: 360
-  - file: 641164152f2c4c1d2c560eaeeb8b32bd89a87da393bea9c8de36e736a555a360.jpg
+  - file: d0c3888445f46ae3d51d12e1477ebcd4049ca27aa0a52b9508e783c4bc826263.jpg
     type: image
-    url: https://static.perigon.de/static/20260329-day-4-traversing-greece-to-piraeus-12000-km-the-complete-silk-road-silkroad/641164152f2c4c1d2c560eaeeb8b32bd89a87da393bea9c8de36e736a555a360.jpg
+    url: https://static.perigon.de/static/20260329-day-4-traversing-greece-to-piraeus-12000-km-the-complete-silk-road-silkroad/d0c3888445f46ae3d51d12e1477ebcd4049ca27aa0a52b9508e783c4bc826263.jpg
     width: 1080
-    height: 572
+    height: 404
 ---
 
 I spent the day on a bus to Athens/Piraeus. Passed by Patras (Bridge), Ancient Corinth and the Canal of Corinth. Tomorrow I will take a ferry from Piraeus accross the Aegis to Turkiye.
