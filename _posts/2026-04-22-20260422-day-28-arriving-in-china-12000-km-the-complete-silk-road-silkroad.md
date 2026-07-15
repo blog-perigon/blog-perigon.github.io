@@ -7,11 +7,11 @@ motto: "Arriving in China"
 teaser: "After 28 days on the road I arrived in China. In German there is a saying: \"Wenn einer eine Reise tut, dann hat er was zu erzählen\" - \"One who travels has stories to tell\" .. and: oh boy .."
 tags:
   - silkroad
-image: "https://static.perigon.de/static/20260422-day-28-arriving-in-china-12000-km-the-complete-silk-road-silkroad/65f47f956bb4f5600daca69d95d3c8573159559264824be5dc887db3c474c17b.jpg"
+image: "https://static.perigon.de/static/20260422-day-28-arriving-in-china-12000-km-the-complete-silk-road-silkroad/0fdec7842cf6e4be579df135f9a059f903239edf3568d2be39e61262c89c7270.jpg"
 media:
-  - file: 65f47f956bb4f5600daca69d95d3c8573159559264824be5dc887db3c474c17b.jpg
+  - file: 0fdec7842cf6e4be579df135f9a059f903239edf3568d2be39e61262c89c7270.jpg
     type: image
-    url: https://static.perigon.de/static/20260422-day-28-arriving-in-china-12000-km-the-complete-silk-road-silkroad/65f47f956bb4f5600daca69d95d3c8573159559264824be5dc887db3c474c17b.jpg
+    url: https://static.perigon.de/static/20260422-day-28-arriving-in-china-12000-km-the-complete-silk-road-silkroad/0fdec7842cf6e4be579df135f9a059f903239edf3568d2be39e61262c89c7270.jpg
     width: 1080
     height: 810
     motto: true
@@ -20,39 +20,39 @@ media:
     url: https://static.perigon.de/static/20260422-day-28-arriving-in-china-12000-km-the-complete-silk-road-silkroad/985e822ae997abe7ec2214104ab7e28b6eddd2b5de75df1e6a34b4a885c9f9ad.jpg
     width: 1080
     height: 1080
-  - file: 707f23717fcccd835f71b1d7c13548d07b518c14861032996f42131425724ffe.jpg
+  - file: c2d3aee21bc5ce9633bb081413996f5089a669755540e98b106adb13f56c71a8.jpg
     type: image
-    url: https://static.perigon.de/static/20260422-day-28-arriving-in-china-12000-km-the-complete-silk-road-silkroad/707f23717fcccd835f71b1d7c13548d07b518c14861032996f42131425724ffe.jpg
+    url: https://static.perigon.de/static/20260422-day-28-arriving-in-china-12000-km-the-complete-silk-road-silkroad/c2d3aee21bc5ce9633bb081413996f5089a669755540e98b106adb13f56c71a8.jpg
     width: 607
     height: 1080
-  - file: 04d10d0008ff11d91ce2cd646112602cf52676d7b6245690c503cf4ca611df8e.jpg
+  - file: bff54d168a48d9d90de6a3b121c2664c9dad0d6ee4bf859f06da4f19e360160a.jpg
     type: image
-    url: https://static.perigon.de/static/20260422-day-28-arriving-in-china-12000-km-the-complete-silk-road-silkroad/04d10d0008ff11d91ce2cd646112602cf52676d7b6245690c503cf4ca611df8e.jpg
+    url: https://static.perigon.de/static/20260422-day-28-arriving-in-china-12000-km-the-complete-silk-road-silkroad/bff54d168a48d9d90de6a3b121c2664c9dad0d6ee4bf859f06da4f19e360160a.jpg
     width: 607
     height: 1080
-  - file: be39c67dcf614f9d486e5e3618e4ab8ed1c9a3d835bf85b7919abe7dae65062a.jpg
+  - file: eecd008e147dd9b7e00476f70c48931730ce9f7d1cdd1130cdd91d33cfc234ae.jpg
     type: image
-    url: https://static.perigon.de/static/20260422-day-28-arriving-in-china-12000-km-the-complete-silk-road-silkroad/be39c67dcf614f9d486e5e3618e4ab8ed1c9a3d835bf85b7919abe7dae65062a.jpg
+    url: https://static.perigon.de/static/20260422-day-28-arriving-in-china-12000-km-the-complete-silk-road-silkroad/eecd008e147dd9b7e00476f70c48931730ce9f7d1cdd1130cdd91d33cfc234ae.jpg
     width: 1080
     height: 810
-  - file: 78b6ab088a56f8773ba6856e5759a67c52b62b42c1dca72ca7fa59bab7f9c3ff.jpg
+  - file: 644f865356199a4dccd49c7946876e59568d31f894a24449ad29abd3cc7dfb1a.jpg
     type: image
-    url: https://static.perigon.de/static/20260422-day-28-arriving-in-china-12000-km-the-complete-silk-road-silkroad/78b6ab088a56f8773ba6856e5759a67c52b62b42c1dca72ca7fa59bab7f9c3ff.jpg
+    url: https://static.perigon.de/static/20260422-day-28-arriving-in-china-12000-km-the-complete-silk-road-silkroad/644f865356199a4dccd49c7946876e59568d31f894a24449ad29abd3cc7dfb1a.jpg
     width: 810
     height: 1080
-  - file: 64bbad78ae0029afee7b5d1a6dc9051ad7c66b01b457cf0f27330d9e81691f38.jpg
+  - file: 6dea6020c3e4a00e1ebe59e0bd78728740903f053728c13dbfb1886473d0a9b4.jpg
     type: image
-    url: https://static.perigon.de/static/20260422-day-28-arriving-in-china-12000-km-the-complete-silk-road-silkroad/64bbad78ae0029afee7b5d1a6dc9051ad7c66b01b457cf0f27330d9e81691f38.jpg
+    url: https://static.perigon.de/static/20260422-day-28-arriving-in-china-12000-km-the-complete-silk-road-silkroad/6dea6020c3e4a00e1ebe59e0bd78728740903f053728c13dbfb1886473d0a9b4.jpg
     width: 810
     height: 1080
-  - file: 18c500409d02104592af93d61ff593246c9ddb1f808011b3a61849b8c82dbbd6.jpg
+  - file: fc6c579cad16fd5f3632871d3f7911e9b6adbd74bd6fd198d178e7832e98dc49.jpg
     type: image
-    url: https://static.perigon.de/static/20260422-day-28-arriving-in-china-12000-km-the-complete-silk-road-silkroad/18c500409d02104592af93d61ff593246c9ddb1f808011b3a61849b8c82dbbd6.jpg
+    url: https://static.perigon.de/static/20260422-day-28-arriving-in-china-12000-km-the-complete-silk-road-silkroad/fc6c579cad16fd5f3632871d3f7911e9b6adbd74bd6fd198d178e7832e98dc49.jpg
     width: 810
     height: 1080
-  - file: a8633ab5b4d37ba60c5b28fd6b7745db8800a6ced46f9fccdb2e35ada5515209.jpg
+  - file: f40cf13bec822480dde35c71436ed41f6339c3759728c3f0432cd4dfb3e4e217.jpg
     type: image
-    url: https://static.perigon.de/static/20260422-day-28-arriving-in-china-12000-km-the-complete-silk-road-silkroad/a8633ab5b4d37ba60c5b28fd6b7745db8800a6ced46f9fccdb2e35ada5515209.jpg
+    url: https://static.perigon.de/static/20260422-day-28-arriving-in-china-12000-km-the-complete-silk-road-silkroad/f40cf13bec822480dde35c71436ed41f6339c3759728c3f0432cd4dfb3e4e217.jpg
     width: 810
     height: 1080
 ---
