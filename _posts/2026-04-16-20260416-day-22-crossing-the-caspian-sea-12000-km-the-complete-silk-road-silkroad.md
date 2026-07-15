@@ -7,11 +7,11 @@ motto: "Crossing the Caspian Sea"
 teaser: "Having been woken up by the lifting of the anchor, we spent the rest of the day crossing the caspian sea."
 tags:
   - silkroad
-image: "https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/197e381b06dcd47fac3ec24dc1d2935833531af23a9d82ebc3c7a7aeef0dd7c4.jpg"
+image: "https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/15336371a3c016e48809e33b0f9a01bf1e1608bb0c965f307dff7c0806e5e459.jpg"
 media:
-  - file: 197e381b06dcd47fac3ec24dc1d2935833531af23a9d82ebc3c7a7aeef0dd7c4.jpg
+  - file: 15336371a3c016e48809e33b0f9a01bf1e1608bb0c965f307dff7c0806e5e459.jpg
     type: image
-    url: https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/197e381b06dcd47fac3ec24dc1d2935833531af23a9d82ebc3c7a7aeef0dd7c4.jpg
+    url: https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/15336371a3c016e48809e33b0f9a01bf1e1608bb0c965f307dff7c0806e5e459.jpg
     width: 1080
     height: 810
     motto: true
@@ -20,59 +20,59 @@ media:
     url: https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/f3b898ab5a4f27dff01ca204540404f2a638cec7218698372a8c583022cbcfe0.jpg
     width: 1080
     height: 1080
-  - file: b6f7000df8644a13b2588a6d1e2c2b2cce117fb1b6e7396135d7e52b29e478b9.jpg
+  - file: 8c804e6065d2e793a23131a6de8e42798fa29ad0fd806f6aecf943688901278e.jpg
     type: image
-    url: https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/b6f7000df8644a13b2588a6d1e2c2b2cce117fb1b6e7396135d7e52b29e478b9.jpg
+    url: https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/8c804e6065d2e793a23131a6de8e42798fa29ad0fd806f6aecf943688901278e.jpg
     width: 1080
     height: 810
-  - file: edb73ddfaad98e8a3f013031719aa92a6736d01693097f221b5a97cac4357818.jpg
+  - file: f43d6c2b87131ec8318d65f1dcc239cd1770c7ee25344ca51215472f4b37d6cf.jpg
     type: image
-    url: https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/edb73ddfaad98e8a3f013031719aa92a6736d01693097f221b5a97cac4357818.jpg
+    url: https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/f43d6c2b87131ec8318d65f1dcc239cd1770c7ee25344ca51215472f4b37d6cf.jpg
     width: 810
     height: 1080
-  - file: b349b4af61745f9da2cd0941cfc1a08a88fc51cc0253832df476420b2573f00e.jpg
+  - file: 92b2c153943bcbe5584d76e40ffce94af732c7f5da4a8a5d52373eacd1f00f6c.jpg
     type: image
-    url: https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/b349b4af61745f9da2cd0941cfc1a08a88fc51cc0253832df476420b2573f00e.jpg
+    url: https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/92b2c153943bcbe5584d76e40ffce94af732c7f5da4a8a5d52373eacd1f00f6c.jpg
     width: 810
     height: 1080
-  - file: 0d264b870c32b9f0515da6962aa440550853bf23e45eaebcd44d1dfc49274ab4.jpg
+  - file: 1522da437cd7c6b4d48f64e1372a0e095726f2093bf8b8a5fd8189d879a15e3e.jpg
     type: image
-    url: https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/0d264b870c32b9f0515da6962aa440550853bf23e45eaebcd44d1dfc49274ab4.jpg
+    url: https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/1522da437cd7c6b4d48f64e1372a0e095726f2093bf8b8a5fd8189d879a15e3e.jpg
     width: 810
     height: 1080
-  - file: c0b8a8a6f024b53e83f15e2fc184b4fbe3da2df5aea61f57e6a3a98e6cf67a92.jpg
+  - file: 16399fc70a3d3c9b3cc37e7096a41fb7aa12321640dc8ed816ef06e179c2eda6.jpg
     type: image
-    url: https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/c0b8a8a6f024b53e83f15e2fc184b4fbe3da2df5aea61f57e6a3a98e6cf67a92.jpg
+    url: https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/16399fc70a3d3c9b3cc37e7096a41fb7aa12321640dc8ed816ef06e179c2eda6.jpg
     width: 810
     height: 1080
-  - file: 6ebfb52452e12adec94597cdfb36287bc85a151989195bdf7841c2ea4dfbad3b.jpg
+  - file: 3c9b3e1af027bed5d48e8bdde936fb137cf6ff3e0d14012ac88fe485fb029e75.jpg
     type: image
-    url: https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/6ebfb52452e12adec94597cdfb36287bc85a151989195bdf7841c2ea4dfbad3b.jpg
+    url: https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/3c9b3e1af027bed5d48e8bdde936fb137cf6ff3e0d14012ac88fe485fb029e75.jpg
     width: 810
     height: 1080
-  - file: 758114c0c3b8429e6059543821b0c3f3d5cad44be1332f4a827334b1f8755d23.jpg
+  - file: 48594a608e12dabe3f7f4d22ce0bbe915dfb59d6ce955ef6f3cd388977d32097.jpg
     type: image
-    url: https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/758114c0c3b8429e6059543821b0c3f3d5cad44be1332f4a827334b1f8755d23.jpg
+    url: https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/48594a608e12dabe3f7f4d22ce0bbe915dfb59d6ce955ef6f3cd388977d32097.jpg
     width: 810
     height: 1080
-  - file: 84f59d689ebf958019dba3517bde7f848ca2e882d5bc46331b48ea631cc18f39.jpg
+  - file: 329ec72dadb50b5b065cea2049229e0c10ca31f6bfe606c333085c428e1f2790.jpg
     type: image
-    url: https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/84f59d689ebf958019dba3517bde7f848ca2e882d5bc46331b48ea631cc18f39.jpg
+    url: https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/329ec72dadb50b5b065cea2049229e0c10ca31f6bfe606c333085c428e1f2790.jpg
     width: 810
     height: 1080
-  - file: 0403dfff1bc5550a5b8d2f257598f1127da9ed8a3b9e25fb103df56480e2f830.jpg
+  - file: 18c127b3d7115cdfd93ce6c88481df405eff11252655772a5e9b310e6f825987.jpg
     type: image
-    url: https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/0403dfff1bc5550a5b8d2f257598f1127da9ed8a3b9e25fb103df56480e2f830.jpg
+    url: https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/18c127b3d7115cdfd93ce6c88481df405eff11252655772a5e9b310e6f825987.jpg
     width: 810
     height: 1080
-  - file: e0b206c6b870c7fdddef02cf072aef8620214a2463272649ee1dde0eebff7a15.jpg
+  - file: df80323fc7fd3cd778e459d4896bdc35c46a9efcf853be607e42ac19e74958ed.jpg
     type: image
-    url: https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/e0b206c6b870c7fdddef02cf072aef8620214a2463272649ee1dde0eebff7a15.jpg
+    url: https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/df80323fc7fd3cd778e459d4896bdc35c46a9efcf853be607e42ac19e74958ed.jpg
     width: 1080
     height: 810
-  - file: e8476c9280b3576bd82665aa92dce3881d95f815029f4145ffb2568f3e10a869.jpg
+  - file: 15d907674f773270c265bc424dd3366af14a94fae39f4acd1b74f554faaabf45.jpg
     type: image
-    url: https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/e8476c9280b3576bd82665aa92dce3881d95f815029f4145ffb2568f3e10a869.jpg
+    url: https://static.perigon.de/static/20260416-day-22-crossing-the-caspian-sea-12000-km-the-complete-silk-road-silkroad/15d907674f773270c265bc424dd3366af14a94fae39f4acd1b74f554faaabf45.jpg
     width: 810
     height: 1080
 ---
