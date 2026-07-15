@@ -7,11 +7,11 @@ motto: "Being Stuck: The Caspian Sea Edition #2"
 teaser: "[Update: I am now on the ferry, but the ship will not cross the Kaspian sea for the next 2 or 3 days, we will be moored about 30km of coast to weather the coming storm.]"
 tags:
   - silkroad
-image: "https://static.perigon.de/static/20260414-day-20-being-stuck-the-caspian-sea-edition-2-12000-km-the-complete-silk-road-silkroad/2eb6666c4e66103cdda6f67559351887bd5719edc638150f5aae95786ae5a663.jpg"
+image: "https://static.perigon.de/static/20260414-day-20-being-stuck-the-caspian-sea-edition-2-12000-km-the-complete-silk-road-silkroad/5b11a36be435bee2b1f5917182dba8d928fd13e3f0dcc14ff88a73365f348069.jpg"
 media:
-  - file: 2eb6666c4e66103cdda6f67559351887bd5719edc638150f5aae95786ae5a663.jpg
+  - file: 5b11a36be435bee2b1f5917182dba8d928fd13e3f0dcc14ff88a73365f348069.jpg
     type: image
-    url: https://static.perigon.de/static/20260414-day-20-being-stuck-the-caspian-sea-edition-2-12000-km-the-complete-silk-road-silkroad/2eb6666c4e66103cdda6f67559351887bd5719edc638150f5aae95786ae5a663.jpg
+    url: https://static.perigon.de/static/20260414-day-20-being-stuck-the-caspian-sea-edition-2-12000-km-the-complete-silk-road-silkroad/5b11a36be435bee2b1f5917182dba8d928fd13e3f0dcc14ff88a73365f348069.jpg
     width: 1080
     height: 810
     motto: true
@@ -20,24 +20,24 @@ media:
     url: https://static.perigon.de/static/20260414-day-20-being-stuck-the-caspian-sea-edition-2-12000-km-the-complete-silk-road-silkroad/94eebac961a9b8c259c1d3718ff3e21a7967d93c16701fd6a33d09ab022cf26c.jpg
     width: 1080
     height: 1080
-  - file: d610781b06f816fd349998c1a0a0a9cb17d1246bce67d248afee31e9277099a0.jpg
+  - file: 1de2607fcb28f3fceb2a0ad673805aa3ef1520fca26bb2d3ae3f237004912787.jpg
     type: image
-    url: https://static.perigon.de/static/20260414-day-20-being-stuck-the-caspian-sea-edition-2-12000-km-the-complete-silk-road-silkroad/d610781b06f816fd349998c1a0a0a9cb17d1246bce67d248afee31e9277099a0.jpg
+    url: https://static.perigon.de/static/20260414-day-20-being-stuck-the-caspian-sea-edition-2-12000-km-the-complete-silk-road-silkroad/1de2607fcb28f3fceb2a0ad673805aa3ef1520fca26bb2d3ae3f237004912787.jpg
     width: 810
     height: 1080
-  - file: 196be8edcdd11c89db1d18ddeac2482cef9e8062ea171353a4fe01f0b6b2e278.jpg
+  - file: ac60f0726b9f5f8c621d8e6237735772a3e3bc138f158c57655a881a60d97fbd.jpg
     type: image
-    url: https://static.perigon.de/static/20260414-day-20-being-stuck-the-caspian-sea-edition-2-12000-km-the-complete-silk-road-silkroad/196be8edcdd11c89db1d18ddeac2482cef9e8062ea171353a4fe01f0b6b2e278.jpg
+    url: https://static.perigon.de/static/20260414-day-20-being-stuck-the-caspian-sea-edition-2-12000-km-the-complete-silk-road-silkroad/ac60f0726b9f5f8c621d8e6237735772a3e3bc138f158c57655a881a60d97fbd.jpg
     width: 810
     height: 1080
-  - file: d40c3087849eb99460dfd9d8eaa696260e6272e275c9ac69307215160aae4d2f.jpg
+  - file: 3bb877179978f71ffd32429e2c498e2877d126964138839c6d19678e6117121d.jpg
     type: image
-    url: https://static.perigon.de/static/20260414-day-20-being-stuck-the-caspian-sea-edition-2-12000-km-the-complete-silk-road-silkroad/d40c3087849eb99460dfd9d8eaa696260e6272e275c9ac69307215160aae4d2f.jpg
+    url: https://static.perigon.de/static/20260414-day-20-being-stuck-the-caspian-sea-edition-2-12000-km-the-complete-silk-road-silkroad/3bb877179978f71ffd32429e2c498e2877d126964138839c6d19678e6117121d.jpg
     width: 810
     height: 1080
-  - file: 8fb719e3d70b2f4ea706a81bcd3744b899c3e000f4c6f20369c232306c3f7cec.jpg
+  - file: eba3d2eb70a244100926d2a7b1f7cfe17826f90163091d8b10e861f3114617e9.jpg
     type: image
-    url: https://static.perigon.de/static/20260414-day-20-being-stuck-the-caspian-sea-edition-2-12000-km-the-complete-silk-road-silkroad/8fb719e3d70b2f4ea706a81bcd3744b899c3e000f4c6f20369c232306c3f7cec.jpg
+    url: https://static.perigon.de/static/20260414-day-20-being-stuck-the-caspian-sea-edition-2-12000-km-the-complete-silk-road-silkroad/eba3d2eb70a244100926d2a7b1f7cfe17826f90163091d8b10e861f3114617e9.jpg
     width: 810
     height: 1080
 ---
