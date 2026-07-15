@@ -15,61 +15,61 @@ media:
     width: 1080
     height: 1080
     motto: true
-  - file: 12eb75b7bc926dfbb269059b3e2bacf55311c1b859f1c84648cf91d0a4d4119b.jpg
+  - file: c003fc99f4cb383adbc99fa737d62c2fb31fc881886a07592be8fd5a1192936b.jpg
     type: image
-    url: https://static.perigon.de/static/20260331-day-56-4-islands-to-turkiye-12000-km-the-complete-silk-road-silkroad/12eb75b7bc926dfbb269059b3e2bacf55311c1b859f1c84648cf91d0a4d4119b.jpg
-    width: 931
-    height: 1080
-  - file: 27cd7011b75b96d689ae981582f4331331cf52d17a137af314d4cff9a6420db4.jpg
+    url: https://static.perigon.de/static/20260331-day-56-4-islands-to-turkiye-12000-km-the-complete-silk-road-silkroad/c003fc99f4cb383adbc99fa737d62c2fb31fc881886a07592be8fd5a1192936b.jpg
+    width: 86
+    height: 240
+  - file: 1e708fac78d8751ad5f32a972bce44c22f703efea8c80f77e54e7d65a128bf45.jpg
     type: image
-    url: https://static.perigon.de/static/20260331-day-56-4-islands-to-turkiye-12000-km-the-complete-silk-road-silkroad/27cd7011b75b96d689ae981582f4331331cf52d17a137af314d4cff9a6420db4.jpg
+    url: https://static.perigon.de/static/20260331-day-56-4-islands-to-turkiye-12000-km-the-complete-silk-road-silkroad/1e708fac78d8751ad5f32a972bce44c22f703efea8c80f77e54e7d65a128bf45.jpg
     width: 1080
     height: 810
-  - file: c10a2ba2ff06be7d9997869dccd287dbf6e765063c646c2680b65df5edc4cad3.jpg
+  - file: eb9960e29af75ee22e5febb055424a7b52c5f7617b5ab49951b80750e2437757.jpg
     type: image
-    url: https://static.perigon.de/static/20260331-day-56-4-islands-to-turkiye-12000-km-the-complete-silk-road-silkroad/c10a2ba2ff06be7d9997869dccd287dbf6e765063c646c2680b65df5edc4cad3.jpg
+    url: https://static.perigon.de/static/20260331-day-56-4-islands-to-turkiye-12000-km-the-complete-silk-road-silkroad/eb9960e29af75ee22e5febb055424a7b52c5f7617b5ab49951b80750e2437757.jpg
     width: 810
     height: 1080
-  - file: 57d9fc2ede623ee1d82d05a68ae2eaa5f8deee4327cf05ab26602273e0a13933.jpg
+  - file: a874c46e54dd0cbae698c70c1b0ce7faed9845a7a1464ec7131d0d59d2e8902b.jpg
     type: image
-    url: https://static.perigon.de/static/20260331-day-56-4-islands-to-turkiye-12000-km-the-complete-silk-road-silkroad/57d9fc2ede623ee1d82d05a68ae2eaa5f8deee4327cf05ab26602273e0a13933.jpg
+    url: https://static.perigon.de/static/20260331-day-56-4-islands-to-turkiye-12000-km-the-complete-silk-road-silkroad/a874c46e54dd0cbae698c70c1b0ce7faed9845a7a1464ec7131d0d59d2e8902b.jpg
     width: 1080
     height: 810
-  - file: afd23ba0124a5070d7c4dd0e2a8cb13758f7d2708aa8746030e0c235c4229e4c.jpg
+  - file: 14530310f016b5be20469338bb5ecd1534751e3eccfa95308d8ece7d6c149c89.jpg
     type: image
-    url: https://static.perigon.de/static/20260331-day-56-4-islands-to-turkiye-12000-km-the-complete-silk-road-silkroad/afd23ba0124a5070d7c4dd0e2a8cb13758f7d2708aa8746030e0c235c4229e4c.jpg
+    url: https://static.perigon.de/static/20260331-day-56-4-islands-to-turkiye-12000-km-the-complete-silk-road-silkroad/14530310f016b5be20469338bb5ecd1534751e3eccfa95308d8ece7d6c149c89.jpg
     width: 810
     height: 1080
-  - file: f76b9c1a597e544821dca9de599c8fafc24542c911073da66842a9a426afd5b7.jpg
+  - file: d3b526e83b321250e715b14da94fe082811378da9aea3ddf422d2c69f8a3873c.jpg
     type: image
-    url: https://static.perigon.de/static/20260331-day-56-4-islands-to-turkiye-12000-km-the-complete-silk-road-silkroad/f76b9c1a597e544821dca9de599c8fafc24542c911073da66842a9a426afd5b7.jpg
+    url: https://static.perigon.de/static/20260331-day-56-4-islands-to-turkiye-12000-km-the-complete-silk-road-silkroad/d3b526e83b321250e715b14da94fe082811378da9aea3ddf422d2c69f8a3873c.jpg
     width: 1080
-    height: 535
-  - file: c8cf2e7e0c72ea7059fd6ac6ee90108792e5cc9f8ad3f3e25d5e6e1ce22d9489.jpg
+    height: 353
+  - file: 18e8ac2722c5b47e85d4704cd7c97fb187a2355a04be91cf4f6f57320a9137c4.jpg
     type: image
-    url: https://static.perigon.de/static/20260331-day-56-4-islands-to-turkiye-12000-km-the-complete-silk-road-silkroad/c8cf2e7e0c72ea7059fd6ac6ee90108792e5cc9f8ad3f3e25d5e6e1ce22d9489.jpg
+    url: https://static.perigon.de/static/20260331-day-56-4-islands-to-turkiye-12000-km-the-complete-silk-road-silkroad/18e8ac2722c5b47e85d4704cd7c97fb187a2355a04be91cf4f6f57320a9137c4.jpg
     width: 1080
     height: 810
-  - file: 09889af2a558059168f156ed299121de7ade96768a52724159569ddacf663640.jpg
+  - file: e2cb70b048f47bb3e471b3aa7d178023ec7870f91a0fb6d1c8a47135ee36e640.jpg
     type: image
-    url: https://static.perigon.de/static/20260331-day-56-4-islands-to-turkiye-12000-km-the-complete-silk-road-silkroad/09889af2a558059168f156ed299121de7ade96768a52724159569ddacf663640.jpg
+    url: https://static.perigon.de/static/20260331-day-56-4-islands-to-turkiye-12000-km-the-complete-silk-road-silkroad/e2cb70b048f47bb3e471b3aa7d178023ec7870f91a0fb6d1c8a47135ee36e640.jpg
     width: 1080
-    height: 603
-  - file: 4f131c1a755a73c6b994860d099ac4fc3b582280a15a19f6ffd9c94fa48afdae.jpg
+    height: 449
+  - file: 827cb29d1247c068decfc97f8a1dbc05ee6bf991f502e78547411e099186bcbe.jpg
     type: image
-    url: https://static.perigon.de/static/20260331-day-56-4-islands-to-turkiye-12000-km-the-complete-silk-road-silkroad/4f131c1a755a73c6b994860d099ac4fc3b582280a15a19f6ffd9c94fa48afdae.jpg
+    url: https://static.perigon.de/static/20260331-day-56-4-islands-to-turkiye-12000-km-the-complete-silk-road-silkroad/827cb29d1247c068decfc97f8a1dbc05ee6bf991f502e78547411e099186bcbe.jpg
     width: 1080
-    height: 488
-  - file: 3d6c667c309909f9630532952f4b67644a16177d2b322219eae08dd85d8b6d1c.jpg
+    height: 392
+  - file: 88986de76164f530edb3da574468b7a905ae3abd2fdc0b7bcab73cbb82859377.jpg
     type: image
-    url: https://static.perigon.de/static/20260331-day-56-4-islands-to-turkiye-12000-km-the-complete-silk-road-silkroad/3d6c667c309909f9630532952f4b67644a16177d2b322219eae08dd85d8b6d1c.jpg
-    width: 612
+    url: https://static.perigon.de/static/20260331-day-56-4-islands-to-turkiye-12000-km-the-complete-silk-road-silkroad/88986de76164f530edb3da574468b7a905ae3abd2fdc0b7bcab73cbb82859377.jpg
+    width: 462
     height: 1080
-  - file: 02761f54730d3825b512fbf20a147d38a92302d892ef772b6cea46cd6232f4a2.jpg
+  - file: 055fc852e8bb1c26afbd93c9d9fa1040bad9db8323d6b2bf771ab51c957ec783.jpg
     type: image
-    url: https://static.perigon.de/static/20260331-day-56-4-islands-to-turkiye-12000-km-the-complete-silk-road-silkroad/02761f54730d3825b512fbf20a147d38a92302d892ef772b6cea46cd6232f4a2.jpg
+    url: https://static.perigon.de/static/20260331-day-56-4-islands-to-turkiye-12000-km-the-complete-silk-road-silkroad/055fc852e8bb1c26afbd93c9d9fa1040bad9db8323d6b2bf771ab51c957ec783.jpg
     width: 1080
-    height: 683
+    height: 576
 ---
 
 Island hopping in the Aegis, first i planned to go to Rhodes, but then realized I would get stuck there until April 3rd (for 4 days) - so rescheduled for Kos and entered Turkiye in Bodrum.
