@@ -15,39 +15,39 @@ media:
     width: 1080
     height: 1080
     motto: true
-  - file: 1de25224eba78ca45ab27f6b4bce2b8c6a4405cb8849af58b88852567d99a968.jpg
+  - file: 3359f594a000a4ecbd9c2600223622495bda5c619c8ecc27d9dd076c46608011.jpg
     type: image
-    url: https://static.perigon.de/static/20260403-day-9-discovering-antalyas-coast-12000-km-the-complete-silk-road-silkroad/1de25224eba78ca45ab27f6b4bce2b8c6a4405cb8849af58b88852567d99a968.jpg
+    url: https://static.perigon.de/static/20260403-day-9-discovering-antalyas-coast-12000-km-the-complete-silk-road-silkroad/3359f594a000a4ecbd9c2600223622495bda5c619c8ecc27d9dd076c46608011.jpg
     width: 810
     height: 1080
-  - file: 3fff6d8088d956361edbed4332c07581cfa89cd9519b33a94ee249f9887ed3c8.jpg
+  - file: 99669c45033dc53d0263aa1afbd7270d8b719a8399b941705aa9193722d9ff0c.jpg
     type: image
-    url: https://static.perigon.de/static/20260403-day-9-discovering-antalyas-coast-12000-km-the-complete-silk-road-silkroad/3fff6d8088d956361edbed4332c07581cfa89cd9519b33a94ee249f9887ed3c8.jpg
+    url: https://static.perigon.de/static/20260403-day-9-discovering-antalyas-coast-12000-km-the-complete-silk-road-silkroad/99669c45033dc53d0263aa1afbd7270d8b719a8399b941705aa9193722d9ff0c.jpg
     width: 810
     height: 1080
-  - file: 02ef89af7fdaea5bac4d249b96407ebdd7a4b59d4c335caf82ecf7b2f2549de9.jpg
+  - file: c72cc764370533d6039907a5d664bf0045b5d2d6914b0fbb67dbba796e31ed2e.jpg
     type: image
-    url: https://static.perigon.de/static/20260403-day-9-discovering-antalyas-coast-12000-km-the-complete-silk-road-silkroad/02ef89af7fdaea5bac4d249b96407ebdd7a4b59d4c335caf82ecf7b2f2549de9.jpg
+    url: https://static.perigon.de/static/20260403-day-9-discovering-antalyas-coast-12000-km-the-complete-silk-road-silkroad/c72cc764370533d6039907a5d664bf0045b5d2d6914b0fbb67dbba796e31ed2e.jpg
     width: 810
     height: 1080
-  - file: d0277f8539f7097d040caca33a2d43e5dccb6ca25daf24f5f7bdddf86ca2c0bc.jpg
+  - file: b63d971369eed865b067b1fdbdd2b4649485471011154cbaf663fa8d6fc1c816.jpg
     type: image
-    url: https://static.perigon.de/static/20260403-day-9-discovering-antalyas-coast-12000-km-the-complete-silk-road-silkroad/d0277f8539f7097d040caca33a2d43e5dccb6ca25daf24f5f7bdddf86ca2c0bc.jpg
+    url: https://static.perigon.de/static/20260403-day-9-discovering-antalyas-coast-12000-km-the-complete-silk-road-silkroad/b63d971369eed865b067b1fdbdd2b4649485471011154cbaf663fa8d6fc1c816.jpg
     width: 810
     height: 1080
-  - file: eb3ade3e0161f2d1718ef0ac84af8d76f482dc59420002ed301c3bd2093e76d4.jpg
+  - file: 90eac249c2a6d3a36fd2782878f6372e5c03c4b6c864cd271e07de962ac9489d.jpg
     type: image
-    url: https://static.perigon.de/static/20260403-day-9-discovering-antalyas-coast-12000-km-the-complete-silk-road-silkroad/eb3ade3e0161f2d1718ef0ac84af8d76f482dc59420002ed301c3bd2093e76d4.jpg
+    url: https://static.perigon.de/static/20260403-day-9-discovering-antalyas-coast-12000-km-the-complete-silk-road-silkroad/90eac249c2a6d3a36fd2782878f6372e5c03c4b6c864cd271e07de962ac9489d.jpg
     width: 810
     height: 1080
-  - file: 8cdf92245031eb5429e7221706f7b43925e2fe9ececc8ae784c2701bb9d10499.jpg
+  - file: 65b32fc757fb037e5c67e955ba632a723ce4e1df4aea92f00af4a20340d231d4.jpg
     type: image
-    url: https://static.perigon.de/static/20260403-day-9-discovering-antalyas-coast-12000-km-the-complete-silk-road-silkroad/8cdf92245031eb5429e7221706f7b43925e2fe9ececc8ae784c2701bb9d10499.jpg
+    url: https://static.perigon.de/static/20260403-day-9-discovering-antalyas-coast-12000-km-the-complete-silk-road-silkroad/65b32fc757fb037e5c67e955ba632a723ce4e1df4aea92f00af4a20340d231d4.jpg
     width: 810
     height: 1080
-  - file: 445d70f74624d6b79dd4d31a30fc23a175578d30d5621b65cd967e74e33484f7.jpg
+  - file: b258cac1a4cbec44d551eaad6f5dae405a0e96729ce1dea88ab8556c5108ad4f.jpg
     type: image
-    url: https://static.perigon.de/static/20260403-day-9-discovering-antalyas-coast-12000-km-the-complete-silk-road-silkroad/445d70f74624d6b79dd4d31a30fc23a175578d30d5621b65cd967e74e33484f7.jpg
+    url: https://static.perigon.de/static/20260403-day-9-discovering-antalyas-coast-12000-km-the-complete-silk-road-silkroad/b258cac1a4cbec44d551eaad6f5dae405a0e96729ce1dea88ab8556c5108ad4f.jpg
     width: 1080
     height: 810
 ---
