@@ -15,39 +15,39 @@ media:
     width: 1080
     height: 1080
     motto: true
-  - file: 270ae8ba1d7332e7d85cd4aa77882fa9ff58505ba1f1ea33cc701b06da45749f.jpg
+  - file: 381d2085883aa51cba508cd794c98ce3c1d22f015fded96c795e1e413ab8b020.jpg
     type: image
-    url: https://static.perigon.de/static/20260327-day-2-across-the-alps-to-bari-12000-km-the-complete-silk-road-silkroad/270ae8ba1d7332e7d85cd4aa77882fa9ff58505ba1f1ea33cc701b06da45749f.jpg
+    url: https://static.perigon.de/static/20260327-day-2-across-the-alps-to-bari-12000-km-the-complete-silk-road-silkroad/381d2085883aa51cba508cd794c98ce3c1d22f015fded96c795e1e413ab8b020.jpg
     width: 1080
     height: 748
-  - file: d3997f3a4c54c213cebb76767b8209ff1b80749ad594a6acdc522bd95392d6f5.jpg
+  - file: 01202e6b605667bb9e13439073b7275ec6f3658f7cf4332570595893ab0bebdf.jpg
     type: image
-    url: https://static.perigon.de/static/20260327-day-2-across-the-alps-to-bari-12000-km-the-complete-silk-road-silkroad/d3997f3a4c54c213cebb76767b8209ff1b80749ad594a6acdc522bd95392d6f5.jpg
+    url: https://static.perigon.de/static/20260327-day-2-across-the-alps-to-bari-12000-km-the-complete-silk-road-silkroad/01202e6b605667bb9e13439073b7275ec6f3658f7cf4332570595893ab0bebdf.jpg
     width: 1080
     height: 662
-  - file: 83c6f271ddb7b6940ef7096c6aefbbabfee2c85d55c1080088326b89952eed56.jpg
+  - file: aedc1658f191b64d9df61989d44107dc1b39c81aafd03c0b8c2693f382a5dfe6.jpg
     type: image
-    url: https://static.perigon.de/static/20260327-day-2-across-the-alps-to-bari-12000-km-the-complete-silk-road-silkroad/83c6f271ddb7b6940ef7096c6aefbbabfee2c85d55c1080088326b89952eed56.jpg
+    url: https://static.perigon.de/static/20260327-day-2-across-the-alps-to-bari-12000-km-the-complete-silk-road-silkroad/aedc1658f191b64d9df61989d44107dc1b39c81aafd03c0b8c2693f382a5dfe6.jpg
     width: 1080
     height: 824
-  - file: 4c4630ff77bc1afa43c79f8f1bea8b4bcc2abd3aa1e7c24b885d3bf5cf67e4df.jpg
+  - file: 728ee2402928c7b4520bf52e9913bdce0aa8fec1a2ee1e92b2eaf1f85da80136.jpg
     type: image
-    url: https://static.perigon.de/static/20260327-day-2-across-the-alps-to-bari-12000-km-the-complete-silk-road-silkroad/4c4630ff77bc1afa43c79f8f1bea8b4bcc2abd3aa1e7c24b885d3bf5cf67e4df.jpg
+    url: https://static.perigon.de/static/20260327-day-2-across-the-alps-to-bari-12000-km-the-complete-silk-road-silkroad/728ee2402928c7b4520bf52e9913bdce0aa8fec1a2ee1e92b2eaf1f85da80136.jpg
     width: 1080
     height: 746
-  - file: 93335d710dd6213bd390ccb76c3a1fcc8572fa481b5f58eeaed396ebfb65e89c.jpg
+  - file: 901eb358ef7fd2766efc63fb4093490076608078a7f250964d5d0ddd55879e68.jpg
     type: image
-    url: https://static.perigon.de/static/20260327-day-2-across-the-alps-to-bari-12000-km-the-complete-silk-road-silkroad/93335d710dd6213bd390ccb76c3a1fcc8572fa481b5f58eeaed396ebfb65e89c.jpg
+    url: https://static.perigon.de/static/20260327-day-2-across-the-alps-to-bari-12000-km-the-complete-silk-road-silkroad/901eb358ef7fd2766efc63fb4093490076608078a7f250964d5d0ddd55879e68.jpg
     width: 1080
     height: 480
-  - file: a67ec25b5da64a28d161059d844cb6922d7dea999893c89b2b55823f5af9cd4f.jpg
+  - file: 2000bafb117eb17167cee3c1590fdb57cfe8990ee49ab82545a7b543df1ff213.jpg
     type: image
-    url: https://static.perigon.de/static/20260327-day-2-across-the-alps-to-bari-12000-km-the-complete-silk-road-silkroad/a67ec25b5da64a28d161059d844cb6922d7dea999893c89b2b55823f5af9cd4f.jpg
+    url: https://static.perigon.de/static/20260327-day-2-across-the-alps-to-bari-12000-km-the-complete-silk-road-silkroad/2000bafb117eb17167cee3c1590fdb57cfe8990ee49ab82545a7b543df1ff213.jpg
     width: 1080
     height: 570
-  - file: 78df51b55ae90d12780a04efc26d14b6f057c924d5ede837ab52ddac7fd500e9.jpg
+  - file: 6d52ae4939f3cba1d0d80d90c480f951ed75fefe3a4fd84e9baea76465174f6c.jpg
     type: image
-    url: https://static.perigon.de/static/20260327-day-2-across-the-alps-to-bari-12000-km-the-complete-silk-road-silkroad/78df51b55ae90d12780a04efc26d14b6f057c924d5ede837ab52ddac7fd500e9.jpg
+    url: https://static.perigon.de/static/20260327-day-2-across-the-alps-to-bari-12000-km-the-complete-silk-road-silkroad/6d52ae4939f3cba1d0d80d90c480f951ed75fefe3a4fd84e9baea76465174f6c.jpg
     width: 1080
     height: 605
 ---
