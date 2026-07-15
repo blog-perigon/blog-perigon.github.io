@@ -15,29 +15,29 @@ media:
     width: 1080
     height: 1080
     motto: true
-  - file: 8ac869644fd5b25e33506b2a37710a5cd818eed8668247bf59c2201324e78b18.jpg
+  - file: e16681ca82f0f59ef9c778565ce529508257c23dfb41bf536a2639f288d99de5.jpg
     type: image
-    url: https://static.perigon.de/static/20260326-day-1-crossing-germany-to-munich-12000-km-the-complete-silk-road-silkroad/8ac869644fd5b25e33506b2a37710a5cd818eed8668247bf59c2201324e78b18.jpg
+    url: https://static.perigon.de/static/20260326-day-1-crossing-germany-to-munich-12000-km-the-complete-silk-road-silkroad/e16681ca82f0f59ef9c778565ce529508257c23dfb41bf536a2639f288d99de5.jpg
     width: 810
     height: 1080
-  - file: 0395047e52a14f9bda43112d56d95beaabd5b42b480d0f5c48e988d083a4f7c5.jpg
+  - file: bcf8aa5dc5bb55b26f82dc5b4d241640658b7e2616684c0010b9db196c040a34.jpg
     type: image
-    url: https://static.perigon.de/static/20260326-day-1-crossing-germany-to-munich-12000-km-the-complete-silk-road-silkroad/0395047e52a14f9bda43112d56d95beaabd5b42b480d0f5c48e988d083a4f7c5.jpg
+    url: https://static.perigon.de/static/20260326-day-1-crossing-germany-to-munich-12000-km-the-complete-silk-road-silkroad/bcf8aa5dc5bb55b26f82dc5b4d241640658b7e2616684c0010b9db196c040a34.jpg
     width: 1080
     height: 810
-  - file: 127f94f0a8719a46b6a860c637f6b5b944cc011c655957dfaa9ba70bb0c761a5.jpg
+  - file: b0e0ceafa48865ae260ce61332694c3ab2309c4a0a62cf87e7442ca4f81b14b0.jpg
     type: image
-    url: https://static.perigon.de/static/20260326-day-1-crossing-germany-to-munich-12000-km-the-complete-silk-road-silkroad/127f94f0a8719a46b6a860c637f6b5b944cc011c655957dfaa9ba70bb0c761a5.jpg
+    url: https://static.perigon.de/static/20260326-day-1-crossing-germany-to-munich-12000-km-the-complete-silk-road-silkroad/b0e0ceafa48865ae260ce61332694c3ab2309c4a0a62cf87e7442ca4f81b14b0.jpg
     width: 1080
     height: 810
-  - file: 3bafcf91f2edb7a834ce680901b7fff90e5853399c64a78c1cb05d6bca10719e.jpg
+  - file: 6587259bf6fa701349eaf239e40a6c0864c178800ad54331dd4cc809ff7c6d77.jpg
     type: image
-    url: https://static.perigon.de/static/20260326-day-1-crossing-germany-to-munich-12000-km-the-complete-silk-road-silkroad/3bafcf91f2edb7a834ce680901b7fff90e5853399c64a78c1cb05d6bca10719e.jpg
+    url: https://static.perigon.de/static/20260326-day-1-crossing-germany-to-munich-12000-km-the-complete-silk-road-silkroad/6587259bf6fa701349eaf239e40a6c0864c178800ad54331dd4cc809ff7c6d77.jpg
     width: 1080
     height: 810
-  - file: 465df00e31f074903374dd4c434ea8de4bd652adca773e98fd183c2de86efc85.jpg
+  - file: 05bf8f828e48fe7b1ccb08b675c394af8a3c4fca92960fdb3a2f551253359fa7.jpg
     type: image
-    url: https://static.perigon.de/static/20260326-day-1-crossing-germany-to-munich-12000-km-the-complete-silk-road-silkroad/465df00e31f074903374dd4c434ea8de4bd652adca773e98fd183c2de86efc85.jpg
+    url: https://static.perigon.de/static/20260326-day-1-crossing-germany-to-munich-12000-km-the-complete-silk-road-silkroad/05bf8f828e48fe7b1ccb08b675c394af8a3c4fca92960fdb3a2f551253359fa7.jpg
     width: 1080
     height: 810
 ---
