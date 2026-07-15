@@ -7,11 +7,11 @@ motto: "Through the Taklamakan to Kashgar"
 teaser: "Spent most of the day in the hotel, before going to fetch the train close to midnight. Arrived in Kashgar the next day around noon."
 tags:
   - silkroad
-image: "https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/39f5dac11eecf45ce63d723c56bb634da2778356e07d0b24cd07dbd68f0ed3f7.jpg"
+image: "https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/fcfe080d37d4cd3f5468b3c323796cc506ebc578f524ff384783d0fb64481c4c.jpg"
 media:
-  - file: 39f5dac11eecf45ce63d723c56bb634da2778356e07d0b24cd07dbd68f0ed3f7.jpg
+  - file: fcfe080d37d4cd3f5468b3c323796cc506ebc578f524ff384783d0fb64481c4c.jpg
     type: image
-    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/39f5dac11eecf45ce63d723c56bb634da2778356e07d0b24cd07dbd68f0ed3f7.jpg
+    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/fcfe080d37d4cd3f5468b3c323796cc506ebc578f524ff384783d0fb64481c4c.jpg
     width: 1080
     height: 810
     motto: true
@@ -25,129 +25,129 @@ media:
     url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/0509baeb87be37dc796f296b7567e24aaa24dfee764059df3072eae20a912bbb.jpg
     width: 1080
     height: 1080
-  - file: 7c9a8b7d869f11378f5f59b2d935f42e16b2a2a7a5fb966d95252859dc614da7.jpg
+  - file: 3366aa73b07328214c9edda76e776a2802154aba2376cc63fbb2aaa224bbc4b2.jpg
     type: image
-    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/7c9a8b7d869f11378f5f59b2d935f42e16b2a2a7a5fb966d95252859dc614da7.jpg
+    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/3366aa73b07328214c9edda76e776a2802154aba2376cc63fbb2aaa224bbc4b2.jpg
     width: 1080
     height: 607
-  - file: 77c014d606b49da7456413d9f97c2499d0f33242f8df0709693b35bb0533dee6.jpg
+  - file: 0d29c9bae7a92f891e89a1b22249456aade5901eec110be227a75313ee494bac.jpg
     type: image
-    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/77c014d606b49da7456413d9f97c2499d0f33242f8df0709693b35bb0533dee6.jpg
+    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/0d29c9bae7a92f891e89a1b22249456aade5901eec110be227a75313ee494bac.jpg
     width: 1080
     height: 810
-  - file: 2eba720db220b090e251c5d7de0d82fb921bba7aed5a5c5c376eeac93dab30c5.jpg
+  - file: e7f2b18149d568c46e07129f7e7b6d00ecd1f0cbb81e6eaae77a85915c2f8b61.jpg
     type: image
-    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/2eba720db220b090e251c5d7de0d82fb921bba7aed5a5c5c376eeac93dab30c5.jpg
+    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/e7f2b18149d568c46e07129f7e7b6d00ecd1f0cbb81e6eaae77a85915c2f8b61.jpg
     width: 1080
     height: 810
-  - file: ccbb6eb28dde418f5f0e4da7479a76ae83a0e738f6762ae452ea8de069fb1c4a.jpg
+  - file: 51f96b10a97ab17f738939168f455059b67e10a39c4f0a625d2f0b75f14d4222.jpg
     type: image
-    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/ccbb6eb28dde418f5f0e4da7479a76ae83a0e738f6762ae452ea8de069fb1c4a.jpg
+    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/51f96b10a97ab17f738939168f455059b67e10a39c4f0a625d2f0b75f14d4222.jpg
     width: 1080
     height: 810
-  - file: c3819085785bf082cde49008ed108850bdfe9ff4d740124d790f367241403f97.jpg
+  - file: 1e648526b8fb20045dea91e8aff6a448531cb9ccdb04620c2f24a5fc755083ca.jpg
     type: image
-    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/c3819085785bf082cde49008ed108850bdfe9ff4d740124d790f367241403f97.jpg
+    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/1e648526b8fb20045dea91e8aff6a448531cb9ccdb04620c2f24a5fc755083ca.jpg
     width: 1080
     height: 607
-  - file: 5faf163f9f5f38b25685adab52728d44b4b4b755428fc4de193e3491ba0b423f.jpg
+  - file: e6436a43cd80452d99841d9e1c92ec924c2d4dbf88fbb7b277e5ee3b55b4fd02.jpg
     type: image
-    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/5faf163f9f5f38b25685adab52728d44b4b4b755428fc4de193e3491ba0b423f.jpg
+    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/e6436a43cd80452d99841d9e1c92ec924c2d4dbf88fbb7b277e5ee3b55b4fd02.jpg
     width: 1080
     height: 607
-  - file: 8f46d9e8b3c2c81d7cccf8b36affb46faf30c046da10ab00861ba4a65fd5f84b.jpg
+  - file: e05ad7969dbef693e7fe9afb4a55230dacb67cbfb716005d3bd62533a8bc3c79.jpg
     type: image
-    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/8f46d9e8b3c2c81d7cccf8b36affb46faf30c046da10ab00861ba4a65fd5f84b.jpg
+    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/e05ad7969dbef693e7fe9afb4a55230dacb67cbfb716005d3bd62533a8bc3c79.jpg
     width: 1080
     height: 607
-  - file: 70c40c72b2b2788deeded9f881a75d0dd76ef0e9cf32a0e367bc703282258006.jpg
+  - file: e551cf8f99245ff5d2ed9f9aaa46f8301d68dc827d3a4f48cda7c5a2ac865d55.jpg
     type: image
-    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/70c40c72b2b2788deeded9f881a75d0dd76ef0e9cf32a0e367bc703282258006.jpg
+    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/e551cf8f99245ff5d2ed9f9aaa46f8301d68dc827d3a4f48cda7c5a2ac865d55.jpg
     width: 1080
     height: 607
-  - file: 4446c281f1d3b9f8114ce8f678bf32d406f9adb2723e69776524443d6ec6f417.jpg
+  - file: d01d99b6061e2947fb386dc270690556693d7c774472497f895c2b50fe922820.jpg
     type: image
-    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/4446c281f1d3b9f8114ce8f678bf32d406f9adb2723e69776524443d6ec6f417.jpg
+    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/d01d99b6061e2947fb386dc270690556693d7c774472497f895c2b50fe922820.jpg
     width: 607
     height: 1080
-  - file: d6c5c20e230f08521e950fe339167024670bd2a43bf31e63d11469d5d632d599.jpg
+  - file: ab8ab361974e4a8d9557fd8beeafc95090ba9b9eef1f2bd1a1838bbc5bdc93cb.jpg
     type: image
-    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/d6c5c20e230f08521e950fe339167024670bd2a43bf31e63d11469d5d632d599.jpg
+    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/ab8ab361974e4a8d9557fd8beeafc95090ba9b9eef1f2bd1a1838bbc5bdc93cb.jpg
     width: 607
     height: 1080
-  - file: 94023a02e4c9e3478455bfcc4c4848c0268637624bb5f66a615bb9af27c23a5a.jpg
+  - file: dc470b00192f55fae96b999c45d81291042cf3496ca43d5a05462c4fad7f75bf.jpg
     type: image
-    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/94023a02e4c9e3478455bfcc4c4848c0268637624bb5f66a615bb9af27c23a5a.jpg
+    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/dc470b00192f55fae96b999c45d81291042cf3496ca43d5a05462c4fad7f75bf.jpg
     width: 607
     height: 1080
-  - file: 7c75cf9120e0607ac813f03ea131facf3e200850deef1ccc571e654097155527.jpg
+  - file: cd82fc69248bf938afe1adcaa0cd922d7e8df9e596147912f80e5af6108fb198.jpg
     type: image
-    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/7c75cf9120e0607ac813f03ea131facf3e200850deef1ccc571e654097155527.jpg
+    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/cd82fc69248bf938afe1adcaa0cd922d7e8df9e596147912f80e5af6108fb198.jpg
     width: 607
     height: 1080
-  - file: 6e8de8539f9831b57eaaccd392ca9d4ef2595abeb541b41c889d9c87bb2fdd84.jpg
+  - file: 442192b4dc08bdfc2d33fb03415e1ff63c93c142214755a6102f9a7d45a5cdef.jpg
     type: image
-    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/6e8de8539f9831b57eaaccd392ca9d4ef2595abeb541b41c889d9c87bb2fdd84.jpg
+    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/442192b4dc08bdfc2d33fb03415e1ff63c93c142214755a6102f9a7d45a5cdef.jpg
     width: 607
     height: 1080
-  - file: df456f5572b244d7163c3f045f1c5b34bcae3f25bd15f342835f68aab0b98b0f.jpg
+  - file: adc26889f4d3edcb6f481a13122fbb6b6c8a44661b5fa0bbd33e710c6fa0764f.jpg
     type: image
-    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/df456f5572b244d7163c3f045f1c5b34bcae3f25bd15f342835f68aab0b98b0f.jpg
+    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/adc26889f4d3edcb6f481a13122fbb6b6c8a44661b5fa0bbd33e710c6fa0764f.jpg
     width: 607
     height: 1080
-  - file: 53a37ce62677f2614f2944b13315c708257e4d218107f13e67777d2e6ae9748b.jpg
+  - file: 779b8f573fd31518aa64e0bfe76f872120940c06984db826bc1eae2830ab9222.jpg
     type: image
-    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/53a37ce62677f2614f2944b13315c708257e4d218107f13e67777d2e6ae9748b.jpg
+    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/779b8f573fd31518aa64e0bfe76f872120940c06984db826bc1eae2830ab9222.jpg
     width: 607
     height: 1080
-  - file: 85a58d6484fa6a9a9ec07db1f54ada61758889a96f87f3ec36b39ccab6f440fb.jpg
+  - file: c16d50d3f9a1a22440209e3e56bcf0da1aba8743796f0f87b84db3db233e52fa.jpg
     type: image
-    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/85a58d6484fa6a9a9ec07db1f54ada61758889a96f87f3ec36b39ccab6f440fb.jpg
+    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/c16d50d3f9a1a22440209e3e56bcf0da1aba8743796f0f87b84db3db233e52fa.jpg
     width: 607
     height: 1080
-  - file: 7972b953f29b426d18b2420e075e21ce51ca352b9f394f18eb4e6973e4f6c1b1.jpg
+  - file: a3269276ef298135ffddde88a8b41b9ffc05dea6dddc0fc9062efac5f2fd5a8e.jpg
     type: image
-    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/7972b953f29b426d18b2420e075e21ce51ca352b9f394f18eb4e6973e4f6c1b1.jpg
+    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/a3269276ef298135ffddde88a8b41b9ffc05dea6dddc0fc9062efac5f2fd5a8e.jpg
     width: 607
     height: 1080
-  - file: 0602a4585c467fefd7e11364f1de92b0c0f2023f0c071c4cfecb48f973f60cf9.jpg
+  - file: e4b47980369f4c014554be14e83fff86a6dd62633993f39f0ed259bb0c480874.jpg
     type: image
-    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/0602a4585c467fefd7e11364f1de92b0c0f2023f0c071c4cfecb48f973f60cf9.jpg
+    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/e4b47980369f4c014554be14e83fff86a6dd62633993f39f0ed259bb0c480874.jpg
     width: 607
     height: 1080
-  - file: 308fd4296c189e40e233fe5c688586a882bbdb064d8d54550087d9c69fc17ac0.jpg
+  - file: e5d37be683b0922811270c35bed9bf2a26348655a5cf8cc2a601769a76098a13.jpg
     type: image
-    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/308fd4296c189e40e233fe5c688586a882bbdb064d8d54550087d9c69fc17ac0.jpg
+    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/e5d37be683b0922811270c35bed9bf2a26348655a5cf8cc2a601769a76098a13.jpg
     width: 607
     height: 1080
-  - file: 85a44ddbc38629553848badfc9b6a27f6e4a2930ac46350c743716be5d101328.jpg
+  - file: ee3165c593ece8858bd379e31a871fe3c4ae9155ece5d191a7303690adbb2462.jpg
     type: image
-    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/85a44ddbc38629553848badfc9b6a27f6e4a2930ac46350c743716be5d101328.jpg
+    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/ee3165c593ece8858bd379e31a871fe3c4ae9155ece5d191a7303690adbb2462.jpg
     width: 607
     height: 1080
-  - file: c8470be6e2aa8a2e71ab0616276543c3966908246c83ea0b8ebd9d9d75be6611.jpg
+  - file: 7bcc6acea48bb7b2ebd17b0167eeffdfb661b7af41ace465bb7d1277a2a92cd3.jpg
     type: image
-    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/c8470be6e2aa8a2e71ab0616276543c3966908246c83ea0b8ebd9d9d75be6611.jpg
+    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/7bcc6acea48bb7b2ebd17b0167eeffdfb661b7af41ace465bb7d1277a2a92cd3.jpg
     width: 607
     height: 1080
-  - file: c923af3c380c0daa8d244f7b7692cb2d56c2ec2cf15fb412e664cf3a540817db.jpg
+  - file: b8fc5bd4779d7c50b498b8c3d7ac49766c0da46318b1cb44dd6ca87a6f48fd9e.jpg
     type: image
-    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/c923af3c380c0daa8d244f7b7692cb2d56c2ec2cf15fb412e664cf3a540817db.jpg
+    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/b8fc5bd4779d7c50b498b8c3d7ac49766c0da46318b1cb44dd6ca87a6f48fd9e.jpg
     width: 810
     height: 1080
-  - file: b2de47033b22aeff5bdb5630a924f8a6ed8ef217eb4fc6d6a8a2f7a98860b552.jpg
+  - file: eca163ed065d2d7c5ab1c40b8ff5f64c306b47db99e4e63dcf743c68aa33936e.jpg
     type: image
-    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/b2de47033b22aeff5bdb5630a924f8a6ed8ef217eb4fc6d6a8a2f7a98860b552.jpg
+    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/eca163ed065d2d7c5ab1c40b8ff5f64c306b47db99e4e63dcf743c68aa33936e.jpg
     width: 810
     height: 1080
-  - file: 48454ed1d049bdac2316facabb1cef1d0e99ca485bdb86c5c0c3a0b54cd3fd03.jpg
+  - file: f85515af223f519d6f250ba1fea98b767ffff53bf9241d12beffc9ff6131bf66.jpg
     type: image
-    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/48454ed1d049bdac2316facabb1cef1d0e99ca485bdb86c5c0c3a0b54cd3fd03.jpg
+    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/f85515af223f519d6f250ba1fea98b767ffff53bf9241d12beffc9ff6131bf66.jpg
     width: 810
     height: 1080
-  - file: 266d5ea3d0d17114b23da1d29daac10d579d10ee955aa6fc86430b624b792442.jpg
+  - file: 17ac08cf49d176b576eca4a8ba9aeb6a4f663255ba6df3b91b48b7a65058b94d.jpg
     type: image
-    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/266d5ea3d0d17114b23da1d29daac10d579d10ee955aa6fc86430b624b792442.jpg
+    url: https://static.perigon.de/static/20260425-day-3132-through-the-taklamakan-to-kashgar-12000-km-the-complete-silk-road-silkroad/17ac08cf49d176b576eca4a8ba9aeb6a4f663255ba6df3b91b48b7a65058b94d.jpg
     width: 607
     height: 1080
 ---
