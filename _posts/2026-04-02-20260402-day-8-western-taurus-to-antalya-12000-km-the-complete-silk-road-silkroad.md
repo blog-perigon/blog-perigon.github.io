@@ -15,59 +15,59 @@ media:
     width: 1080
     height: 1080
     motto: true
-  - file: 311ecddc845cb67f19fd83bb64f3ae15b7ad7ab1b8945fe9d2433bce9f332823.jpg
+  - file: e7622a19998088ad238d861c3ca00772ad1b4a8c229cc717c447f08b46463ad5.jpg
     type: image
-    url: https://static.perigon.de/static/20260402-day-8-western-taurus-to-antalya-12000-km-the-complete-silk-road-silkroad/311ecddc845cb67f19fd83bb64f3ae15b7ad7ab1b8945fe9d2433bce9f332823.jpg
+    url: https://static.perigon.de/static/20260402-day-8-western-taurus-to-antalya-12000-km-the-complete-silk-road-silkroad/e7622a19998088ad238d861c3ca00772ad1b4a8c229cc717c447f08b46463ad5.jpg
     width: 1080
     height: 619
-  - file: 6ba10b3ed5e3e5cacfc33f185b84643320fb7e115bb85e8d84050892fe8dcf71.jpg
+  - file: 9eefea072da60db12687a2e1253568cf87e3dbf37055f5765ab31e42c41c26a9.jpg
     type: image
-    url: https://static.perigon.de/static/20260402-day-8-western-taurus-to-antalya-12000-km-the-complete-silk-road-silkroad/6ba10b3ed5e3e5cacfc33f185b84643320fb7e115bb85e8d84050892fe8dcf71.jpg
+    url: https://static.perigon.de/static/20260402-day-8-western-taurus-to-antalya-12000-km-the-complete-silk-road-silkroad/9eefea072da60db12687a2e1253568cf87e3dbf37055f5765ab31e42c41c26a9.jpg
     width: 607
     height: 1080
-  - file: 6769a53fab1cfebec793419b5a77d644b1104ffc26fe6426b48977377359aeab.jpg
+  - file: 672fac0490dd1f1254afcb290191dfa70df982a9478eb6221ef30ab4b7e317e1.jpg
     type: image
-    url: https://static.perigon.de/static/20260402-day-8-western-taurus-to-antalya-12000-km-the-complete-silk-road-silkroad/6769a53fab1cfebec793419b5a77d644b1104ffc26fe6426b48977377359aeab.jpg
+    url: https://static.perigon.de/static/20260402-day-8-western-taurus-to-antalya-12000-km-the-complete-silk-road-silkroad/672fac0490dd1f1254afcb290191dfa70df982a9478eb6221ef30ab4b7e317e1.jpg
     width: 1080
     height: 790
-  - file: 388478945351e7957ca7f14834dc81945432b5be0dbc8cac32da4bdaa6e3ef73.jpg
+  - file: 2ad61d80283345d8cae575987689041d937fcb23db3d82a650ac6385bf5b7188.jpg
     type: image
-    url: https://static.perigon.de/static/20260402-day-8-western-taurus-to-antalya-12000-km-the-complete-silk-road-silkroad/388478945351e7957ca7f14834dc81945432b5be0dbc8cac32da4bdaa6e3ef73.jpg
+    url: https://static.perigon.de/static/20260402-day-8-western-taurus-to-antalya-12000-km-the-complete-silk-road-silkroad/2ad61d80283345d8cae575987689041d937fcb23db3d82a650ac6385bf5b7188.jpg
     width: 845
     height: 1080
-  - file: f0bb8e4cb4af60b6633887316adf3a92bd99fc2a5151929ca67507845fdb5583.jpg
+  - file: cf16c2bf5290dd25909c43eded4ebfe8f8ba9d61bf219ba4773e2128090752ec.jpg
     type: image
-    url: https://static.perigon.de/static/20260402-day-8-western-taurus-to-antalya-12000-km-the-complete-silk-road-silkroad/f0bb8e4cb4af60b6633887316adf3a92bd99fc2a5151929ca67507845fdb5583.jpg
+    url: https://static.perigon.de/static/20260402-day-8-western-taurus-to-antalya-12000-km-the-complete-silk-road-silkroad/cf16c2bf5290dd25909c43eded4ebfe8f8ba9d61bf219ba4773e2128090752ec.jpg
     width: 1080
     height: 525
-  - file: 2463a7e620f9006eb6dbc5f800e2aa84ebdb8a0fa4a88dc94bdb9c13bed747c5.jpg
+  - file: 556197310ada4237b45883c82a27117d07fa9a238730ef499a1632f1967e5e0a.jpg
     type: image
-    url: https://static.perigon.de/static/20260402-day-8-western-taurus-to-antalya-12000-km-the-complete-silk-road-silkroad/2463a7e620f9006eb6dbc5f800e2aa84ebdb8a0fa4a88dc94bdb9c13bed747c5.jpg
+    url: https://static.perigon.de/static/20260402-day-8-western-taurus-to-antalya-12000-km-the-complete-silk-road-silkroad/556197310ada4237b45883c82a27117d07fa9a238730ef499a1632f1967e5e0a.jpg
     width: 1080
     height: 554
-  - file: e0ad0e8a4a0b3aece03b5aabbf22fa59d36be1866d65b8dba239da1bb4f3e1d4.jpg
+  - file: cf0ba1b06439dd00cb250d75f1be3f36cc24155ae4941f98752392267dcd2939.jpg
     type: image
-    url: https://static.perigon.de/static/20260402-day-8-western-taurus-to-antalya-12000-km-the-complete-silk-road-silkroad/e0ad0e8a4a0b3aece03b5aabbf22fa59d36be1866d65b8dba239da1bb4f3e1d4.jpg
+    url: https://static.perigon.de/static/20260402-day-8-western-taurus-to-antalya-12000-km-the-complete-silk-road-silkroad/cf0ba1b06439dd00cb250d75f1be3f36cc24155ae4941f98752392267dcd2939.jpg
     width: 1080
     height: 838
-  - file: 64ab293b8aa50a781daadbf9d382e445bac4e77d04912cfaa519b7733d58f2bc.jpg
+  - file: 9a0c3fb5eaae2cdbe6e599ff9abfb4975c12a2c054368fd1af92e15745bd9ed0.jpg
     type: image
-    url: https://static.perigon.de/static/20260402-day-8-western-taurus-to-antalya-12000-km-the-complete-silk-road-silkroad/64ab293b8aa50a781daadbf9d382e445bac4e77d04912cfaa519b7733d58f2bc.jpg
+    url: https://static.perigon.de/static/20260402-day-8-western-taurus-to-antalya-12000-km-the-complete-silk-road-silkroad/9a0c3fb5eaae2cdbe6e599ff9abfb4975c12a2c054368fd1af92e15745bd9ed0.jpg
     width: 1080
     height: 757
-  - file: 44db6d281f653e7a171b2dc0dbaeb874c123f223e708bc35efe5b09a883e7660.jpg
+  - file: 8ac49bf898c3a666e2624aae96e97b963c58651a840977afb7df84863284356d.jpg
     type: image
-    url: https://static.perigon.de/static/20260402-day-8-western-taurus-to-antalya-12000-km-the-complete-silk-road-silkroad/44db6d281f653e7a171b2dc0dbaeb874c123f223e708bc35efe5b09a883e7660.jpg
+    url: https://static.perigon.de/static/20260402-day-8-western-taurus-to-antalya-12000-km-the-complete-silk-road-silkroad/8ac49bf898c3a666e2624aae96e97b963c58651a840977afb7df84863284356d.jpg
     width: 1080
     height: 974
-  - file: c8cac464d94aa0a916e0821050f9882257b658172079cde042f5c69f90694308.jpg
+  - file: acb01e45eca9c4c370ecaea1c4a3c5b84f688908605673afd93df95dcac810df.jpg
     type: image
-    url: https://static.perigon.de/static/20260402-day-8-western-taurus-to-antalya-12000-km-the-complete-silk-road-silkroad/c8cac464d94aa0a916e0821050f9882257b658172079cde042f5c69f90694308.jpg
+    url: https://static.perigon.de/static/20260402-day-8-western-taurus-to-antalya-12000-km-the-complete-silk-road-silkroad/acb01e45eca9c4c370ecaea1c4a3c5b84f688908605673afd93df95dcac810df.jpg
     width: 810
     height: 1080
-  - file: 84c1355f35351007cd6505ee7ab5492f6eaffa8e2a31f6ebcc4bd26cdf128ab4.jpg
+  - file: 716d0db72cde5aa4e3bfb5195cd5542277855aca7d65d137f0c8c805b6f6b300.jpg
     type: image
-    url: https://static.perigon.de/static/20260402-day-8-western-taurus-to-antalya-12000-km-the-complete-silk-road-silkroad/84c1355f35351007cd6505ee7ab5492f6eaffa8e2a31f6ebcc4bd26cdf128ab4.jpg
+    url: https://static.perigon.de/static/20260402-day-8-western-taurus-to-antalya-12000-km-the-complete-silk-road-silkroad/716d0db72cde5aa4e3bfb5195cd5542277855aca7d65d137f0c8c805b6f6b300.jpg
     width: 1051
     height: 1080
 ---
