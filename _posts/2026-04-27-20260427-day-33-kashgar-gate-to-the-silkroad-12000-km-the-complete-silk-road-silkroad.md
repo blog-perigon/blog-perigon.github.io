@@ -15,164 +15,164 @@ media:
     width: 1080
     height: 1080
     motto: true
-  - file: db23f81f7276efbccda1ee20f2121245baa7b962a6297eb79c74464dd273e27b.jpg
+  - file: f9e069657ef3496f4bda0cb88b85dcab345c5749aac42223225f89127e39f2e4.jpg
     type: image
-    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/db23f81f7276efbccda1ee20f2121245baa7b962a6297eb79c74464dd273e27b.jpg
+    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/f9e069657ef3496f4bda0cb88b85dcab345c5749aac42223225f89127e39f2e4.jpg
     width: 607
     height: 1080
-  - file: 5cac5e61c5a42f52527280a73a2d2f4b75381bc114923cdfe4d6e9c4d45e01d0.jpg
+  - file: 8933347339f9c837872d8e728db36caa1e5452399d1b34c6a4b0fb45f3f592e4.jpg
     type: image
-    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/5cac5e61c5a42f52527280a73a2d2f4b75381bc114923cdfe4d6e9c4d45e01d0.jpg
+    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/8933347339f9c837872d8e728db36caa1e5452399d1b34c6a4b0fb45f3f592e4.jpg
     width: 607
     height: 1080
-  - file: d7837c92b7c94939e675ea0fbb64cb3aee74f50ef1d42b53ef1eeb514ba29575.jpg
+  - file: 98a7c599167b670e3fc29ada4c238fedcfef93ee13da42facc7b75813c909e31.jpg
     type: image
-    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/d7837c92b7c94939e675ea0fbb64cb3aee74f50ef1d42b53ef1eeb514ba29575.jpg
+    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/98a7c599167b670e3fc29ada4c238fedcfef93ee13da42facc7b75813c909e31.jpg
     width: 607
     height: 1080
-  - file: 0e418ee49e60fba3fd9294d6ca1ab0ed556e701a497b9e4bf76d3412a091cd23.jpg
+  - file: fbc24ff40dadc5e1ddb2dba342067f44b4aafdb9589c195a36bd96a80261d920.jpg
     type: image
-    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/0e418ee49e60fba3fd9294d6ca1ab0ed556e701a497b9e4bf76d3412a091cd23.jpg
+    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/fbc24ff40dadc5e1ddb2dba342067f44b4aafdb9589c195a36bd96a80261d920.jpg
     width: 607
     height: 1080
-  - file: ec2cd66f10ec38c46ce2ce8bc336766feebd06b4da62b94ab654bdc2c42bccaf.jpg
+  - file: 40cfa440d8ed8d12ff769a3ceeb5e9ea38c94aceda320e799a52a3636004e79d.jpg
     type: image
-    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/ec2cd66f10ec38c46ce2ce8bc336766feebd06b4da62b94ab654bdc2c42bccaf.jpg
+    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/40cfa440d8ed8d12ff769a3ceeb5e9ea38c94aceda320e799a52a3636004e79d.jpg
     width: 607
     height: 1080
-  - file: cb4c7ce51d1e95272708e57ff89a521da6c1ebd84b23b3c5798801698500dbb8.jpg
+  - file: 509400d835ace83ee169bb77b28e3f7f3aaa4efb227c9361ae8387f1b6108c2a.jpg
     type: image
-    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/cb4c7ce51d1e95272708e57ff89a521da6c1ebd84b23b3c5798801698500dbb8.jpg
+    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/509400d835ace83ee169bb77b28e3f7f3aaa4efb227c9361ae8387f1b6108c2a.jpg
     width: 607
     height: 1080
-  - file: 2adeadbf6f1843142aa537ac782d23c6043295f3d3f1bb68a2383eddbe36026c.jpg
+  - file: eaa45307013fc271cfda28ee791cbda2ba5371d9bea5d71a4dff5fdfc7989da4.jpg
     type: image
-    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/2adeadbf6f1843142aa537ac782d23c6043295f3d3f1bb68a2383eddbe36026c.jpg
+    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/eaa45307013fc271cfda28ee791cbda2ba5371d9bea5d71a4dff5fdfc7989da4.jpg
     width: 607
     height: 1080
-  - file: 1b129309fc2aa378b45ad7cc21e765059d3dcd809d362a111436f58f338afcd7.jpg
+  - file: ba2690fb27626df976883ac1571d8cbd94bd56c8a2d16ee96ab4bd2d79c7fe38.jpg
     type: image
-    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/1b129309fc2aa378b45ad7cc21e765059d3dcd809d362a111436f58f338afcd7.jpg
+    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/ba2690fb27626df976883ac1571d8cbd94bd56c8a2d16ee96ab4bd2d79c7fe38.jpg
     width: 607
     height: 1080
-  - file: bb2545a6ed12a81e2b655b026b32c1edc4c6d16cf961c75dad4c7ebe6bb2e1f9.jpg
+  - file: e6bd9de66e9b0684f4626796b3ac5b9536c380c0d8ff4f9805a241b265621cfd.jpg
     type: image
-    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/bb2545a6ed12a81e2b655b026b32c1edc4c6d16cf961c75dad4c7ebe6bb2e1f9.jpg
+    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/e6bd9de66e9b0684f4626796b3ac5b9536c380c0d8ff4f9805a241b265621cfd.jpg
     width: 607
     height: 1080
-  - file: 45eed4651f0564f4bb6bf872a9df7f02e33d3b7b5713f9a6b7c9b2211b0c0afc.jpg
+  - file: 90f2c8888b0a73af47a9325bf07182fe7735f6b914c76962a99b55c8dd84e931.jpg
     type: image
-    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/45eed4651f0564f4bb6bf872a9df7f02e33d3b7b5713f9a6b7c9b2211b0c0afc.jpg
+    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/90f2c8888b0a73af47a9325bf07182fe7735f6b914c76962a99b55c8dd84e931.jpg
     width: 607
     height: 1080
-  - file: 5a316bb56ae94f0a9982af8c11fd960383dd325bb4c1481cc0f56d49e92fba71.jpg
+  - file: 891ab530b359bb9f345de363b4ae6b0f2556425c5ccb2c324f3080af11967492.jpg
     type: image
-    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/5a316bb56ae94f0a9982af8c11fd960383dd325bb4c1481cc0f56d49e92fba71.jpg
+    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/891ab530b359bb9f345de363b4ae6b0f2556425c5ccb2c324f3080af11967492.jpg
     width: 607
     height: 1080
-  - file: 74a68de07f2cf934fc07217fff934776459da707c26b23de3fb4efcab17c3f8f.jpg
+  - file: 2144c17d8493a0d236fa50398fda4f0576b9abaea56de1c782bc8f1126b90dac.jpg
     type: image
-    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/74a68de07f2cf934fc07217fff934776459da707c26b23de3fb4efcab17c3f8f.jpg
+    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/2144c17d8493a0d236fa50398fda4f0576b9abaea56de1c782bc8f1126b90dac.jpg
     width: 607
     height: 1080
-  - file: 3f80c3967f11e929cacb72472dc51da81c3f4b36a6b53e7b535f0d67a3c5dddc.jpg
+  - file: 8a4c4a2b6cee892e5da2142d50380043083b705b8ed4e44ffad48a816abc9830.jpg
     type: image
-    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/3f80c3967f11e929cacb72472dc51da81c3f4b36a6b53e7b535f0d67a3c5dddc.jpg
+    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/8a4c4a2b6cee892e5da2142d50380043083b705b8ed4e44ffad48a816abc9830.jpg
     width: 607
     height: 1080
-  - file: fb1e4f11db319a14ee12748e5024d392698cc93fb66f6e346b5eacf65a8bcaaf.jpg
+  - file: e239adf227d4fa447145f9e68d21fd12784a02e051a23206e27e405a0ff98d5b.jpg
     type: image
-    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/fb1e4f11db319a14ee12748e5024d392698cc93fb66f6e346b5eacf65a8bcaaf.jpg
+    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/e239adf227d4fa447145f9e68d21fd12784a02e051a23206e27e405a0ff98d5b.jpg
     width: 607
     height: 1080
-  - file: c7bbdd9abc8c2d09ec59a0acf392122620f643e8d39f2eb0a8307c78589240f2.jpg
+  - file: 664c7eac1ac1fc6c5e712db4b384aee2acb61d99f7e782929274367dec4bc47f.jpg
     type: image
-    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/c7bbdd9abc8c2d09ec59a0acf392122620f643e8d39f2eb0a8307c78589240f2.jpg
+    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/664c7eac1ac1fc6c5e712db4b384aee2acb61d99f7e782929274367dec4bc47f.jpg
     width: 607
     height: 1080
-  - file: 6a67c764fa996a1af4382e590192374bde32df8591ce3c87758f50b6e373719b.jpg
+  - file: cea45955aaf6f1b240e4ca4fb9ab60e5686dd4b27c88e3503e93ca556dd1c752.jpg
     type: image
-    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/6a67c764fa996a1af4382e590192374bde32df8591ce3c87758f50b6e373719b.jpg
+    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/cea45955aaf6f1b240e4ca4fb9ab60e5686dd4b27c88e3503e93ca556dd1c752.jpg
     width: 607
     height: 1080
-  - file: 2ac13336dd946eb522726138d0d0f4757cbd3cc8b8e322b8f19f8eb4de888aec.jpg
+  - file: 40d617f13d55cbae86901925d52fe0c6b9bdc597d277bfa7307fe54c24315a71.jpg
     type: image
-    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/2ac13336dd946eb522726138d0d0f4757cbd3cc8b8e322b8f19f8eb4de888aec.jpg
+    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/40d617f13d55cbae86901925d52fe0c6b9bdc597d277bfa7307fe54c24315a71.jpg
     width: 607
     height: 1080
-  - file: a745509170789519d5f7d5c519df69b7822365ddcf728f6b73a961b44a190aa8.jpg
+  - file: a8f0c2d023c3800d7f9d8d2e2ff86204eb1d35f8608e6a97f7a63c88e2d53450.jpg
     type: image
-    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/a745509170789519d5f7d5c519df69b7822365ddcf728f6b73a961b44a190aa8.jpg
+    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/a8f0c2d023c3800d7f9d8d2e2ff86204eb1d35f8608e6a97f7a63c88e2d53450.jpg
     width: 607
     height: 1080
-  - file: ab34d25d600666c4657e4eab1015401de9ec0a01877b5972329e15659db497f2.jpg
+  - file: d6519d538831c48fd87ad9994bdd80e676a68434f78ced046ec3395c15b885f0.jpg
     type: image
-    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/ab34d25d600666c4657e4eab1015401de9ec0a01877b5972329e15659db497f2.jpg
+    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/d6519d538831c48fd87ad9994bdd80e676a68434f78ced046ec3395c15b885f0.jpg
     width: 607
     height: 1080
-  - file: 89c777daa8cc3239ff60232f066e52489018e7049627c9bb325000e3adf2c3d9.jpg
+  - file: cc183edd94ec745913a44286067c6684f0a7f1482b4a432563980a6f6e901128.jpg
     type: image
-    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/89c777daa8cc3239ff60232f066e52489018e7049627c9bb325000e3adf2c3d9.jpg
+    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/cc183edd94ec745913a44286067c6684f0a7f1482b4a432563980a6f6e901128.jpg
     width: 607
     height: 1080
-  - file: 98980aac26dbda107c6a31e4a62a7a9de8f359222443a0078929e8f9b13a93df.jpg
+  - file: 8f58908c663eca130933367db509c3440f7af27007b048ed512f9147018270ab.jpg
     type: image
-    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/98980aac26dbda107c6a31e4a62a7a9de8f359222443a0078929e8f9b13a93df.jpg
+    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/8f58908c663eca130933367db509c3440f7af27007b048ed512f9147018270ab.jpg
     width: 607
     height: 1080
-  - file: 951150b3efb985f3c5880e249344fc080e74bbfa888bbd4636cde0eb94db9370.jpg
+  - file: 35f6a1b315c69e4b9889f86cc6e496c2cc1b23d98c0ba12cdf3e3f3fced4ba07.jpg
     type: image
-    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/951150b3efb985f3c5880e249344fc080e74bbfa888bbd4636cde0eb94db9370.jpg
+    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/35f6a1b315c69e4b9889f86cc6e496c2cc1b23d98c0ba12cdf3e3f3fced4ba07.jpg
     width: 607
     height: 1080
-  - file: f1e117154ba740e5927a8407178cbdcaada34fa0047fd66a6f7df5871d68baff.jpg
+  - file: 430fffde502c10dc7074139b3f5a34f1871ae5f622a38384610e0a91e15c9b27.jpg
     type: image
-    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/f1e117154ba740e5927a8407178cbdcaada34fa0047fd66a6f7df5871d68baff.jpg
+    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/430fffde502c10dc7074139b3f5a34f1871ae5f622a38384610e0a91e15c9b27.jpg
     width: 607
     height: 1080
-  - file: f619e56bf437fe2eec24fa5e203eac952fc3ce516c825331d0be28e0cc38580b.jpg
+  - file: f364f0cfc792077647c9850c529d3f74d920706569931e9d2a642daf19814424.jpg
     type: image
-    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/f619e56bf437fe2eec24fa5e203eac952fc3ce516c825331d0be28e0cc38580b.jpg
+    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/f364f0cfc792077647c9850c529d3f74d920706569931e9d2a642daf19814424.jpg
     width: 607
     height: 1080
-  - file: 04ddb4f0b90c3d7af58e1c72fa8ea4c912f06858ba116567f05862173c9fcb64.jpg
+  - file: 99d3c32d2e29b325ddf3b5ba38eb00b4a643d7c8aa091a7e1208f545be8e0cd6.jpg
     type: image
-    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/04ddb4f0b90c3d7af58e1c72fa8ea4c912f06858ba116567f05862173c9fcb64.jpg
+    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/99d3c32d2e29b325ddf3b5ba38eb00b4a643d7c8aa091a7e1208f545be8e0cd6.jpg
     width: 607
     height: 1080
-  - file: 649a121e101db407b619daed8a981a99e4b9b102ba0108a65c947321282b2c9f.jpg
+  - file: 7eb87094337cd57a506f7901911faeec88db67cc3421a24969d0a3a0b5ea9631.jpg
     type: image
-    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/649a121e101db407b619daed8a981a99e4b9b102ba0108a65c947321282b2c9f.jpg
+    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/7eb87094337cd57a506f7901911faeec88db67cc3421a24969d0a3a0b5ea9631.jpg
     width: 607
     height: 1080
-  - file: 4d3f4d13ce26e7d0e0d5c9e842970c3bfb95d0b4a9b88497030def2edaa6498f.jpg
+  - file: 9eb70203db9f07c0b15d145e26e64110d6c8233a1376eb541527043efe771925.jpg
     type: image
-    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/4d3f4d13ce26e7d0e0d5c9e842970c3bfb95d0b4a9b88497030def2edaa6498f.jpg
+    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/9eb70203db9f07c0b15d145e26e64110d6c8233a1376eb541527043efe771925.jpg
     width: 607
     height: 1080
-  - file: 4db62979f946df8d20c6973779e7e765480ed009da402c088585331a0b8e36c6.jpg
+  - file: 8b224799fb63da0a08c62a577939778ff00a1265795b0e2cda48cd91c671e446.jpg
     type: image
-    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/4db62979f946df8d20c6973779e7e765480ed009da402c088585331a0b8e36c6.jpg
+    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/8b224799fb63da0a08c62a577939778ff00a1265795b0e2cda48cd91c671e446.jpg
     width: 1080
     height: 607
-  - file: 118d7e132e5196e60b81738ba33a22ca3dd6f6b3863a3e2ff71960c0d3f8b289.jpg
+  - file: 0d72ff589799094026b31890042ca56a4ade8dbe9999b56f6d2d64ae05e2a274.jpg
     type: image
-    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/118d7e132e5196e60b81738ba33a22ca3dd6f6b3863a3e2ff71960c0d3f8b289.jpg
+    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/0d72ff589799094026b31890042ca56a4ade8dbe9999b56f6d2d64ae05e2a274.jpg
     width: 1080
     height: 607
-  - file: 66c009df7a583c7b771f08c3fc21ab0bfe5a13653ac7bd40f2d79f93e833dc41.jpg
+  - file: ffcf7cd8ee553837ef2814d3d05e813e5d57a2bae16e80e1eaafaa50a4d8ed46.jpg
     type: image
-    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/66c009df7a583c7b771f08c3fc21ab0bfe5a13653ac7bd40f2d79f93e833dc41.jpg
+    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/ffcf7cd8ee553837ef2814d3d05e813e5d57a2bae16e80e1eaafaa50a4d8ed46.jpg
     width: 1080
     height: 607
-  - file: 99b45b228270eabaf316d444bb527c638c311b762cad9be4a09af095c9420f32.jpg
+  - file: 236a2352a965b08e60309caa69d9da41e60efd0ae786d2ff53409727706e0b2c.jpg
     type: image
-    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/99b45b228270eabaf316d444bb527c638c311b762cad9be4a09af095c9420f32.jpg
+    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/236a2352a965b08e60309caa69d9da41e60efd0ae786d2ff53409727706e0b2c.jpg
     width: 1080
     height: 607
-  - file: 3d1246e55064293ed3d44070b6757f368939f3c73a8aead841144c31cec47af9.jpg
+  - file: 4d38056b582fb45f2f288b41d5a98cdb8afab1efea9bc74ef334be353837b204.jpg
     type: image
-    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/3d1246e55064293ed3d44070b6757f368939f3c73a8aead841144c31cec47af9.jpg
+    url: https://static.perigon.de/static/20260427-day-33-kashgar-gate-to-the-silkroad-12000-km-the-complete-silk-road-silkroad/4d38056b582fb45f2f288b41d5a98cdb8afab1efea9bc74ef334be353837b204.jpg
     width: 607
     height: 1080
 ---
