@@ -7,11 +7,11 @@ motto: "Tour to Jiaohe and Aydinköl"
 teaser: "I spend the day discovering the surroundings of Turpan(Turufan). Hired a driver and first went to Aydingköl and then visited Jiaohe Ancient Uighur City."
 tags:
   - silkroad
-image: "https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/1c218219edd5c8ccb2315d1af9b30221decf17bd2f00cb614794d155eed3e726.jpg"
+image: "https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/c5e620d87eeed043fb4e68ec21196b40d0f1ba34c1719b3b9c32c8592653d0b3.jpg"
 media:
-  - file: 1c218219edd5c8ccb2315d1af9b30221decf17bd2f00cb614794d155eed3e726.jpg
+  - file: c5e620d87eeed043fb4e68ec21196b40d0f1ba34c1719b3b9c32c8592653d0b3.jpg
     type: image
-    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/1c218219edd5c8ccb2315d1af9b30221decf17bd2f00cb614794d155eed3e726.jpg
+    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/c5e620d87eeed043fb4e68ec21196b40d0f1ba34c1719b3b9c32c8592653d0b3.jpg
     width: 1080
     height: 607
     motto: true
@@ -20,149 +20,149 @@ media:
     url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/75085ca36132a0ad50c4b75827f480867bd4b976536b62fbdd0b67520e4309b1.jpg
     width: 1080
     height: 1080
-  - file: b1617c9e924982a542b6913bbbf373dc5dc179f2ba6d32330d6822861df417f6.jpg
+  - file: 8b61448a9d088068ac702a2b81339080e54a5c4d1a43d0552124d77d58a92f47.jpg
     type: image
-    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/b1617c9e924982a542b6913bbbf373dc5dc179f2ba6d32330d6822861df417f6.jpg
+    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/8b61448a9d088068ac702a2b81339080e54a5c4d1a43d0552124d77d58a92f47.jpg
     width: 1080
     height: 607
-  - file: 45c447cfbeb90f4fae38cc468d2022e0db7cb2b96bd1b18f7db9892aa1758e1a.jpg
+  - file: f3bbb55e291a9906db4e09cafd69745990cdfdf9c722409d2b5f3927cded8169.jpg
     type: image
-    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/45c447cfbeb90f4fae38cc468d2022e0db7cb2b96bd1b18f7db9892aa1758e1a.jpg
+    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/f3bbb55e291a9906db4e09cafd69745990cdfdf9c722409d2b5f3927cded8169.jpg
     width: 1080
     height: 607
-  - file: 2878fc33f354f586f32b3f380b256d250f0bfd796fb25dec17e18665ace082f6.jpg
+  - file: 91e7dc4dc4dbaeb296885b4e998bcef57fb9f17aa1731f4df9cb1806ac876aaf.jpg
     type: image
-    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/2878fc33f354f586f32b3f380b256d250f0bfd796fb25dec17e18665ace082f6.jpg
+    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/91e7dc4dc4dbaeb296885b4e998bcef57fb9f17aa1731f4df9cb1806ac876aaf.jpg
     width: 1080
     height: 607
-  - file: 8e1b07fdd6363a7c6de271adbe21ce72e7a9a7454b00191bfd14be9ede29e8cc.jpg
+  - file: f8b8af7e631528116e9122c7cb4a5841e4407f908e0b82b57cce106da30bf128.jpg
     type: image
-    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/8e1b07fdd6363a7c6de271adbe21ce72e7a9a7454b00191bfd14be9ede29e8cc.jpg
+    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/f8b8af7e631528116e9122c7cb4a5841e4407f908e0b82b57cce106da30bf128.jpg
     width: 1080
     height: 607
-  - file: f5b5e77ecc9a8eb2e3128bf4fd3db53d3e39d8266d01b472c4953e37e04cf112.jpg
+  - file: 908d8b3a2c0d49f7dec96eaa69da964988925fd40e9c1823716b5ae3eb01ee83.jpg
     type: image
-    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/f5b5e77ecc9a8eb2e3128bf4fd3db53d3e39d8266d01b472c4953e37e04cf112.jpg
+    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/908d8b3a2c0d49f7dec96eaa69da964988925fd40e9c1823716b5ae3eb01ee83.jpg
     width: 1080
     height: 607
-  - file: e172585352446cd6610cf0966c7058818abb3505209f518de0b7ff1d8c086f5d.jpg
+  - file: 37a64d648543bd89416b7644ffac263405b74198f68aae26e93e34c53022c7a4.jpg
     type: image
-    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/e172585352446cd6610cf0966c7058818abb3505209f518de0b7ff1d8c086f5d.jpg
+    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/37a64d648543bd89416b7644ffac263405b74198f68aae26e93e34c53022c7a4.jpg
     width: 1080
     height: 607
-  - file: 6ea5866bd457fcfe951bde93e8043789844f7ff390d7eb759aaf9574bdefa1f9.jpg
+  - file: 46cf448f8794bd5e94b37017626554c7c7eefbeb8d971a41aeef24cbc9b2da97.jpg
     type: image
-    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/6ea5866bd457fcfe951bde93e8043789844f7ff390d7eb759aaf9574bdefa1f9.jpg
+    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/46cf448f8794bd5e94b37017626554c7c7eefbeb8d971a41aeef24cbc9b2da97.jpg
     width: 1080
     height: 607
-  - file: 7827eb26c5d4de8e3577b0626226df002eb969c647b846a279408815b47e3759.jpg
+  - file: 309101c48ed71bd8be6376e17be36a544dd089551397feda6f99077735a17ca1.jpg
     type: image
-    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/7827eb26c5d4de8e3577b0626226df002eb969c647b846a279408815b47e3759.jpg
+    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/309101c48ed71bd8be6376e17be36a544dd089551397feda6f99077735a17ca1.jpg
     width: 1080
     height: 607
-  - file: 34a56a42422e00063c5184e2a250826f66a8dc765eb8eae7f43397081d2a2ef7.jpg
+  - file: 2700365c2845308d5801c3cffc8c9cb4edbb2503749b7d45efbc6830d430dddf.jpg
     type: image
-    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/34a56a42422e00063c5184e2a250826f66a8dc765eb8eae7f43397081d2a2ef7.jpg
+    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/2700365c2845308d5801c3cffc8c9cb4edbb2503749b7d45efbc6830d430dddf.jpg
     width: 1080
     height: 607
-  - file: 80d4fa4b7a9fc60394ce2340dd631c044d8577e3fff774e66fe926227f696528.jpg
+  - file: 1d5393779853cced6f9c8d7f773a3ec143c24d18a831708795ab731ded07ed0d.jpg
     type: image
-    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/80d4fa4b7a9fc60394ce2340dd631c044d8577e3fff774e66fe926227f696528.jpg
+    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/1d5393779853cced6f9c8d7f773a3ec143c24d18a831708795ab731ded07ed0d.jpg
     width: 1080
     height: 607
-  - file: 26892966f6b8745a5df962fb3330f2250b8c1f3489f0078e6375e01812881524.jpg
+  - file: 224473731e5a903246ea4f7a86d51268c9f33cb5035cde0baef74f4bcc39b43c.jpg
     type: image
-    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/26892966f6b8745a5df962fb3330f2250b8c1f3489f0078e6375e01812881524.jpg
+    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/224473731e5a903246ea4f7a86d51268c9f33cb5035cde0baef74f4bcc39b43c.jpg
     width: 1080
     height: 607
-  - file: 5e112e3850386600986264e8f027c277b9b0a15c2833f1d4612eb9d4e9a00baa.jpg
+  - file: db8db79d5777344bd66d5dcc093eeef719bf8a9a9b41c0fa9c641d5379763493.jpg
     type: image
-    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/5e112e3850386600986264e8f027c277b9b0a15c2833f1d4612eb9d4e9a00baa.jpg
+    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/db8db79d5777344bd66d5dcc093eeef719bf8a9a9b41c0fa9c641d5379763493.jpg
     width: 1080
     height: 607
-  - file: 1ac59755e9c876597c2594eca530ac07127a3f908892a992594d750aa6fc1560.jpg
+  - file: ff2592477569a6ceae3259684937b926ee45f899936a72eefb59545548532a91.jpg
     type: image
-    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/1ac59755e9c876597c2594eca530ac07127a3f908892a992594d750aa6fc1560.jpg
+    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/ff2592477569a6ceae3259684937b926ee45f899936a72eefb59545548532a91.jpg
     width: 1080
     height: 607
-  - file: e3f3a40b608c70c6a67045ecab8848b1fa4a5f71ebcb3d8f0b6fa59b0bb539ef.jpg
+  - file: a23fbf7c8a64187e5c5561808327cb899e79b20c1a19aed6daf1160a50522371.jpg
     type: image
-    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/e3f3a40b608c70c6a67045ecab8848b1fa4a5f71ebcb3d8f0b6fa59b0bb539ef.jpg
+    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/a23fbf7c8a64187e5c5561808327cb899e79b20c1a19aed6daf1160a50522371.jpg
     width: 1080
     height: 607
-  - file: 121e2acfaaad95cb3154c254309e81e6f73c0ebbdebe46f33bbf9ed4fe111248.jpg
+  - file: 589b78867d3ed01dcae6ba3205e8d9ecefd2b5dab8500c64b49bfc64b0c43df7.jpg
     type: image
-    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/121e2acfaaad95cb3154c254309e81e6f73c0ebbdebe46f33bbf9ed4fe111248.jpg
+    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/589b78867d3ed01dcae6ba3205e8d9ecefd2b5dab8500c64b49bfc64b0c43df7.jpg
     width: 1080
     height: 607
-  - file: 79f39ef5e5bb79ad31cc5bc2de75824e6cee5c05766aabb5f99416e35e5d5223.jpg
+  - file: 35812bd61ea81ec9024efac0d6ac3b25e4fa360cfd19f06336050156158b0a1b.jpg
     type: image
-    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/79f39ef5e5bb79ad31cc5bc2de75824e6cee5c05766aabb5f99416e35e5d5223.jpg
+    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/35812bd61ea81ec9024efac0d6ac3b25e4fa360cfd19f06336050156158b0a1b.jpg
     width: 1080
     height: 607
-  - file: 5f1f64fe12adc60516ec7c821bf4ce43af1eb70f59748d39dc747d2073f9349d.jpg
+  - file: ec99ac2599337703a7f00647417ddd8b2037d2471235e40a71170499f29070f8.jpg
     type: image
-    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/5f1f64fe12adc60516ec7c821bf4ce43af1eb70f59748d39dc747d2073f9349d.jpg
+    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/ec99ac2599337703a7f00647417ddd8b2037d2471235e40a71170499f29070f8.jpg
     width: 1080
     height: 607
-  - file: 088b5c6cbb82b7f291286af7c7d0db6400cadbafa032821c5851a51fc92ea95d.jpg
+  - file: a9cd4e05723d56c52c5fe24c94072a85543bf2cdf890df0a9b800099014ce89b.jpg
     type: image
-    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/088b5c6cbb82b7f291286af7c7d0db6400cadbafa032821c5851a51fc92ea95d.jpg
+    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/a9cd4e05723d56c52c5fe24c94072a85543bf2cdf890df0a9b800099014ce89b.jpg
     width: 1080
     height: 810
-  - file: 8a082b8f3d76c5b82e64e4868f4a2ae6ac0c2955f28043522f3bd57ac93fb4d1.jpg
+  - file: db775e8529f2b1078408aae30b2a71ead5317d030cc6c9b12a2199a809b274e8.jpg
     type: image
-    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/8a082b8f3d76c5b82e64e4868f4a2ae6ac0c2955f28043522f3bd57ac93fb4d1.jpg
+    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/db775e8529f2b1078408aae30b2a71ead5317d030cc6c9b12a2199a809b274e8.jpg
     width: 1080
     height: 810
-  - file: e749f7fc741ed4266aa099462f98277d62269e4ba1fd2d549143d47b5ba3b931.jpg
+  - file: 1357445dd40111346278198d0815b4af934f674298bd4deb6f9e784edfab2078.jpg
     type: image
-    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/e749f7fc741ed4266aa099462f98277d62269e4ba1fd2d549143d47b5ba3b931.jpg
+    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/1357445dd40111346278198d0815b4af934f674298bd4deb6f9e784edfab2078.jpg
     width: 607
     height: 1080
-  - file: 5afb08d44bfa123af8c387faedbbf69119c6a5774bd0da2fbf20d1f4ba10b994.jpg
+  - file: 2967525836a1b1d5d5b3d1876671d7d59f664d72d423bed899f539fccf7cfae3.jpg
     type: image
-    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/5afb08d44bfa123af8c387faedbbf69119c6a5774bd0da2fbf20d1f4ba10b994.jpg
+    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/2967525836a1b1d5d5b3d1876671d7d59f664d72d423bed899f539fccf7cfae3.jpg
     width: 607
     height: 1080
-  - file: 7e251970ac84ba051d5b765cff72130ab9fb03a47e56e986052964ad5b17ec73.jpg
+  - file: 3ebe40d2f1f726adb379be58d7d4b12182c8f47b5b284b789574ab23e51ac2c8.jpg
     type: image
-    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/7e251970ac84ba051d5b765cff72130ab9fb03a47e56e986052964ad5b17ec73.jpg
+    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/3ebe40d2f1f726adb379be58d7d4b12182c8f47b5b284b789574ab23e51ac2c8.jpg
     width: 1080
     height: 607
-  - file: bcd84e2b91c2bbdd00328d16b288b01e79a100a0be62d28f887dc0f40dd4e135.jpg
+  - file: 57a15a89878f68cc47442f0a7085a2d40950e87aef0357cb791139197cfa4005.jpg
     type: image
-    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/bcd84e2b91c2bbdd00328d16b288b01e79a100a0be62d28f887dc0f40dd4e135.jpg
+    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/57a15a89878f68cc47442f0a7085a2d40950e87aef0357cb791139197cfa4005.jpg
     width: 607
     height: 1080
-  - file: 56a37ac9dadd6672bcdfc6bae2fd3d192c7ae18ec8c170e3398ec14add2e46b9.jpg
+  - file: 9baaeb5220bc2254fbd4171f312ead40878255b062f4ca12ee6726d5e3e13b80.jpg
     type: image
-    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/56a37ac9dadd6672bcdfc6bae2fd3d192c7ae18ec8c170e3398ec14add2e46b9.jpg
+    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/9baaeb5220bc2254fbd4171f312ead40878255b062f4ca12ee6726d5e3e13b80.jpg
     width: 1080
     height: 607
-  - file: eced9d4dc2e8d48dd740e0e13698df631e254a4b80a68b855f2ddce5b79acce5.jpg
+  - file: e1299a79f054937e26f09ff04b776319c93a4847ad1eafc2e907cd3dab2a2264.jpg
     type: image
-    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/eced9d4dc2e8d48dd740e0e13698df631e254a4b80a68b855f2ddce5b79acce5.jpg
+    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/e1299a79f054937e26f09ff04b776319c93a4847ad1eafc2e907cd3dab2a2264.jpg
     width: 1080
     height: 810
-  - file: ba21fdab87a33792f3a2beb9d9da072d057d1f29e896cf2332bdec7b1cbe9449.jpg
+  - file: 48b7724994e9cd90f8fea4da2fea447b122f6b8b4ca5221955ee03c4a775c603.jpg
     type: image
-    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/ba21fdab87a33792f3a2beb9d9da072d057d1f29e896cf2332bdec7b1cbe9449.jpg
+    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/48b7724994e9cd90f8fea4da2fea447b122f6b8b4ca5221955ee03c4a775c603.jpg
     width: 1080
     height: 607
-  - file: 8f10a07dfccf0eb2bc42f6aa53339147e81f65f0ae33f30950afea9e301dde58.jpg
+  - file: 7ba87feb9dad6d6bc4f487a1b8bd91a2fe70a27453dc9750a310fa65bb6715ad.jpg
     type: image
-    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/8f10a07dfccf0eb2bc42f6aa53339147e81f65f0ae33f30950afea9e301dde58.jpg
+    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/7ba87feb9dad6d6bc4f487a1b8bd91a2fe70a27453dc9750a310fa65bb6715ad.jpg
     width: 1080
     height: 810
-  - file: a090ebe1fef5b3c01370185e682727eda2a57096e474abbeecfe25d89fd1214d.jpg
+  - file: f15828d087d483a12f65524812369729ad6b16772d7ed69e8cc7df5da4ab23a4.jpg
     type: image
-    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/a090ebe1fef5b3c01370185e682727eda2a57096e474abbeecfe25d89fd1214d.jpg
+    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/f15828d087d483a12f65524812369729ad6b16772d7ed69e8cc7df5da4ab23a4.jpg
     width: 1080
     height: 810
-  - file: 842af040e25a2d96a5bc6fd855513d900fbbf54e3d70376341ff76f218e94d9d.jpg
+  - file: 7807cd5a5476fca0a417ac1b57b71c44b224ce9a56b9899ef68d55d1181986cf.jpg
     type: image
-    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/842af040e25a2d96a5bc6fd855513d900fbbf54e3d70376341ff76f218e94d9d.jpg
+    url: https://static.perigon.de/static/20260424-day-30-tour-to-jiaohe-and-aydinkl-12000-km-the-complete-silk-road-silkroad/7807cd5a5476fca0a417ac1b57b71c44b224ce9a56b9899ef68d55d1181986cf.jpg
     width: 810
     height: 1080
 ---
