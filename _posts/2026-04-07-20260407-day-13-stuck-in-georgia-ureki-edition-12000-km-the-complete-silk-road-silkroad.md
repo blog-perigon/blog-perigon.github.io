@@ -7,11 +7,11 @@ motto: "Stuck in Georgia, Ureki Edition"
 teaser: "It is probably getting repetitive, I am still waiting for the permission to cross the border to Azerbaijan, I applied for more than 40 days ago."
 tags:
   - silkroad
-image: "https://static.perigon.de/static/20260407-day-13-stuck-in-georgia-ureki-edition-12000-km-the-complete-silk-road-silkroad/ac1bcd1cab5d40fce4883ead1ebc23cd8e4db5e8dfbd7d02204835291338bfd0.jpg"
+image: "https://static.perigon.de/static/20260407-day-13-stuck-in-georgia-ureki-edition-12000-km-the-complete-silk-road-silkroad/c528ea3395b37205c91d227ee6a11c42dabae91307abec9f3b275b5e708c48f5.jpg"
 media:
-  - file: ac1bcd1cab5d40fce4883ead1ebc23cd8e4db5e8dfbd7d02204835291338bfd0.jpg
+  - file: c528ea3395b37205c91d227ee6a11c42dabae91307abec9f3b275b5e708c48f5.jpg
     type: image
-    url: https://static.perigon.de/static/20260407-day-13-stuck-in-georgia-ureki-edition-12000-km-the-complete-silk-road-silkroad/ac1bcd1cab5d40fce4883ead1ebc23cd8e4db5e8dfbd7d02204835291338bfd0.jpg
+    url: https://static.perigon.de/static/20260407-day-13-stuck-in-georgia-ureki-edition-12000-km-the-complete-silk-road-silkroad/c528ea3395b37205c91d227ee6a11c42dabae91307abec9f3b275b5e708c48f5.jpg
     width: 1080
     height: 810
     motto: true
