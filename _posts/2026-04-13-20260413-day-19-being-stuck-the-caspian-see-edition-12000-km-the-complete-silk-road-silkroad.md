@@ -7,11 +7,11 @@ motto: "Being stuck: The Caspian See Edition"
 teaser: "I am still stuck in Alat. The two ferries to Kuryk left this morning, though it was not possible to board them."
 tags:
   - silkroad
-image: "https://static.perigon.de/static/20260413-day-19-being-stuck-the-caspian-see-edition-12000-km-the-complete-silk-road-silkroad/0d46fb032ecc88dbd5879e6395a8f5c68624c8fdf110b3acbf9d9469b41329d9.jpg"
+image: "https://static.perigon.de/static/20260413-day-19-being-stuck-the-caspian-see-edition-12000-km-the-complete-silk-road-silkroad/ee85eb46529595c469986185cc4bb74aca3a0205671e5c977cb670aaaa68b4c9.jpg"
 media:
-  - file: 0d46fb032ecc88dbd5879e6395a8f5c68624c8fdf110b3acbf9d9469b41329d9.jpg
+  - file: ee85eb46529595c469986185cc4bb74aca3a0205671e5c977cb670aaaa68b4c9.jpg
     type: image
-    url: https://static.perigon.de/static/20260413-day-19-being-stuck-the-caspian-see-edition-12000-km-the-complete-silk-road-silkroad/0d46fb032ecc88dbd5879e6395a8f5c68624c8fdf110b3acbf9d9469b41329d9.jpg
+    url: https://static.perigon.de/static/20260413-day-19-being-stuck-the-caspian-see-edition-12000-km-the-complete-silk-road-silkroad/ee85eb46529595c469986185cc4bb74aca3a0205671e5c977cb670aaaa68b4c9.jpg
     width: 1080
     height: 810
     motto: true
@@ -20,9 +20,9 @@ media:
     url: https://static.perigon.de/static/20260413-day-19-being-stuck-the-caspian-see-edition-12000-km-the-complete-silk-road-silkroad/470e5ad48c4f2a1c2c8af41e6ea53351d8aab9c6530a5c1ab203c8257826f78b.jpg
     width: 1080
     height: 1080
-  - file: 068504817df090072b96e9cfcb813b7463f824be39a7cd8749af734aad1ba666.jpg
+  - file: d887fef3f15ffb9d98e5dcd86bfa622f914b64645f6cd3bdbf378dda68b96a4a.jpg
     type: image
-    url: https://static.perigon.de/static/20260413-day-19-being-stuck-the-caspian-see-edition-12000-km-the-complete-silk-road-silkroad/068504817df090072b96e9cfcb813b7463f824be39a7cd8749af734aad1ba666.jpg
+    url: https://static.perigon.de/static/20260413-day-19-being-stuck-the-caspian-see-edition-12000-km-the-complete-silk-road-silkroad/d887fef3f15ffb9d98e5dcd86bfa622f914b64645f6cd3bdbf378dda68b96a4a.jpg
     width: 1080
     height: 810
 ---
