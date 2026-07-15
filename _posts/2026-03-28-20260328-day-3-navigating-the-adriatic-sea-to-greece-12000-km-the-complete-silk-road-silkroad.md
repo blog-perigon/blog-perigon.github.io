@@ -15,59 +15,59 @@ media:
     width: 1080
     height: 1080
     motto: true
-  - file: e1607273c641d7c84d58360a273217c3211f5b70ccc6c2e37a4ad9cb9ccbbca4.jpg
+  - file: 96b02d6e1a1f677ddca5c29b7f66d578eaf25506329b11ed88ff630d770cef69.jpg
     type: image
-    url: https://static.perigon.de/static/20260328-day-3-navigating-the-adriatic-sea-to-greece-12000-km-the-complete-silk-road-silkroad/e1607273c641d7c84d58360a273217c3211f5b70ccc6c2e37a4ad9cb9ccbbca4.jpg
+    url: https://static.perigon.de/static/20260328-day-3-navigating-the-adriatic-sea-to-greece-12000-km-the-complete-silk-road-silkroad/96b02d6e1a1f677ddca5c29b7f66d578eaf25506329b11ed88ff630d770cef69.jpg
     width: 1080
     height: 810
-  - file: 08e3e81634d49e27e94fb6f55834ad7a14c56203f7507c30c0abf2b19611b73f.jpg
+  - file: f1ea90b448d58e1f2d6df83cb8c735a30b786b113fae9216c3db373bb1bad6e8.jpg
     type: image
-    url: https://static.perigon.de/static/20260328-day-3-navigating-the-adriatic-sea-to-greece-12000-km-the-complete-silk-road-silkroad/08e3e81634d49e27e94fb6f55834ad7a14c56203f7507c30c0abf2b19611b73f.jpg
+    url: https://static.perigon.de/static/20260328-day-3-navigating-the-adriatic-sea-to-greece-12000-km-the-complete-silk-road-silkroad/f1ea90b448d58e1f2d6df83cb8c735a30b786b113fae9216c3db373bb1bad6e8.jpg
     width: 1080
     height: 810
-  - file: 512959d6f42c75ed191d75b60774f5b602f55d499f121fd4c68f3a2115aeeb13.jpg
+  - file: 9849d2b9bb468e68287180484700f9f82d0f832e6701152f64ae239f69d0abfe.jpg
     type: image
-    url: https://static.perigon.de/static/20260328-day-3-navigating-the-adriatic-sea-to-greece-12000-km-the-complete-silk-road-silkroad/512959d6f42c75ed191d75b60774f5b602f55d499f121fd4c68f3a2115aeeb13.jpg
+    url: https://static.perigon.de/static/20260328-day-3-navigating-the-adriatic-sea-to-greece-12000-km-the-complete-silk-road-silkroad/9849d2b9bb468e68287180484700f9f82d0f832e6701152f64ae239f69d0abfe.jpg
     width: 1080
     height: 512
-  - file: b028a14f7afbdb9c708ce438f9191f934340b93a89f623211ba782aac8940866.jpg
+  - file: 58709b6b6d405081d9372a56f510811d644bbd3b84c3e959ca0ef632df4e449a.jpg
     type: image
-    url: https://static.perigon.de/static/20260328-day-3-navigating-the-adriatic-sea-to-greece-12000-km-the-complete-silk-road-silkroad/b028a14f7afbdb9c708ce438f9191f934340b93a89f623211ba782aac8940866.jpg
+    url: https://static.perigon.de/static/20260328-day-3-navigating-the-adriatic-sea-to-greece-12000-km-the-complete-silk-road-silkroad/58709b6b6d405081d9372a56f510811d644bbd3b84c3e959ca0ef632df4e449a.jpg
     width: 1080
     height: 810
-  - file: 67bdabbf9430959c52a59170b0dbad9e844cfc56b740a2cf2505d2d4b2686120.jpg
+  - file: 9cd5d55f11640a803126bf7dd9e493ef733dcc1a2d4525ed5d64cd2c01ec2013.jpg
     type: image
-    url: https://static.perigon.de/static/20260328-day-3-navigating-the-adriatic-sea-to-greece-12000-km-the-complete-silk-road-silkroad/67bdabbf9430959c52a59170b0dbad9e844cfc56b740a2cf2505d2d4b2686120.jpg
+    url: https://static.perigon.de/static/20260328-day-3-navigating-the-adriatic-sea-to-greece-12000-km-the-complete-silk-road-silkroad/9cd5d55f11640a803126bf7dd9e493ef733dcc1a2d4525ed5d64cd2c01ec2013.jpg
     width: 1080
     height: 810
-  - file: 8d734fa158dce19931e7ee6fbb899d105da617c9b2f789d90260b4575b06b628.jpg
+  - file: fcb2d07c9259d64dea9757126688b84f216f68dcc858d715cf2291135ae366ec.jpg
     type: image
-    url: https://static.perigon.de/static/20260328-day-3-navigating-the-adriatic-sea-to-greece-12000-km-the-complete-silk-road-silkroad/8d734fa158dce19931e7ee6fbb899d105da617c9b2f789d90260b4575b06b628.jpg
+    url: https://static.perigon.de/static/20260328-day-3-navigating-the-adriatic-sea-to-greece-12000-km-the-complete-silk-road-silkroad/fcb2d07c9259d64dea9757126688b84f216f68dcc858d715cf2291135ae366ec.jpg
     width: 810
     height: 1080
-  - file: b61182aabe90c1a51df2c9f6c2a798de4f75a6d82e6da0a8ec44256aff177642.jpg
+  - file: 9db1d523293ea5d7335647b2a0e632436c1e29b626ea3ba9394a95cde1c6f271.jpg
     type: image
-    url: https://static.perigon.de/static/20260328-day-3-navigating-the-adriatic-sea-to-greece-12000-km-the-complete-silk-road-silkroad/b61182aabe90c1a51df2c9f6c2a798de4f75a6d82e6da0a8ec44256aff177642.jpg
+    url: https://static.perigon.de/static/20260328-day-3-navigating-the-adriatic-sea-to-greece-12000-km-the-complete-silk-road-silkroad/9db1d523293ea5d7335647b2a0e632436c1e29b626ea3ba9394a95cde1c6f271.jpg
     width: 1080
     height: 810
-  - file: 6fb200df88d24d44ab59f19925c5aaf3efa68b854154a7efec7678a3106015ba.jpg
+  - file: bce7fcb04315dc91a97a3e0c61aeb6e4a9f77c2dcc4053d522b1e13f43ea8c70.jpg
     type: image
-    url: https://static.perigon.de/static/20260328-day-3-navigating-the-adriatic-sea-to-greece-12000-km-the-complete-silk-road-silkroad/6fb200df88d24d44ab59f19925c5aaf3efa68b854154a7efec7678a3106015ba.jpg
+    url: https://static.perigon.de/static/20260328-day-3-navigating-the-adriatic-sea-to-greece-12000-km-the-complete-silk-road-silkroad/bce7fcb04315dc91a97a3e0c61aeb6e4a9f77c2dcc4053d522b1e13f43ea8c70.jpg
     width: 1080
     height: 810
-  - file: 3f52fe99f37f299641d16da59e5f50fc327e729f2039315fc71475972c6a12b6.jpg
+  - file: f7545c5e88e05fb8aeb2359b065eccb4d0ee9fe074e0382d7c07d58d0b769170.jpg
     type: image
-    url: https://static.perigon.de/static/20260328-day-3-navigating-the-adriatic-sea-to-greece-12000-km-the-complete-silk-road-silkroad/3f52fe99f37f299641d16da59e5f50fc327e729f2039315fc71475972c6a12b6.jpg
+    url: https://static.perigon.de/static/20260328-day-3-navigating-the-adriatic-sea-to-greece-12000-km-the-complete-silk-road-silkroad/f7545c5e88e05fb8aeb2359b065eccb4d0ee9fe074e0382d7c07d58d0b769170.jpg
     width: 1080
     height: 810
-  - file: 305bd2c0df286aef05252ec52fbf1d027e2fc93a6426710833051ea31818a0f7.jpg
+  - file: 47c976c23fc850e65c68ce5015b14542680efceb64af623dd2b6371216b851f7.jpg
     type: image
-    url: https://static.perigon.de/static/20260328-day-3-navigating-the-adriatic-sea-to-greece-12000-km-the-complete-silk-road-silkroad/305bd2c0df286aef05252ec52fbf1d027e2fc93a6426710833051ea31818a0f7.jpg
+    url: https://static.perigon.de/static/20260328-day-3-navigating-the-adriatic-sea-to-greece-12000-km-the-complete-silk-road-silkroad/47c976c23fc850e65c68ce5015b14542680efceb64af623dd2b6371216b851f7.jpg
     width: 1080
     height: 765
-  - file: c7e891d85ea78fe9c0d9845bddd35a9265589f6d0f05cbfb70e5ea0bc45e0e49.jpg
+  - file: 03bbb4a755ef4ed511d8fb69fcf8b9f0f1f6dfae5dc0ae84f72d562cdc218d13.jpg
     type: image
-    url: https://static.perigon.de/static/20260328-day-3-navigating-the-adriatic-sea-to-greece-12000-km-the-complete-silk-road-silkroad/c7e891d85ea78fe9c0d9845bddd35a9265589f6d0f05cbfb70e5ea0bc45e0e49.jpg
+    url: https://static.perigon.de/static/20260328-day-3-navigating-the-adriatic-sea-to-greece-12000-km-the-complete-silk-road-silkroad/03bbb4a755ef4ed511d8fb69fcf8b9f0f1f6dfae5dc0ae84f72d562cdc218d13.jpg
     width: 810
     height: 1080
 ---
