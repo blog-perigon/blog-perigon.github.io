@@ -7,11 +7,11 @@ motto: "Trying to get a Ferry in Alat, Azerbaijan"
 teaser: "So I got stuck again - after having to fly to Baku, Azerbaijan because I did not get a permission to enter Azerbaijan on a land border - I am now stuck in Alat…"
 tags:
   - silkroad
-image: "https://static.perigon.de/static/20260412-day-18-trying-to-get-a-ferry-in-alat-azerbaijan-12000-km-the-complete-silk-road-silkroad/f26446f2dbf6a58b5ef9b3d5b7c9b4ebae438e7f2507cc78f6dc6fc525c8360d.jpg"
+image: "https://static.perigon.de/static/20260412-day-18-trying-to-get-a-ferry-in-alat-azerbaijan-12000-km-the-complete-silk-road-silkroad/02a75762d45942ecdd1ad9b674524fcd489eadee2665b1993c70227fa98e697f.jpg"
 media:
-  - file: f26446f2dbf6a58b5ef9b3d5b7c9b4ebae438e7f2507cc78f6dc6fc525c8360d.jpg
+  - file: 02a75762d45942ecdd1ad9b674524fcd489eadee2665b1993c70227fa98e697f.jpg
     type: image
-    url: https://static.perigon.de/static/20260412-day-18-trying-to-get-a-ferry-in-alat-azerbaijan-12000-km-the-complete-silk-road-silkroad/f26446f2dbf6a58b5ef9b3d5b7c9b4ebae438e7f2507cc78f6dc6fc525c8360d.jpg
+    url: https://static.perigon.de/static/20260412-day-18-trying-to-get-a-ferry-in-alat-azerbaijan-12000-km-the-complete-silk-road-silkroad/02a75762d45942ecdd1ad9b674524fcd489eadee2665b1993c70227fa98e697f.jpg
     width: 810
     height: 1080
     motto: true
@@ -20,34 +20,34 @@ media:
     url: https://static.perigon.de/static/20260412-day-18-trying-to-get-a-ferry-in-alat-azerbaijan-12000-km-the-complete-silk-road-silkroad/b937d77629e3d08a077836d4b1a25d5f909235b3409b04c210ef0916dbc0902a.jpg
     width: 1080
     height: 1080
-  - file: b836fdf9e6b6a9f415ad2de60faf97d60ae611d972b3b0c0c4e97418ec5ba734.jpg
+  - file: 38073a64076659c8a255e03deca08db2a34135b8b4052b1f017c8ec8c2e453b9.jpg
     type: image
-    url: https://static.perigon.de/static/20260412-day-18-trying-to-get-a-ferry-in-alat-azerbaijan-12000-km-the-complete-silk-road-silkroad/b836fdf9e6b6a9f415ad2de60faf97d60ae611d972b3b0c0c4e97418ec5ba734.jpg
+    url: https://static.perigon.de/static/20260412-day-18-trying-to-get-a-ferry-in-alat-azerbaijan-12000-km-the-complete-silk-road-silkroad/38073a64076659c8a255e03deca08db2a34135b8b4052b1f017c8ec8c2e453b9.jpg
     width: 1080
     height: 773
-  - file: 8ae2c24c6c87c00eb66a37f5463c483b3c7d027c64e847df252a1da411ccfc68.jpg
+  - file: 4fbbab7b3e856747559220c79094bf01ac528537f6a768f04e2d3aabfe983529.jpg
     type: image
-    url: https://static.perigon.de/static/20260412-day-18-trying-to-get-a-ferry-in-alat-azerbaijan-12000-km-the-complete-silk-road-silkroad/8ae2c24c6c87c00eb66a37f5463c483b3c7d027c64e847df252a1da411ccfc68.jpg
+    url: https://static.perigon.de/static/20260412-day-18-trying-to-get-a-ferry-in-alat-azerbaijan-12000-km-the-complete-silk-road-silkroad/4fbbab7b3e856747559220c79094bf01ac528537f6a768f04e2d3aabfe983529.jpg
     width: 1080
     height: 810
-  - file: 3a9eda4ab846489948d758a9197879f105a612b0556a797c8ad440e414f13289.jpg
+  - file: a57cd6c0923593e4c27ebd8611ee429e37f88ef0dc2403e3b57f39b5100ec73a.jpg
     type: image
-    url: https://static.perigon.de/static/20260412-day-18-trying-to-get-a-ferry-in-alat-azerbaijan-12000-km-the-complete-silk-road-silkroad/3a9eda4ab846489948d758a9197879f105a612b0556a797c8ad440e414f13289.jpg
+    url: https://static.perigon.de/static/20260412-day-18-trying-to-get-a-ferry-in-alat-azerbaijan-12000-km-the-complete-silk-road-silkroad/a57cd6c0923593e4c27ebd8611ee429e37f88ef0dc2403e3b57f39b5100ec73a.jpg
     width: 810
     height: 1080
-  - file: f8307bc718775653c65e373059e4588911f1c71108732bdd7e5aa4295418ff58.jpg
+  - file: 8f9eef1154db6dd61107a9b2f1fe2ef7b9684c83202b88ef0bacc8706b0e20bc.jpg
     type: image
-    url: https://static.perigon.de/static/20260412-day-18-trying-to-get-a-ferry-in-alat-azerbaijan-12000-km-the-complete-silk-road-silkroad/f8307bc718775653c65e373059e4588911f1c71108732bdd7e5aa4295418ff58.jpg
+    url: https://static.perigon.de/static/20260412-day-18-trying-to-get-a-ferry-in-alat-azerbaijan-12000-km-the-complete-silk-road-silkroad/8f9eef1154db6dd61107a9b2f1fe2ef7b9684c83202b88ef0bacc8706b0e20bc.jpg
     width: 810
     height: 1080
-  - file: 9611213005be1536915505a808cbd4d2d18b377c5bfb027c947ea5e25d761377.jpg
+  - file: 7dff4995b998cf0a620e6387004eb6bf9b23ba195c7fb5377af210c1ada899f3.jpg
     type: image
-    url: https://static.perigon.de/static/20260412-day-18-trying-to-get-a-ferry-in-alat-azerbaijan-12000-km-the-complete-silk-road-silkroad/9611213005be1536915505a808cbd4d2d18b377c5bfb027c947ea5e25d761377.jpg
+    url: https://static.perigon.de/static/20260412-day-18-trying-to-get-a-ferry-in-alat-azerbaijan-12000-km-the-complete-silk-road-silkroad/7dff4995b998cf0a620e6387004eb6bf9b23ba195c7fb5377af210c1ada899f3.jpg
     width: 1080
     height: 810
-  - file: 150b730c543c1fa5593b4639aea7e4678442c5a47e520e8f161adfb3b304d916.jpg
+  - file: a00b8fd7fabac721de2ddcd83e93cf88dd4a92e88de12127de2b8bda17410d37.jpg
     type: image
-    url: https://static.perigon.de/static/20260412-day-18-trying-to-get-a-ferry-in-alat-azerbaijan-12000-km-the-complete-silk-road-silkroad/150b730c543c1fa5593b4639aea7e4678442c5a47e520e8f161adfb3b304d916.jpg
+    url: https://static.perigon.de/static/20260412-day-18-trying-to-get-a-ferry-in-alat-azerbaijan-12000-km-the-complete-silk-road-silkroad/a00b8fd7fabac721de2ddcd83e93cf88dd4a92e88de12127de2b8bda17410d37.jpg
     width: 827
     height: 1080
 ---
