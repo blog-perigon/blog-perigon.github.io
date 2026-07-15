@@ -7,11 +7,11 @@ motto: "Stuck in Georgia, Going to Tbilisi"
 teaser: "I am still stuck in Georgia, and have not got the permission to enter Azerbaijan on a land border, though I decided to go to Tbilisi in case I get it before the…"
 tags:
   - silkroad
-image: "https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/a9a321bf53311d83237f8205c09747b9c59eda188302183020314de089ae8958.jpg"
+image: "https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/c16ab0f6da868c18e5e85f6e336ee625b251801a7497dccc3c8aff512c3b539d.jpg"
 media:
-  - file: a9a321bf53311d83237f8205c09747b9c59eda188302183020314de089ae8958.jpg
+  - file: c16ab0f6da868c18e5e85f6e336ee625b251801a7497dccc3c8aff512c3b539d.jpg
     type: image
-    url: https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/a9a321bf53311d83237f8205c09747b9c59eda188302183020314de089ae8958.jpg
+    url: https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/c16ab0f6da868c18e5e85f6e336ee625b251801a7497dccc3c8aff512c3b539d.jpg
     width: 720
     height: 687
     motto: true
@@ -30,19 +30,19 @@ media:
     url: https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/c6321b74ed8888fee54577cdb2b706b48c35940eb478c700d9461aa17ac18617.jpg
     width: 1080
     height: 810
-  - file: ba10cdfc6149bd512967ad5e28480d12812b353810d8c4a5f7d7f9ae2542ead6.jpg
+  - file: 7b51373ac7a653cafd5eaaf565c9edc7b2bfdcfb3a87dab2a123a570eb77d202.jpg
     type: image
-    url: https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/ba10cdfc6149bd512967ad5e28480d12812b353810d8c4a5f7d7f9ae2542ead6.jpg
+    url: https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/7b51373ac7a653cafd5eaaf565c9edc7b2bfdcfb3a87dab2a123a570eb77d202.jpg
     width: 1080
     height: 657
-  - file: 74e2d3036d8ea6bbe0b15e189864f098f85e53cef8368865f36131d2f56156e1.jpg
+  - file: f51ed07ba14e88c6878846bf03b26e3aa8da8eab940788b7057e15f161357285.jpg
     type: image
-    url: https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/74e2d3036d8ea6bbe0b15e189864f098f85e53cef8368865f36131d2f56156e1.jpg
+    url: https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/f51ed07ba14e88c6878846bf03b26e3aa8da8eab940788b7057e15f161357285.jpg
     width: 1080
     height: 667
-  - file: 1a08be9ad43230aa4822b001820036092f7a0cfcb05a70d775d1de17803c13ed.jpg
+  - file: f805dd12b9e8924e2876dda8274c96d91dcc467edd437816ca1d7a64d26bbff2.jpg
     type: image
-    url: https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/1a08be9ad43230aa4822b001820036092f7a0cfcb05a70d775d1de17803c13ed.jpg
+    url: https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/f805dd12b9e8924e2876dda8274c96d91dcc467edd437816ca1d7a64d26bbff2.jpg
     width: 1080
     height: 586
   - file: 15079968ba3d3525518fabbdfb7d3d5a57295740c0b4857ca1cfe5c86994feae.jpg
@@ -50,9 +50,9 @@ media:
     url: https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/15079968ba3d3525518fabbdfb7d3d5a57295740c0b4857ca1cfe5c86994feae.jpg
     width: 810
     height: 1080
-  - file: 95d45a92a7b10fe0167834a851a2b3febd4815f62b905d8177867503e020110f.jpg
+  - file: 11f9451d331cc43adadff08e7916b9175c7bd299dd50f8c76e47dcd459e32785.jpg
     type: image
-    url: https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/95d45a92a7b10fe0167834a851a2b3febd4815f62b905d8177867503e020110f.jpg
+    url: https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/11f9451d331cc43adadff08e7916b9175c7bd299dd50f8c76e47dcd459e32785.jpg
     width: 1080
     height: 648
   - file: e4a1f5c09d525448a1b75f3579a0be82547db25c9b1043141a82e1b1945092c1.jpg
@@ -70,34 +70,34 @@ media:
     url: https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/594e19af93250ce8c6fb8ec8a95bf929a1da682a2aa36e48831ec5b9302f8e97.jpg
     width: 1080
     height: 810
-  - file: cb14bdcfd472dcfcab3b529750743f7a4050e3f4098c462e6c2c16d190640151.jpg
+  - file: b4d47a88aaa12698d26b4580a8e0b3c706a511953c62dcca3e32179da77858df.jpg
     type: image
-    url: https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/cb14bdcfd472dcfcab3b529750743f7a4050e3f4098c462e6c2c16d190640151.jpg
+    url: https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/b4d47a88aaa12698d26b4580a8e0b3c706a511953c62dcca3e32179da77858df.jpg
     width: 1080
     height: 569
-  - file: fd7ed17320a592b3d5608257d8e9cc1e48e04c76ce1d1d6902876707706de8bd.jpg
+  - file: f173787fd7f80007037099521175773debfa37bad4ba9513841d710aa698ed56.jpg
     type: image
-    url: https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/fd7ed17320a592b3d5608257d8e9cc1e48e04c76ce1d1d6902876707706de8bd.jpg
+    url: https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/f173787fd7f80007037099521175773debfa37bad4ba9513841d710aa698ed56.jpg
     width: 1080
     height: 607
-  - file: 43603f297319fce501eeb642192a4e1f102ad2b92e9d5d00ba18aeeabe94d412.jpg
+  - file: 04f592e38023691ad5f49602968d00be644ba98677263744aa57be8d35cd8a64.jpg
     type: image
-    url: https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/43603f297319fce501eeb642192a4e1f102ad2b92e9d5d00ba18aeeabe94d412.jpg
+    url: https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/04f592e38023691ad5f49602968d00be644ba98677263744aa57be8d35cd8a64.jpg
     width: 1080
     height: 505
-  - file: a6d724754d69f156f9798f18921c54a2cf0afd368c9d8e35e5cf090a66407f63.jpg
+  - file: c1ad1265a76db850254e3718e3fda3d55988d6f9bf13ebb477a814fc364a71e7.jpg
     type: image
-    url: https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/a6d724754d69f156f9798f18921c54a2cf0afd368c9d8e35e5cf090a66407f63.jpg
+    url: https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/c1ad1265a76db850254e3718e3fda3d55988d6f9bf13ebb477a814fc364a71e7.jpg
     width: 1066
     height: 690
-  - file: cefc8b06f5949275f837c62ac881f545222dcc5ec0b38c96471b1ffe2ac82d8c.jpg
+  - file: 4421de65b6bbd80f554817c94c215b313742e0e1fc509c8927da628fd58c6511.jpg
     type: image
-    url: https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/cefc8b06f5949275f837c62ac881f545222dcc5ec0b38c96471b1ffe2ac82d8c.jpg
+    url: https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/4421de65b6bbd80f554817c94c215b313742e0e1fc509c8927da628fd58c6511.jpg
     width: 1080
     height: 584
-  - file: 16d2febafad9714146530e0e366efbca7d95e8d035043724ccd72d9909ac1055.jpg
+  - file: 37d07826fb22aae99a01a10df77f727816cc18491c43e2254bb75f05480e909f.jpg
     type: image
-    url: https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/16d2febafad9714146530e0e366efbca7d95e8d035043724ccd72d9909ac1055.jpg
+    url: https://static.perigon.de/static/20260409-day-15-stuck-in-georgia-going-to-tbilisi-12000-km-the-complete-silk-road-silkroad/37d07826fb22aae99a01a10df77f727816cc18491c43e2254bb75f05480e909f.jpg
     width: 1080
     height: 679
   - file: 1cda986d9f23085822d8f83e51bde459cfecb4bc12822b66af51529cc565a144.jpg
