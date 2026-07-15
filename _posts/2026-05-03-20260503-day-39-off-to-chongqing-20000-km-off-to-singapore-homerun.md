@@ -170,10 +170,10 @@ media:
     url: https://static.perigon.de/static/20260503-day-39-off-to-chongqing-20000-km-off-to-singapore-homerun/14d8b98ed6fd655fe802a5eb6431d422f9292f193d69c6fe2a0f4ab3752d44a1.jpg
     width: 607
     height: 1080
-  - file: 7b2cd9c342a422ea5a00f628fa00b27af75d7d16e2c1b55017d6b17ba335bd5a.jpg
+  - file: fa050c5aa6cd4f89326c5496e75e6bfe9b367baeda312d3fc7e24799d54b8abd.jpg
     type: image
-    url: https://static.perigon.de/static/20260503-day-39-off-to-chongqing-20000-km-off-to-singapore-homerun/7b2cd9c342a422ea5a00f628fa00b27af75d7d16e2c1b55017d6b17ba335bd5a.jpg
-    width: 172
+    url: https://static.perigon.de/static/20260503-day-39-off-to-chongqing-20000-km-off-to-singapore-homerun/fa050c5aa6cd4f89326c5496e75e6bfe9b367baeda312d3fc7e24799d54b8abd.jpg
+    width: 138
     height: 1080
   - file: 33b9eca5125bfd9cd18d0fa5b279cd24085ca1dc9b80829a4c25e96329896353.jpg
     type: image
