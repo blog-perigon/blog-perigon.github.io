@@ -7,52 +7,52 @@ motto: "Being Stuck: The Caspian Sea Edition #3"
 teaser: "I spent my whole day within a circle of about 200m radius, the anchor chain is less then 50m, due to the shifting wind the ship almost completed a full circle."
 tags:
   - silkroad
-image: "https://static.perigon.de/static/20260415-day-21-being-stuck-the-caspian-sea-edition-3-12000-km-the-complete-silk-road-silkroad/fb3cc43e315ef79860d09186f6bd112501202dd345111e17daf797c2cb3981ee.jpg"
+image: "https://static.perigon.de/static/20260415-day-21-being-stuck-the-caspian-sea-edition-3-12000-km-the-complete-silk-road-silkroad/0a0d8441e3d6eb2f87ef42179c7dce18555cf923f78c5b9c14d346b6f3540131.jpg"
 media:
-  - file: fb3cc43e315ef79860d09186f6bd112501202dd345111e17daf797c2cb3981ee.jpg
+  - file: 0a0d8441e3d6eb2f87ef42179c7dce18555cf923f78c5b9c14d346b6f3540131.jpg
     type: image
-    url: https://static.perigon.de/static/20260415-day-21-being-stuck-the-caspian-sea-edition-3-12000-km-the-complete-silk-road-silkroad/fb3cc43e315ef79860d09186f6bd112501202dd345111e17daf797c2cb3981ee.jpg
+    url: https://static.perigon.de/static/20260415-day-21-being-stuck-the-caspian-sea-edition-3-12000-km-the-complete-silk-road-silkroad/0a0d8441e3d6eb2f87ef42179c7dce18555cf923f78c5b9c14d346b6f3540131.jpg
     width: 1080
     height: 810
     motto: true
-  - file: fd7877144e19a341d2c0b520e4c76d71698e1b88996f0d41f55bb74656824f37.jpg
+  - file: 5a9cfade25912e10b8d365cd20c175ba9baafc298100675b80683b13aab56540.jpg
     type: image
-    url: https://static.perigon.de/static/20260415-day-21-being-stuck-the-caspian-sea-edition-3-12000-km-the-complete-silk-road-silkroad/fd7877144e19a341d2c0b520e4c76d71698e1b88996f0d41f55bb74656824f37.jpg
+    url: https://static.perigon.de/static/20260415-day-21-being-stuck-the-caspian-sea-edition-3-12000-km-the-complete-silk-road-silkroad/5a9cfade25912e10b8d365cd20c175ba9baafc298100675b80683b13aab56540.jpg
     width: 1080
     height: 680
-  - file: cb7dac52ab11203e4541478ac59a99389f4fa11375c7712ddf3cbec8160638fe.jpg
+  - file: 37aed9f22d155ac5b99b16637cdc4ccbb4fcd8cddb4fab25c7d3a1e2af4dae6d.jpg
     type: image
-    url: https://static.perigon.de/static/20260415-day-21-being-stuck-the-caspian-sea-edition-3-12000-km-the-complete-silk-road-silkroad/cb7dac52ab11203e4541478ac59a99389f4fa11375c7712ddf3cbec8160638fe.jpg
+    url: https://static.perigon.de/static/20260415-day-21-being-stuck-the-caspian-sea-edition-3-12000-km-the-complete-silk-road-silkroad/37aed9f22d155ac5b99b16637cdc4ccbb4fcd8cddb4fab25c7d3a1e2af4dae6d.jpg
     width: 1080
     height: 810
-  - file: a3efcbeeba88bc1ec1a8d152752b5a1abbd3f46abf97d5ccc611dc63df01e2c9.jpg
+  - file: aaba2f92ed21704a502ac72436d2c8576999333420918fb7c20b411ca8dc719e.jpg
     type: image
-    url: https://static.perigon.de/static/20260415-day-21-being-stuck-the-caspian-sea-edition-3-12000-km-the-complete-silk-road-silkroad/a3efcbeeba88bc1ec1a8d152752b5a1abbd3f46abf97d5ccc611dc63df01e2c9.jpg
+    url: https://static.perigon.de/static/20260415-day-21-being-stuck-the-caspian-sea-edition-3-12000-km-the-complete-silk-road-silkroad/aaba2f92ed21704a502ac72436d2c8576999333420918fb7c20b411ca8dc719e.jpg
     width: 810
     height: 1080
-  - file: 6f08254c9c2a18ecafbd1bd541637a148939f648269b670b2c0926c5c3e6535a.jpg
+  - file: f6d9e686dff4621858051180efbbe4aa03a776d82ed1ded81bb4f48b8c120246.jpg
     type: image
-    url: https://static.perigon.de/static/20260415-day-21-being-stuck-the-caspian-sea-edition-3-12000-km-the-complete-silk-road-silkroad/6f08254c9c2a18ecafbd1bd541637a148939f648269b670b2c0926c5c3e6535a.jpg
+    url: https://static.perigon.de/static/20260415-day-21-being-stuck-the-caspian-sea-edition-3-12000-km-the-complete-silk-road-silkroad/f6d9e686dff4621858051180efbbe4aa03a776d82ed1ded81bb4f48b8c120246.jpg
     width: 1080
     height: 810
-  - file: 84ae358c40e55a5d467ac37b1e9d4a23b9f652c8c46d76f697da5cf2967bc97a.jpg
+  - file: 79bcc751135fa989f6041da3a34552fbe6fbb48a653763d450f811960c484750.jpg
     type: image
-    url: https://static.perigon.de/static/20260415-day-21-being-stuck-the-caspian-sea-edition-3-12000-km-the-complete-silk-road-silkroad/84ae358c40e55a5d467ac37b1e9d4a23b9f652c8c46d76f697da5cf2967bc97a.jpg
+    url: https://static.perigon.de/static/20260415-day-21-being-stuck-the-caspian-sea-edition-3-12000-km-the-complete-silk-road-silkroad/79bcc751135fa989f6041da3a34552fbe6fbb48a653763d450f811960c484750.jpg
     width: 1080
     height: 810
-  - file: 2193742b5b5efa4e2611edfe4a8d2cd96aae9468ea4d0c1464711340b68e3684.jpg
+  - file: 6cdf0138aa759ea49a3faa5be0042a350cd69c56ddce4176ab2129356093cac9.jpg
     type: image
-    url: https://static.perigon.de/static/20260415-day-21-being-stuck-the-caspian-sea-edition-3-12000-km-the-complete-silk-road-silkroad/2193742b5b5efa4e2611edfe4a8d2cd96aae9468ea4d0c1464711340b68e3684.jpg
+    url: https://static.perigon.de/static/20260415-day-21-being-stuck-the-caspian-sea-edition-3-12000-km-the-complete-silk-road-silkroad/6cdf0138aa759ea49a3faa5be0042a350cd69c56ddce4176ab2129356093cac9.jpg
     width: 810
     height: 1080
-  - file: 44a090d067c4995be63c53e6dd5d58e25b5896a30371c6bc4ab05302fdc2c157.jpg
+  - file: 73e633b86c49ec75c6a72b220b9a40edb50a4ded86b9e64a706866dc79f75ba0.jpg
     type: image
-    url: https://static.perigon.de/static/20260415-day-21-being-stuck-the-caspian-sea-edition-3-12000-km-the-complete-silk-road-silkroad/44a090d067c4995be63c53e6dd5d58e25b5896a30371c6bc4ab05302fdc2c157.jpg
+    url: https://static.perigon.de/static/20260415-day-21-being-stuck-the-caspian-sea-edition-3-12000-km-the-complete-silk-road-silkroad/73e633b86c49ec75c6a72b220b9a40edb50a4ded86b9e64a706866dc79f75ba0.jpg
     width: 810
     height: 1080
-  - file: f107a2026788cd0f2498aef36ca6b9643b266f621d90ce2a5fc3e7b7792ae65a.jpg
+  - file: 86e2f5190abf7467e87a5a4e93b6773ee43a419237ea7b2bce867604f973b63c.jpg
     type: image
-    url: https://static.perigon.de/static/20260415-day-21-being-stuck-the-caspian-sea-edition-3-12000-km-the-complete-silk-road-silkroad/f107a2026788cd0f2498aef36ca6b9643b266f621d90ce2a5fc3e7b7792ae65a.jpg
+    url: https://static.perigon.de/static/20260415-day-21-being-stuck-the-caspian-sea-edition-3-12000-km-the-complete-silk-road-silkroad/86e2f5190abf7467e87a5a4e93b6773ee43a419237ea7b2bce867604f973b63c.jpg
     width: 1080
     height: 810
 ---
