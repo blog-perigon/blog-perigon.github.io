@@ -7,112 +7,112 @@ motto: "Vientiane to Nong Khai"
 teaser: "I could not get a ticket from Vientiane to Bangkok, so I crossed the Mekong River to Thailand to fetch the train from the station there, next morning."
 tags:
   - homerun
-image: "https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/4bf942d4f53817ed9f3ee773aa616d492351e5fa4cb4f74de3b7937e0611c067.jpg"
+image: "https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/d0c757c28306818614db729eb2a70f1917db317cc9bad0a486007af4bb9f6b9c.jpg"
 media:
-  - file: 4bf942d4f53817ed9f3ee773aa616d492351e5fa4cb4f74de3b7937e0611c067.jpg
+  - file: d0c757c28306818614db729eb2a70f1917db317cc9bad0a486007af4bb9f6b9c.jpg
     type: image
-    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/4bf942d4f53817ed9f3ee773aa616d492351e5fa4cb4f74de3b7937e0611c067.jpg
+    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/d0c757c28306818614db729eb2a70f1917db317cc9bad0a486007af4bb9f6b9c.jpg
     width: 607
     height: 1080
     motto: true
-  - file: 72b360e5fb324b5a667cc9b6a33b675db6732371b631b02770ffd0991e5cf0a6.jpg
+  - file: 9ad81917cb5e506b598b85f7094735f947fc2562b9402924ed3b3322e080576d.jpg
     type: image
-    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/72b360e5fb324b5a667cc9b6a33b675db6732371b631b02770ffd0991e5cf0a6.jpg
+    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/9ad81917cb5e506b598b85f7094735f947fc2562b9402924ed3b3322e080576d.jpg
     width: 607
     height: 1080
-  - file: 2d2a0ab1735c2f7ef556a33e62119999bedcc75c936351a00456eae6f12020ec.jpg
+  - file: ac67190c2df67dd26bb99e5ee8229d89f444611937fedc7a3c604ea64d51e778.jpg
     type: image
-    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/2d2a0ab1735c2f7ef556a33e62119999bedcc75c936351a00456eae6f12020ec.jpg
+    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/ac67190c2df67dd26bb99e5ee8229d89f444611937fedc7a3c604ea64d51e778.jpg
     width: 607
     height: 1080
-  - file: a255f6ed1c5dc2ac1b406078bf714a1aec58c8579b283a50ce12056d10b7bf36.jpg
+  - file: acc9979a274f2f19b91897728fd32ec9550f81b0061615ff87309b71624fa4a0.jpg
     type: image
-    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/a255f6ed1c5dc2ac1b406078bf714a1aec58c8579b283a50ce12056d10b7bf36.jpg
+    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/acc9979a274f2f19b91897728fd32ec9550f81b0061615ff87309b71624fa4a0.jpg
     width: 607
     height: 1080
-  - file: b33288b682ef38720f128651bcdcf4cf0589a46b9d363d51d9b326a66f58c579.jpg
+  - file: b6dfd008e4cac5af2d5319ddf93297e64358981b5c37a2370bdbfecdaa62275c.jpg
     type: image
-    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/b33288b682ef38720f128651bcdcf4cf0589a46b9d363d51d9b326a66f58c579.jpg
+    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/b6dfd008e4cac5af2d5319ddf93297e64358981b5c37a2370bdbfecdaa62275c.jpg
     width: 607
     height: 1080
-  - file: 743664affd38588401b92468e460e9fe3b4f1c89fd9e396c9e47e5a7f1269905.jpg
+  - file: 190fccd639d9035e17cf3b079e08c2650bebdad5dababb1c72a1259b91ba4176.jpg
     type: image
-    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/743664affd38588401b92468e460e9fe3b4f1c89fd9e396c9e47e5a7f1269905.jpg
+    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/190fccd639d9035e17cf3b079e08c2650bebdad5dababb1c72a1259b91ba4176.jpg
     width: 607
     height: 1080
-  - file: e0adc894c2dfe43c8eb72ac8adb2bd36dec2a0e9dd188780de8f93785e53901a.jpg
+  - file: 6648907658be225948db52a2b20ad75ae801e4e4d05f9d8f93c454eb692c5bad.jpg
     type: image
-    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/e0adc894c2dfe43c8eb72ac8adb2bd36dec2a0e9dd188780de8f93785e53901a.jpg
+    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/6648907658be225948db52a2b20ad75ae801e4e4d05f9d8f93c454eb692c5bad.jpg
     width: 607
     height: 1080
-  - file: 6a09f8ebe8c1f9a4096624cdce6b7c7a1e4e1313ce099f79d8428eefdf407d4a.jpg
+  - file: 6bd1f589af2c14b0543a8d4e7ce2a4f2b86624517234a3e3a31296e7fa44765c.jpg
     type: image
-    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/6a09f8ebe8c1f9a4096624cdce6b7c7a1e4e1313ce099f79d8428eefdf407d4a.jpg
+    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/6bd1f589af2c14b0543a8d4e7ce2a4f2b86624517234a3e3a31296e7fa44765c.jpg
     width: 607
     height: 1080
-  - file: 7c9eebd78367040183f4e7834a754c7f659aa20a29c1b403297b2ffe0908710b.jpg
+  - file: 90f6cfaa36ba61a3face35fe40b43c7a2c621afbf47dc105059bffbf24468b9b.jpg
     type: image
-    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/7c9eebd78367040183f4e7834a754c7f659aa20a29c1b403297b2ffe0908710b.jpg
+    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/90f6cfaa36ba61a3face35fe40b43c7a2c621afbf47dc105059bffbf24468b9b.jpg
     width: 607
     height: 1080
-  - file: 6379a64cd067e5bb017f4190537e5300ea993e86159a421bbe3b4cebe4e6dd67.jpg
+  - file: a8cc639778cdeb113837b62a71463ae10f1958a6d6edc97ac0e28c42ab4b1f1d.jpg
     type: image
-    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/6379a64cd067e5bb017f4190537e5300ea993e86159a421bbe3b4cebe4e6dd67.jpg
+    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/a8cc639778cdeb113837b62a71463ae10f1958a6d6edc97ac0e28c42ab4b1f1d.jpg
     width: 607
     height: 1080
-  - file: 1f0e8c0e2d576f61c86f6e694411c5da768adbacc97798bad3b9b4c425793819.jpg
+  - file: 160de72132e4df6725b46c569a64deecc0440d005e0aabd347778d224509a1ca.jpg
     type: image
-    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/1f0e8c0e2d576f61c86f6e694411c5da768adbacc97798bad3b9b4c425793819.jpg
+    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/160de72132e4df6725b46c569a64deecc0440d005e0aabd347778d224509a1ca.jpg
     width: 607
     height: 1080
-  - file: e27d4b4690f800ef39442b9ce414d9579453ca629068cb619161655239919ba6.jpg
+  - file: 9444286f0e64b2ddea3ce3f286f1cdf1ef73eb9bf89c207ccf99f3687f52909d.jpg
     type: image
-    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/e27d4b4690f800ef39442b9ce414d9579453ca629068cb619161655239919ba6.jpg
+    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/9444286f0e64b2ddea3ce3f286f1cdf1ef73eb9bf89c207ccf99f3687f52909d.jpg
     width: 607
     height: 1080
-  - file: 562f08c6be4b2fced206d36dffe990084c02b6e1b6679ee131b68ee9e3522fb0.jpg
+  - file: 82aee9efe92ce1623cac789916c9329fb345949cba1842f92d314147c218e90d.jpg
     type: image
-    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/562f08c6be4b2fced206d36dffe990084c02b6e1b6679ee131b68ee9e3522fb0.jpg
+    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/82aee9efe92ce1623cac789916c9329fb345949cba1842f92d314147c218e90d.jpg
     width: 607
     height: 1080
-  - file: c5ddb8fd4832725781f92db3c58f4916570e3b04ff793cb05b475feef65885f2.jpg
+  - file: a8e8018481c3e9221fe750fc320d114e586937c86fc202f5162f19d228766592.jpg
     type: image
-    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/c5ddb8fd4832725781f92db3c58f4916570e3b04ff793cb05b475feef65885f2.jpg
+    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/a8e8018481c3e9221fe750fc320d114e586937c86fc202f5162f19d228766592.jpg
     width: 607
     height: 1080
-  - file: 34773de1a6a9184316cad02f1cb3509aeae531a6dcb0e3cd30c0c567c201bd0c.jpg
+  - file: bf5d20b75860369de5f947bf9b4e1d3e37fdecc4e12dd16af3c665e7015e9141.jpg
     type: image
-    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/34773de1a6a9184316cad02f1cb3509aeae531a6dcb0e3cd30c0c567c201bd0c.jpg
+    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/bf5d20b75860369de5f947bf9b4e1d3e37fdecc4e12dd16af3c665e7015e9141.jpg
     width: 607
     height: 1080
-  - file: 551b28e6605c89b7ce5001c8a90451bbfb40b76bbd6b50334ba6b398bb17a1fc.jpg
+  - file: f2374a3fa64820dc0c168a590d8eab8e48f77cb67ca28fe33d0ea1667f92397c.jpg
     type: image
-    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/551b28e6605c89b7ce5001c8a90451bbfb40b76bbd6b50334ba6b398bb17a1fc.jpg
+    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/f2374a3fa64820dc0c168a590d8eab8e48f77cb67ca28fe33d0ea1667f92397c.jpg
     width: 607
     height: 1080
-  - file: adc2cd516ba21a8e7752ae23a7e1b260d169b81a9f993f7557072606d9062596.jpg
+  - file: 6a9108707272179d9f8ec3058000256ef96995d2f9a46068f90945ddb14de28b.jpg
     type: image
-    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/adc2cd516ba21a8e7752ae23a7e1b260d169b81a9f993f7557072606d9062596.jpg
+    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/6a9108707272179d9f8ec3058000256ef96995d2f9a46068f90945ddb14de28b.jpg
     width: 607
     height: 1080
-  - file: 74937313f7c9d0b159fa40906d1f96474ee67c3fe48e53bb572a8c0330e164ea.jpg
+  - file: d61dd642a997a8cecb8ae85837f0d2d94e15fa03e7adfd53106e21e16b3dac55.jpg
     type: image
-    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/74937313f7c9d0b159fa40906d1f96474ee67c3fe48e53bb572a8c0330e164ea.jpg
+    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/d61dd642a997a8cecb8ae85837f0d2d94e15fa03e7adfd53106e21e16b3dac55.jpg
     width: 607
     height: 1080
-  - file: 7851dfa3b1d2d139b20d3fcfd2c3ab849347edce3185db14aabea086b6fb563c.jpg
+  - file: c433dec9763eb2f54289ba921d99ba8a39e3aec48655a08d4feedf9204d475f3.jpg
     type: image
-    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/7851dfa3b1d2d139b20d3fcfd2c3ab849347edce3185db14aabea086b6fb563c.jpg
+    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/c433dec9763eb2f54289ba921d99ba8a39e3aec48655a08d4feedf9204d475f3.jpg
     width: 607
     height: 1080
-  - file: e72620d1ac81f9884f5c60bf722a071487bd78d7d665d159e6f4c14576fe84ee.jpg
+  - file: c29c9d9f6d492126252dff5b9f4a75b499aadbfbfbe168e38aa25c1753623e65.jpg
     type: image
-    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/e72620d1ac81f9884f5c60bf722a071487bd78d7d665d159e6f4c14576fe84ee.jpg
+    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/c29c9d9f6d492126252dff5b9f4a75b499aadbfbfbe168e38aa25c1753623e65.jpg
     width: 607
     height: 1080
-  - file: 77930c7382592ed39c7017935c64408c5f38cce457db44774d9c84427190eb37.jpg
+  - file: 7fc3af5022734faaaff7a3b5ef12320da971e87dbce6dc076320a74050eb58fc.jpg
     type: image
-    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/77930c7382592ed39c7017935c64408c5f38cce457db44774d9c84427190eb37.jpg
+    url: https://static.perigon.de/static/20260508-day-44-vientiane-to-nong-khai-20000-km-off-to-singapore-homerun/7fc3af5022734faaaff7a3b5ef12320da971e87dbce6dc076320a74050eb58fc.jpg
     width: 607
     height: 1080
 ---
